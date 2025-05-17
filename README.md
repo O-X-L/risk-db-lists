@@ -84,8 +84,8 @@ Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 
 * `ip/vpn.txt` (*from ASN*)
 * `ip/crawler.txt` (*from ASN*)
 * `ip/scanner.txt` (*from ASN*)
-* `ip/dynamic.txt` (*from PTR*)
-* `ip/proxy.txt` (*from PTR*)
+* `ip/dynamic.txt`
+* `ip/proxy.txt`
 * `ip/tor.txt`
 
 **Most reported**:
