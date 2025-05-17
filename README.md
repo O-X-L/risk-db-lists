@@ -14,6 +14,8 @@ Main repository: [O-X-L/risk-db](https://github.com/O-X-L/risk-db)
 
 You can find the processed data and source-code for the reporting/processing of data here: [O-X-L/risk-db](https://github.com/O-X-L/risk-db)
 
+You can find the raw report-data here: [O-X-L/risk-db-archive](https://github.com/O-X-L/risk-db-archive)
+
 ----
 
 ## Usage
