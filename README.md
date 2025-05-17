@@ -88,7 +88,7 @@ Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 
 * `ip/scanner.txt` (*from ASN*)
 * `ip/dynamic.txt`
 * `ip/proxy.txt`
-* `ip/tor.txt`
+* `ip/tor.txt` (*Note: you can find the full list of tor-exit-nodes here:* [check.torproject.org](https://check.torproject.org/torbulkexitlist))
 
 **Most reported**:
 * `ip/top_10000.txt`
