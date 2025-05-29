@@ -10,6 +10,15 @@ Main repository: [O-X-L/risk-db](https://github.com/O-X-L/risk-db)
 
 ----
 
+## Contribute
+
+If you have ideas for additional useful lists we could build:
+
+* Start [a discussion](https://github.com/O-X-L/risk-db-lists/discussions)
+* Or E-Mail us: [risk-db@oxl.at](mailto:risk-db@oxl.at)
+
+----
+
 ## Reporting, Processing & Processed Data
 
 You can find the processed data and source-code for the reporting/processing of data here: [O-X-L/risk-db](https://github.com/O-X-L/risk-db)
@@ -41,11 +50,11 @@ Be aware that we cannot verify if reports are false-positives. We currently only
 ### ASN / Internet Providers
 
 **Kinds**:
-* `asn/hosting.txt`
-* `asn/vpn.txt`
-* `asn/isp.txt`
-* `asn/crawler.txt`
-* `asn/scanner.txt`
+* `asn/kind_hosting.txt`
+* `asn/kind_vpn.txt`
+* `asn/kind_isp.txt`
+* `asn/kind_crawler.txt`
+* `asn/kind_scanner.txt`
 
 Note: You can also query those IP-Lists via the API: [Hosting](https://risk.oxl.app/api/list/asn/hosting), [VPN](https://risk.oxl.app/api/list/asn/vpn), [Crawler](https://risk.oxl.app/api/list/asn/crawler), [Scanner](https://risk.oxl.app/api/list/asn/scanner), [ISP](https://risk.oxl.app/api/list/asn/isp)
 
@@ -61,11 +70,11 @@ Note: You can also query those IP-Lists via the API: [Hosting](https://risk.oxl.
 Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 blocks*)
 
 **Kinds**:
-* `network/hosting.txt` (*from ASN*)
-* `network/vpn.txt` (*from ASN*)
-* `network/crawler.txt` (*from ASN*)
-* `network/scanner.txt` (*from ASN*)
-* `network/dynamic.txt` (*from IPs*)
+* `network/kind_hosting.txt` (*from ASN*)
+* `network/kind_vpn.txt` (*from ASN*)
+* `network/kind_crawler.txt` (*from ASN*)
+* `network/kind_scanner.txt` (*from ASN*)
+* `network/kind_dynamic.txt` (*from IPs*)
 
 **Most reported IPs**: (*network reputation*)
 * `network/top_100_ips.txt`
@@ -82,18 +91,32 @@ Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 
 ### IPs
 
 **Kinds**:
-* `ip/hosting.txt` (*from ASN*)
-* `ip/vpn.txt` (*from ASN*)
-* `ip/crawler.txt` (*from ASN*)
-* `ip/scanner.txt` (*from ASN*)
-* `ip/dynamic.txt`
-* `ip/proxy.txt`
-* `ip/tor.txt` (*Note: you can find the full list of tor-exit-nodes here:* [check.torproject.org](https://check.torproject.org/torbulkexitlist))
+* `ip/kind_hosting.txt` (*from ASN*)
+* `ip/kind_vpn.txt` (*from ASN*)
+* `ip/kind_crawler.txt` (*from ASN*)
+* `ip/kind_scanner.txt` (*from ASN*)
+* `ip/kind_dynamic.txt`
+* `ip/kind_proxy.txt`
+* `ip/kind_tor.txt` (*Note: you can find the full list of tor-exit-nodes here:* [check.torproject.org](https://check.torproject.org/torbulkexitlist))
 
 **Most reported**:
 * `ip/top_10000.txt`
 * `ip/top_100000.txt`
 * `ip/top_1000000.txt`
+
+----
+
+### Other Info
+
+**HTTP User-Agents**
+* `other/user_agents.txt`
+
+**JA4-Fingerprints with User-Agent**
+* `other/ja4_user_agents.csv`  (format: `JA4,user-agent-1|user-agent-2`)
+
+**PTRs**
+* `other/ptrs.txt`
+
 
 ----
 
