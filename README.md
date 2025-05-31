@@ -73,23 +73,23 @@ Note: You can also query those IP-Lists via the API: [Hosting](https://risk.oxl.
 Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 blocks*)
 
 **Kinds**:
-* `network/kind_hosting.txt` (*from ASN*)
-* `network/kind_vpn.txt` (*from ASN*)
-* `network/kind_crawler.txt` (*from ASN*)
-* `network/kind_scanner.txt` (*from ASN*)
-* `network/kind_isp.txt` (*from ASN*)
-* `network/kind_education.txt` (*from ASN*)
-* `network/kind_dynamic.txt` (*from IPs*)
+* `net/kind_hosting.txt` (*from ASN*)
+* `net/kind_vpn.txt` (*from ASN*)
+* `net/kind_crawler.txt` (*from ASN*)
+* `net/kind_scanner.txt` (*from ASN*)
+* `net/kind_isp.txt` (*from ASN*)
+* `net/kind_education.txt` (*from ASN*)
+* `net/kind_dynamic.txt` (*from IPs*)
 
 **Most reported IPs**: (*network reputation*)
-* `network/top_100_ips_4.txt` & `top_100_ips_6.txt` & `.csv`
-* `network/top_1000_ips_4.txt` & `top_1000_ips_6.txt` & `.csv`
-* `network/top_10000_ips_4.txt` & `top_10000_ips_6.txt` & `.csv`
+* `net/top_100_ips_4.txt` & `top_100_ips_6.txt` & `.csv`
+* `net/top_1000_ips_4.txt` & `top_1000_ips_6.txt` & `.csv`
+* `net/top_10000_ips_4.txt` & `top_10000_ips_6.txt` & `.csv`
 
 **Most reported**:
-* `network/top_100.txt` & `.csv`
-* `network/top_1000.txt` & `.csv`
-* `network/top_10000.txt` & `.csv`
+* `net/top_100.txt` & `.csv`
+* `net/top_1000.txt` & `.csv`
+* `net/top_10000.txt` & `.csv`
 
 ----
 
@@ -107,9 +107,9 @@ Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 
 * `ip/kind_tor.txt` (*Note: you can find the full list of tor-exit-nodes here:* [check.torproject.org](https://check.torproject.org/torbulkexitlist))
 
 **Most reported**:
+* `ip/top_1000.txt` & `.csv`
 * `ip/top_10000.txt` & `.csv`
 * `ip/top_100000.txt` & `.csv`
-* `ip/top_1000000.txt` & `.csv`
 
 ----
 
