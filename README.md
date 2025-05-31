@@ -122,7 +122,7 @@ Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 
 * `other/ja4_user_agents.csv`  (format: `JA4,user-agent-1|user-agent-2`)
 
 **PTRs**
-* `other/ptrs.txt`
+* `other/ptrs.csv`
 
 
 ----
