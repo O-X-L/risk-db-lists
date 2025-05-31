@@ -79,9 +79,9 @@ Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 
 * `network/kind_dynamic.txt` (*from IPs*)
 
 **Most reported IPs**: (*network reputation*)
-* `network/top_100_ips.txt` & `.csv`
-* `network/top_1000_ips.txt` & `.csv`
-* `network/top_10000_ips.txt` & `.csv`
+* `network/top_100_ips_4.txt` & `top_100_ips_6.txt` & `.csv`
+* `network/top_1000_ips_4.txt` & `top_1000_ips_6.txt` & `.csv`
+* `network/top_10000_ips_4.txt` & `top_10000_ips_6.txt` & `.csv`
 
 **Most reported**:
 * `network/top_100.txt` & `.csv`
