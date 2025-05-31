@@ -77,6 +77,7 @@ Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 
 * `network/kind_vpn.txt` (*from ASN*)
 * `network/kind_crawler.txt` (*from ASN*)
 * `network/kind_scanner.txt` (*from ASN*)
+* `network/kind_isp.txt` (*from ASN*)
 * `network/kind_education.txt` (*from ASN*)
 * `network/kind_dynamic.txt` (*from IPs*)
 
@@ -99,6 +100,7 @@ Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 
 * `ip/kind_vpn.txt` (*from ASN*)
 * `ip/kind_crawler.txt` (*from ASN*)
 * `ip/kind_scanner.txt` (*from ASN*)
+* `ip/kind_isp.txt` (*from ASN*)
 * `ip/kind_education.txt` (*from ASN*)
 * `ip/kind_dynamic.txt`
 * `ip/kind_proxy.txt`
