@@ -47,6 +47,8 @@ Be aware that we cannot verify if reports are false-positives. We currently only
 
 ## Lists
 
+The `top_*.csv` files are in format: `<reported>,<report-count>`
+
 ### ASN / Internet Providers
 
 **Kinds**:
@@ -59,9 +61,9 @@ Be aware that we cannot verify if reports are false-positives. We currently only
 Note: You can also query those IP-Lists via the API: [Hosting](https://risk.oxl.app/api/list/asn/hosting), [VPN](https://risk.oxl.app/api/list/asn/vpn), [Crawler](https://risk.oxl.app/api/list/asn/crawler), [Scanner](https://risk.oxl.app/api/list/asn/scanner), [ISP](https://risk.oxl.app/api/list/asn/isp)
 
 **Most reported**:
-* `asn/top_100.txt`
-* `asn/top_1000.txt`
-* `asn/top_10000.txt`
+* `asn/top_100.txt` & `.csv`
+* `asn/top_1000.txt` & `.csv`
+* `asn/top_10000.txt` & `.csv`
 
 ----
 
@@ -77,14 +79,14 @@ Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 
 * `network/kind_dynamic.txt` (*from IPs*)
 
 **Most reported IPs**: (*network reputation*)
-* `network/top_100_ips.txt`
-* `network/top_1000_ips.txt`
-* `network/top_10000_ips.txt`
+* `network/top_100_ips.txt` & `.csv`
+* `network/top_1000_ips.txt` & `.csv`
+* `network/top_10000_ips.txt` & `.csv`
 
 **Most reported**:
-* `network/top_100.txt`
-* `network/top_1000.txt`
-* `network/top_10000.txt`
+* `network/top_100.txt` & `.csv`
+* `network/top_1000.txt` & `.csv`
+* `network/top_10000.txt` & `.csv`
 
 ----
 
@@ -100,9 +102,9 @@ Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 
 * `ip/kind_tor.txt` (*Note: you can find the full list of tor-exit-nodes here:* [check.torproject.org](https://check.torproject.org/torbulkexitlist))
 
 **Most reported**:
-* `ip/top_10000.txt`
-* `ip/top_100000.txt`
-* `ip/top_1000000.txt`
+* `ip/top_10000.txt` & `.csv`
+* `ip/top_100000.txt` & `.csv`
+* `ip/top_1000000.txt` & `.csv`
 
 ----
 
