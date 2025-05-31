@@ -49,6 +49,8 @@ Be aware that we cannot verify if reports are false-positives. We currently only
 
 The `top_*.csv` files are in format: `<reported>,<report-count>`
 
+Download URLs: `https://raw.githubusercontent.com/O-X-L/risk-db-lists/refs/heads/main/<asn|net|ip|other>/<file>` or `https://risk.oxl.app/file/list/<asn|net|ip|other>/<file>`
+
 ### ASN / Internet Providers
 
 **Kinds**:
