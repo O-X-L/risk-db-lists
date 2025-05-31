@@ -57,6 +57,7 @@ The `top_*.csv` files are in format: `<reported>,<report-count>`
 * `asn/kind_isp.txt`
 * `asn/kind_crawler.txt`
 * `asn/kind_scanner.txt`
+* `asn/kind_education.txt`
 
 Note: You can also query those IP-Lists via the API: [Hosting](https://risk.oxl.app/api/list/asn/hosting), [VPN](https://risk.oxl.app/api/list/asn/vpn), [Crawler](https://risk.oxl.app/api/list/asn/crawler), [Scanner](https://risk.oxl.app/api/list/asn/scanner), [ISP](https://risk.oxl.app/api/list/asn/isp)
 
@@ -76,6 +77,7 @@ Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 
 * `network/kind_vpn.txt` (*from ASN*)
 * `network/kind_crawler.txt` (*from ASN*)
 * `network/kind_scanner.txt` (*from ASN*)
+* `network/kind_education.txt` (*from ASN*)
 * `network/kind_dynamic.txt` (*from IPs*)
 
 **Most reported IPs**: (*network reputation*)
@@ -97,6 +99,7 @@ Networks are processed in blocks: `IP4 /24` (*256 IPs*) and `IP6 /56` (*256 /64 
 * `ip/kind_vpn.txt` (*from ASN*)
 * `ip/kind_crawler.txt` (*from ASN*)
 * `ip/kind_scanner.txt` (*from ASN*)
+* `ip/kind_education.txt` (*from ASN*)
 * `ip/kind_dynamic.txt`
 * `ip/kind_proxy.txt`
 * `ip/kind_tor.txt` (*Note: you can find the full list of tor-exit-nodes here:* [check.torproject.org](https://check.torproject.org/torbulkexitlist))
