@@ -230,6 +230,7 @@ Apache-HttpClientUNAVAILABLE Java17.0.13
 Apache-HttpClientUNAVAILABLE java 1.5
 Apache2.4.34 Ubuntu OpenSSL1.1.1 internal dummy connect
 Apache2.4.34 Ubuntu OpenSSL1.1.1 internal dummy connection
+ApacheHttpClient/4.5.9 Java/1.8.0_452
 AppleWebKit534.46 KHTMLlike Gecko Version5.1 
 AppleWebKit534.46 KHTMLlike Gecko Version5.1 Mobile Safari10600.6.3
 AppleWebKit534.46 KHTMLlike Gecko Version5.1 Mobile Safari10600.6.3136190JINHUA
@@ -631,16 +632,19 @@ Mozilla/5.0 Linux; Android 6.0.1; Nexus 5X Build/MMB29P AppleWebKit/537.36 KHTML
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:125.0 Gecko/20100101 Firefox/125.0
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:130.0 Gecko/20100101 Firefox/130.0
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:138.0 Gecko/20100101 Firefox/138.0
+Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:139.0 Gecko/20100101 Firefox/139.0
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_12_6 AppleWebKit/537.36 KHTML like Gecko Chrome/58.0.3029.110 Safari/537.3
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_2 AppleWebKit/537.36 KHTML like Gecko Chrome/79.0.3945.117 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_6 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_6 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.95
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_6 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.125 Safari/537.36
+Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/131.0.0.0 Safari/537.36; ClaudeBot/1.0; +claudebot@anthropic.
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/134.0.0.0 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/136.0.0.0 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/92.0.4515.159 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/605.1.15 KHTML like Gecko Version/14.0.3 Safari/605.1.15
+Mozilla/5.0 Macintosh; Intel Mac OS X 11_1 AppleWebKit/537.36 KHTML like Gecko Chrome/87.0.4280.88 Safari/537.36
 Mozilla/5.0 Windows NT 10.0 AppleWebKit/537.36 KHTML like Gecko Chrome/72.0.3626.121 Safari/537.36
 Mozilla/5.0 Windows NT 10.0 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36
@@ -700,17 +704,20 @@ Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/127.0.6533.119 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/133.0.0.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/134.0.6998.35 Safari/537.36
+Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/135.0.0.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/136.0.0.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/68.0.3440.106 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/78.0.3904.70 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/81.0.4044.92 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/89.0.4389.90 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/92.0.4515.107 Safari/537.36
+Mozilla/5.0 X11; Linux x86_64; rv:136.0 Gecko/20100101 Firefox/136.0
 Mozilla/5.0 X11; Linux x86_64; rv:138.0 Gecko/20100101 Firefox/138.0
 Mozilla/5.0 X11; Linux x86_64; rv:140.0 Gecko/20100101 Firefox/140.0
 Mozilla/5.0 X11; U; Linux i686; enUS; rv:1.8.0.6 Gecko/20060803 Firefox/1.5.0.6 Swiftfox
 Mozilla/5.0 X11; U; Linux x86_64; enUS; rv:1.9.2.9 Gecko/20100915 Gentoo Firefox/3.6.9
 Mozilla/5.0 X11; Ubuntu; Linux i686; rv:79.0 Gecko/20100101 Firefox/79.0
+Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:135.0 Gecko/20100101 Firefox/135.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 compatible; BLEXBot/1.0; +https://help.seranking.com/en/blexcrawler
 Mozilla/5.0 compatible; CensysInspect/1.1; +https://about.censys.io/
@@ -721,6 +728,7 @@ Mozilla/5.0 compatible; InternetMeasurement/1.0; +https://internetmeasurement.co
 Mozilla/5.0 compatible; MJ12bot/v2.0.1; http://mj12bot.com/
 Mozilla/5.0 compatible; MJ12bot/v2.0.2; http://mj12bot.com/
 Mozilla/5.0 compatible; SemrushBot/7bl; +http://www.semrush.com/bot.html
+Mozilla/5.0 compatible; Websiteinfo.netRobot; https://websiteinfo.net/robot
 Mozilla/5.0 compatible; YandexBot/3.0; +http://yandex.com/bots
 Mozilla/5.0 iPhone; CPU iPhone OS 14_4 like Mac OS X AppleWebKit/605.1.15 KHTML like Gecko Version/14.0.3 Mobile/15E148 Safari/604.1
 Mozilla/5.0 iPhone; CPU iPhone OS 18_2_1 like Mac OS X AppleWebKit/605.1.15 KHTML like Gecko CriOS/134.0.6998.33 Mobile/15E148 Safari/604.1
@@ -25337,6 +25345,8 @@ compatible Baiduspider2.0 +httpwww.baidu.co
 compatible Baiduspider2.0 +httpwww.baidu.comsearchspider.htmlA3A9
 cpp-httplib0.15.3
 curl/7.29.0
+curl/7.58.0
+curl/7.76.1
 curl/7.88.1
 curl/8.3.0
 curl/8.6.0
@@ -25899,6 +25909,7 @@ pythonrequests/2.28.1
 pythonrequests/2.31.0
 pythonrequests/2.32.2
 pythonrequests/2.32.3
+pythonurllib3/2.2.3
 pythonurllib3/2.3.0
 quic-go HTTP3
 rest-client2.0.2 linux-gnu x86_64 ruby2.6.0p0
