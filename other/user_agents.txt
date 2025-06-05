@@ -684,6 +684,7 @@ Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:84.0 Gecko/20100101 Firefox/84.0
 Mozilla/5.0 Windows NT 5.2; rv:44.0 Gecko/20100101 Firefox/44.0
 Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE
+Mozilla/5.0 Windows NT 6.1; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/60.0.3112.90 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/74.0.3729.169 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/78.0.3904.108 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/79.0.3945.130 Safari/537.36
@@ -722,6 +723,7 @@ Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 compatible; BLEXBot/1.0; +https://help.seranking.com/en/blexcrawler
 Mozilla/5.0 compatible; CensysInspect/1.1; +https://about.censys.io/
 Mozilla/5.0 compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseobot
+Mozilla/5.0 compatible; DotBot/1.2; +https://opensiteexplorer.org/dotbot; help@moz.com
 Mozilla/5.0 compatible; Googlebot/2.1; +http://www.google.com/bot.html
 Mozilla/5.0 compatible; ImagesiftBot; +imagesift.com
 Mozilla/5.0 compatible; InternetMeasurement/1.0; +https://internetmeasurement.com/
