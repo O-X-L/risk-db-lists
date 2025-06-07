@@ -47,19 +47,17 @@ Be aware that we cannot verify if reports are false-positives. We currently only
 
 ## Lists
 
-The `top_*.csv` files are in format: `<reported>,<report-count>`
-
 Download URLs: `https://raw.githubusercontent.com/O-X-L/risk-db-lists/refs/heads/main/<asn|net|ip|other>/<file>` or `https://risk.oxl.app/file/list/<asn|net|ip|other>/<file>`
 
 ### ASN / Internet Providers
 
 **Kinds**:
-* `asn/kind_hosting.txt`
-* `asn/kind_vpn.txt`
-* `asn/kind_isp.txt`
-* `asn/kind_crawler.txt`
-* `asn/kind_scanner.txt`
-* `asn/kind_education.txt`
+* `asn/kind_hosting.txt` & `.csv`
+* `asn/kind_vpn.txt` & `.csv`
+* `asn/kind_isp.txt` & `.csv`
+* `asn/kind_crawler.txt` & `.csv`
+* `asn/kind_scanner.txt` & `.csv`
+* `asn/kind_education.txt` & `.csv`
 
 Note: You can also query those IP-Lists via the API: [Hosting](https://risk.oxl.app/api/list/asn/hosting), [VPN](https://risk.oxl.app/api/list/asn/vpn), [Crawler](https://risk.oxl.app/api/list/asn/crawler), [Scanner](https://risk.oxl.app/api/list/asn/scanner), [ISP](https://risk.oxl.app/api/list/asn/isp)
 
