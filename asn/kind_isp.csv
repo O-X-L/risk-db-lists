@@ -112,7 +112,7 @@ ASN,Organization
 6663,Türk Telekom International
 6697,Beltelecom
 6700,BeotelNet-ISP
-6703,PRIVATE JOINT-STOCK COMPANY "FARLEP-INVEST"
+6703,PRIVATE JOINT-STOCK COMPANY 'FARLEP-INVEST'
 6713,MAROC TELECOM
 6730,Sunrise GmbH
 6752,ANDORRA TELECOM
@@ -150,7 +150,7 @@ ASN,Organization
 8103,Florida Department of Management Services - Division of Telecommunications
 8151,Uninet S.A. de C.V.
 8163,Metrotel SA ESP
-8193,"Uzbektelekom" Joint Stock Company
+8193,'Uzbektelekom' Joint Stock Company
 8194,LVRTC Network
 8234,RAI RadioTelevisione Italiana
 8244,TELECOM ITALIA SPARKLE S.p.A.
@@ -159,7 +159,7 @@ ASN,Organization
 8301,Gibraltar Telecom
 8304,Ecritel
 8334,LLC SETEL
-8345,JSC "ER-Telecom Holding"
+8345,JSC 'ER-Telecom Holding'
 8346,SONATEL DAKAR
 8359,Mobile TeleSystems PJSC
 8368,DSTNY
@@ -297,7 +297,7 @@ ASN,Organization
 12479,Orange Spain
 12486,TeleYemen
 12491,Gilat Telecom
-12494,OOO "Post ltd"
+12494,OOO 'Post ltd'
 12616,Citytelecom LLC
 12668,MiraLogic Telecommunication Systems
 12683,PJSC Rostelecom
@@ -305,8 +305,8 @@ ASN,Organization
 12693,e.discom Telekommunikation GmbH
 12730,PJSC Rostelecom
 12762,VTG
-12768,JSC "ER-Telecom Holding"
-12772,JSC "ER-Telecom Holding"
+12768,JSC 'ER-Telecom Holding'
+12772,JSC 'ER-Telecom Holding'
 12777,Eser Telekom Sanayi ve Ticaret A.S.
 12796,Telecommunication Company Varna
 12843,TelemaxX
@@ -328,7 +328,7 @@ ASN,Organization
 13036,T-Mobile CZ AS13036
 13046,ISKON INTERNET
 13056,PJSC Rostelecom
-13099,"AZ-EVRO TEL" LLC
+13099,'AZ-EVRO TEL' LLC
 13118,PJSC Rostelecom
 13122,Manx Telecom
 13126,Satellite Mediaport Services Ltd.
@@ -484,12 +484,12 @@ ASN,Organization
 20746,Telecom Italia S.p.A.
 20776,Outremer Telecom SAS
 20804,EXATEL SA
-20807,JSC "ER-Telecom Holding"
+20807,JSC 'ER-Telecom Holding'
 20845,DIGI Ltd
 20870,Joint Stock Company TransTeleCom
 20880,PŸUR - Nord
 20886,bn:t Blatzheim Networks Telecom
-20895,"Yuzhniy TELECOM" ltd.
+20895,'Yuzhniy TELECOM' ltd.
 20932,SIG Telecom
 20960,TKTelekom
 20978,TT Mobil Iletisim Hizmetleri A.S
@@ -511,7 +511,7 @@ ASN,Organization
 21305,IP TelCom LLC
 21310,Satellite Ltd
 21351,Canal+ Telecom
-21353,JSC "ER-Telecom Holding"
+21353,JSC 'ER-Telecom Holding'
 21360,Empirion Telekommunikations Services GmbH
 21378,PJSC Rostelecom
 21413,envia TEL
@@ -596,7 +596,7 @@ ASN,Organization
 25106,Mobile TeleSystems
 25117,Bouygues Telecom Business-Distribution
 25135,Vodafone UK Packet Backbone
-25144,"Telekomunikacije Republike Srpske" akcionarsko drustvo Banja Luka
+25144,'Telekomunikacije Republike Srpske' akcionarsko drustvo Banja Luka
 25159,SONICDUO
 25227,Avantel Moscow
 25229,Volia
@@ -612,13 +612,13 @@ ASN,Organization
 25512,CD-Telematika a.s.
 25513,MGTS
 25515,PJSC Rostelecom
-25520,JSC "Futures Telecom"
+25520,JSC 'Futures Telecom'
 25531,PJSC Rostelecom
 25543,ONATEL (Office National des Telecommunications PTT)
 25549,JSC Avantel
 25671,Wholesale Air-time
 25853,Ellijay Telephone Company
-25880,Public joint-stock company "RUTELEKOM"
+25880,Public joint-stock company 'RUTELEKOM'
 25892,VTX Telecom
 25933,Vogel Telecom
 26599,TELEFÔNICA BRASIL AS26599
@@ -701,7 +701,7 @@ ASN,Organization
 28270,Multiplay Telecom
 28277,VMAX
 28279,Telgo Telecom
-28283,Adylnet Telecom
+28283,Adyl Telecom - AS28283
 28285,Beltrãonet Telecomunicações
 28287,Fit Telecom - Americanet
 28292,Engeplus Telecom
@@ -758,7 +758,7 @@ ASN,Organization
 28769,Joint Stock Company TransTeleCom
 28775,OOO TRANSTELECOM
 28787,Baku Telephone Communication LLC
-28840,PJSC "TATTELECOM"
+28840,PJSC 'TATTELECOM'
 28852,Telefonaktiebolaget L M Ericsson
 28885,Oman Telecommunications Company (S.A.O.G)
 28890,INSYS LLC
@@ -777,7 +777,7 @@ ASN,Organization
 29069,PJSC Rostelecom
 29072,Regional Digital Telecommunication Company LLC
 29124,Seven Sky
-29196,LLC "INZHENERNYE SETI - TELEKOM"
+29196,LLC 'INZHENERNYE SETI - TELEKOM'
 29208,Quantcom
 29226,Mastertel
 29238,Nisatel
@@ -809,10 +809,10 @@ ASN,Organization
 30341,South Central Telephone Association
 30619,Telecomunicacoes de Mocambique
 30722,Vodafone Italy
-30733,JSC "Globus-Telecom"
+30733,JSC 'Globus-Telecom'
 30742,Bremen Briteline GmbH
 30784,Iskratelecom
-30838,Jerzy Krempa "Telpol" PPMUE
+30838,Jerzy Krempa 'Telpol' PPMUE
 30844,Liquid Intelligent Technologies
 30855,Tele-plus LLC
 30902,Moasese Gostaresh Etelaat Va Ertebatat Farhangi Neda Rayaneh
@@ -835,17 +835,17 @@ ASN,Organization
 31275,Telecom-Service
 31277,New Line Telecom
 31313,STS
-31363,JSC "ER-Telecom Holding"
+31363,JSC 'ER-Telecom Holding'
 31376,Smart Telecom
 31404,LYCATEL DISTRIBUTION UK LIMITED
 31412,STOWARZYSZENIE MILOSNIKOW TELEWIZJI SATELITARNEJ ASTRAL
 31430,TC TEL CENTER AS31430
 31499,MOTIV
-31512,OJSC "Telecommunications FEZ Nakhodka"
+31512,OJSC 'Telecommunications FEZ Nakhodka'
 31549,RASANA
 31615,Odido AS31615
 31631,Telcom Networks
-31685,TOV Teleradiocompany "TIM"
+31685,TOV Teleradiocompany 'TIM'
 31705,Europaischen Organisation fuer die Nutzung Meteorologischen Satelliten (Eumetsat)
 31721,Azercell Telecom
 31726,Telefiber
@@ -877,7 +877,7 @@ ASN,Organization
 34066,Telappliant
 34087,NTE Bredbånd AS
 34137,PJSC Rostelecom
-34150,JSC "ER-Telecom Holding"
+34150,JSC 'ER-Telecom Holding'
 34156,DB Systel GmbH
 34168,PJSC Rostelecom
 34170,Aztelekom
@@ -892,13 +892,13 @@ ASN,Organization
 34391,PARITEL OPERATEUR SAS
 34393,Systel Systemy Teleinformatyczne Sp. z o.o.
 34421,Telecom Media Systems JLLC
-34467,JSC Telephone Company "Sotcom"
+34467,JSC Telephone Company 'Sotcom'
 34470,PortTelekom LLC
 34502,Multikom Austria Telekom GmbH
-34533,JSC "ER-Telecom Holding"
+34533,JSC 'ER-Telecom Holding'
 34547,Telesmart Telekom
 34584,PJSC Rostelecom
-34590,JSC "ER-Telecom Holding"
+34590,JSC 'ER-Telecom Holding'
 34594,Optima telekom
 34619,CIZGI TELEKOMUNIKASYON ANONIM SIRKETI
 34683,TELKEA-TELECOM
@@ -1054,7 +1054,7 @@ ASN,Organization
 38987,Spoldzielnia Telekomunikacyjna OST
 38999,Mobile Interim Company no.2 sal
 39010,TerraNet
-39028,JSC "ER-Telecom Holding"
+39028,JSC 'ER-Telecom Holding'
 39032,East Telecom
 39045,Gazprom telecom LLC
 39065,SOHONET
@@ -1069,7 +1069,7 @@ ASN,Organization
 39375,Telekomunikacja Podlasie
 39386,Saudi Telecom Company (STC IGW)
 39407,PJSC Rostelecom
-39435,JSC "ER-Telecom Holding"
+39435,JSC 'ER-Telecom Holding'
 39505,Vestitel
 39586,NPP Saturn Telecom Ltd.
 39699,Lounea Palvelut
@@ -1081,7 +1081,7 @@ ASN,Organization
 39835,goetel
 39869,Sitel sp. z o.o.
 39891,Saudi Telecom Company JSC
-39908,Daughter Company Television Systems "KVANT" of PrJSC "Atomservice"
+39908,Daughter Company Television Systems 'KVANT' of PrJSC 'Atomservice'
 39927,E-Light-Telecom
 39944,3U Telecom Inc
 40020,Farmers Telecommunications Cooperative Inc.
@@ -1105,36 +1105,36 @@ ASN,Organization
 41329,Sky Mobile
 41330,T2 Novosibirsk
 41334,MANCHE TELECOM
-41403,JSC "ER-Telecom Holding"
+41403,JSC 'ER-Telecom Holding'
 41421,Starnet Telecom Sp. z o.o.
 41557,Drustvo za telekomunikaciski uslugi TELEKABEL DOOEL Stip
 41560,UGMK-Telecom LLC
 41601,NEO Print Ltd
 41625,Express Teleservice Corp
-41661,JSC "ER-Telecom Holding"
-41668,JSC "ER-Telecom Holding"
-41682,JSC "ER-Telecom Holding"
+41661,JSC 'ER-Telecom Holding'
+41668,JSC 'ER-Telecom Holding'
+41682,JSC 'ER-Telecom Holding'
 41691,National Telecom
-41727,JSC "ER-Telecom Holding"
+41727,JSC 'ER-Telecom Holding'
 41738,Cellfie Mobile LLC
-41754,JSC "ER-Telecom Holding"
+41754,JSC 'ER-Telecom Holding'
 41777,Telewizja Polsat Sp. z o.o.
-41786,JSC "ER-Telecom Holding"
+41786,JSC 'ER-Telecom Holding'
 41789,LLC Teledyne Systems Limited
 41798,Transtelecom Kazakhstan
 41813,LLC ONLINETELECOM
-41843,JSC "ER-Telecom Holding"
+41843,JSC 'ER-Telecom Holding'
 41877,Railway Telecom Ltd
 41925,IZET-Chelyabinsk
 41959,PLJ TELECOM
 41967,Sumski Telecom Systems Ltd
 42003,OGERONET
 42020,LibanTelecom
-42039,Stowarzyszenie "Telewizja Teofilow B"
+42039,Stowarzyszenie 'Telewizja Teofilow B'
 42061,LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation
 42065,ZAO ElectronTelecom
 42083,Guneydogu Telekom
-42116,JSC "ER-Telecom Holding"
+42116,JSC 'ER-Telecom Holding'
 42148,Beirel Telecom LLC
 42149,Servis Telecom Ltd.
 42238,Bospor-Telecom LLC
@@ -1145,14 +1145,14 @@ ASN,Organization
 42397,Bunea TELECOM SRL
 42437,T2 Rostov-on-Don
 42517,Schiphol Telematics B.V.
-42530,TOV "Telecommunication company "Plazma"
+42530,TOV 'Telecommunication company 'Plazma'
 42548,PJSC Rostelecom
 42560,Telemach BH d.o.o. Sarajevo
 42581,Inform Communications Ltd.
 42610,Rostelecom MRB Moscow
 42644,VIRTUAL TELECOM SP. Z O.O.
-42682,JSC "ER-Telecom Holding"
-42683,JSC "ER-Telecom Holding"
+42682,JSC 'ER-Telecom Holding'
+42683,JSC 'ER-Telecom Holding'
 42739,Hawe Telekom
 42770,Kar-Tel LLC
 42811,Herault Telecom SAS
@@ -1172,14 +1172,14 @@ ASN,Organization
 43228,SimpleTelecom LLC
 43244,TELNET Sp. z o.o.
 43297,VDS-Telecom
-43314,JSC "ER-Telecom Holding"
-43328,LLC "INZHENERNYE SETI - TELEKOM"
+43314,JSC 'ER-Telecom Holding'
+43328,LLC 'INZHENERNYE SETI - TELEKOM'
 43355,UPL TELECOM
 43372,TELNAP TELECOM
-43409,SKP "Kyivteleservis"
+43409,SKP 'Kyivteleservis'
 43413,NEW TELEKOM spol. s r.o.
 43452,TELENET KOM DOO
-43478,JSC "ER-Telecom Holding"
+43478,JSC 'ER-Telecom Holding'
 43529,Vidanet Cabletelevision Provider
 43530,Limited Liability Company Irtelcom
 43533,Gals Telecom
@@ -1193,7 +1193,7 @@ ASN,Organization
 43843,BrianTel
 43885,INSTAL MATEL
 43886,UTEL Ltd
-43940,Drustvo za telekomunikacije "MTEL" DOO
+43940,Drustvo za telekomunikacije 'MTEL' DOO
 43957,WNT Telecommunication
 43991,Voronezh Telecom LLC
 44030,OtradnoeNet
@@ -1203,7 +1203,7 @@ ASN,Organization
 44237,Rostelecom MRB Center
 44244,Iran Cell Service and Communication Company
 44265,OOO Smoltelecom
-44309,ET "Satelit TM - Anton Simeonov"
+44309,ET 'Satelit TM - Anton Simeonov'
 44405,Sistemy Telekommunikatsiy i Svyazi Ltd.
 44416,Satellite Net Service
 44442,The Borough of Telford and Wrekin Council
@@ -1284,9 +1284,10 @@ ASN,Organization
 47887,Neu Telecom and Technologies (Damamax)
 47898,PAN-Telecom
 47914,IP-Home
-47939,TDV "Teleradio company "Yalta" LLC
+47939,TDV 'Teleradio company 'Yalta' LLC
 47954,Alpha Net Telecom Ltd
 47959,Telinea d.o.o.
+47996,Kommunikatsyi Stels Ltd.
 48019,Terra-Telecom LLC
 48043,Ozyorsk Telecom CJSC.
 48044,Rostelecom Information Technologies LTd
@@ -1304,7 +1305,7 @@ ASN,Organization
 48243,Miratel Ltd
 48249,Capital Telecom
 48260,TELEWEB bvba
-48271,CJSC "TELECOMMUNICATIONS COMPANY "DUN"
+48271,CJSC 'TELECOMMUNICATIONS COMPANY 'DUN'
 48284,SWU TeleNet GmbH
 48293,Uniontel
 48364,Radim Pytela trading as AC Vyskov
@@ -1319,7 +1320,7 @@ ASN,Organization
 48642,K Telecom Ldt.
 48675,Deltatelecom
 48695,Etihad Atheeb Telecom /GO Telecom
-48712,"Info-Net" Uslugi Teleinformatyczne S.C.
+48712,'Info-Net' Uslugi Teleinformatyczne S.C.
 48738,Teleset ltd.
 48780,OLTELECOM JSC
 48944,khalij fars Ettela Resan Company J.S.
@@ -1328,10 +1329,10 @@ ASN,Organization
 48969,Parus-Telecom Ltd.
 48978,Orbitel LLC
 49038,EUROLINE TELECOM
-49048,JSC "ER-Telecom Holding"
+49048,JSC 'ER-Telecom Holding'
 49088,TELMEKOM
 49101,KABELOVA TELEVIZE CZ
-49107,"Telko" CJSC
+49107,'Telko' CJSC
 49112,Societe Francaise Du Radiotelephone - SFR SA
 49113,Petignat Jean-Charles trading as Cablotel Telereseaux
 49136,OJSC Telecommunication networks
@@ -1340,11 +1341,11 @@ ASN,Organization
 49301,Joint Stock Company TransTeleCom
 49311,Regional TeleSystems Ltd.
 49320,Golitsyno Telecom
-49327,TOV "Telza"
-49377,JSC"Yamaltelekom"
+49327,TOV 'Telza'
+49377,JSC'Yamaltelekom'
 49389,Privately owned enterprise Alexsandrov Yuriy Viktorovich
 49455,Telia Norge AS49455
-49461,PP "Podilsky Intelectualni sistemy"
+49461,PP 'Podilsky Intelectualni sistemy'
 49508,Samtelecom LLC
 49551,Teleseti Ltd
 49561,VECHIR TELECOM
@@ -1370,7 +1371,7 @@ ASN,Organization
 50025,Net Television
 50083,Hermes Telecom
 50115,Lekol
-50126,OOO "Teleservis"
+50126,OOO 'Teleservis'
 50186,Pronet Telekom Ltd
 50223,Alfa Telecom
 50237,The College of Management Academic Studies Founded by the Union Officials in Tel Aviv Corporation for Public-Benefit Ltd.
@@ -1385,12 +1386,12 @@ ASN,Organization
 50436,PŸUR - CIN
 50473,Altagen
 50482,JSC Kazakhtelecom
-50498,JSC "ER-Telecom Holding"
-50512,JSC "ER-Telecom Holding"
+50498,JSC 'ER-Telecom Holding'
+50512,JSC 'ER-Telecom Holding'
 50539,Telematica Ltd.
-50542,JSC "ER-Telecom Holding"
-50543,JSC "ER-Telecom Holding"
-50544,JSC "ER-Telecom Holding"
+50542,JSC 'ER-Telecom Holding'
+50543,JSC 'ER-Telecom Holding'
+50544,JSC 'ER-Telecom Holding'
 50550,K3 Telecom Sp. z o.o.
 50577,INTELSC Ltd
 50581,UTG
@@ -1409,11 +1410,11 @@ ASN,Organization
 50835,EANCENTER TELECOM LLC
 50864,IT TeleNet
 50870,Teleincom - Service Ltd
-50911,LLC "Electron-Telecom"
+50911,LLC 'Electron-Telecom'
 50946,Telecommunication Company 'Motel' Ltd.
 51004,Sakhalin Cable Telesystems Ltd
-51034,JSC "ER-Telecom Holding"
-51035,JSC "ER-Telecom Holding"
+51034,JSC 'ER-Telecom Holding'
+51035,JSC 'ER-Telecom Holding'
 51121,Foboss-Telecom LLC
 51155,Citylink Telecom
 51178,Avantel Saint-Petersburg
@@ -1426,20 +1427,20 @@ ASN,Organization
 51315,PE teleradiokompaniya Lebedin
 51333,Arcolink Telecomunicazioni S.r.l.
 51346,Tojiktelecom
-51373,"TELKONEKT" SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA
+51373,'TELKONEKT' SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA
 51402,COM-IN Telekommunikation
 51426,Teleport sp. z o.o.
 51449,Kabelova televize Usti nad Orlici spol. s r. o.
 51495,Telephone Network of Ashgabat CJSC
 51504,AS Telset
 51521,Resident Control Telco s.r.o.
-51547,LLC "Telekonika"
-51570,JSC "ER-Telecom Holding"
+51547,LLC 'Telekonika'
+51570,JSC 'ER-Telecom Holding'
 51592,OOO Svift Telecom
-51604,JSC "ER-Telecom Holding"
+51604,JSC 'ER-Telecom Holding'
 51612,Alfatel plus Ltd
 51615,Zavod Kabelska televizija Nova gorica
-51645,JSC "ER-Telecom Holding"
+51645,JSC 'ER-Telecom Holding'
 51655,Ilim Telecom Ltd.
 51757,Infratel
 51813,Joint Stock Company TransTeleCom
@@ -1455,7 +1456,7 @@ ASN,Organization
 52008,NesterTelecom LLC
 52078,MARTEL MARTA BIENIA
 52175,Magellan Telecom Kuzbass Ltd.
-52207,JSC "ER-Telecom Holding"
+52207,JSC 'ER-Telecom Holding'
 52232,Telefonía Pública y Privada
 52260,National Telecom S.A (NATCOM S.A)
 52262,Telefónica Celular S.A
@@ -1486,7 +1487,7 @@ ASN,Organization
 52596,TROPICALNET TELECOM
 52601,FAXT Telecomunicações Ltda
 52609,EVO Networks
-52610,GIGA - AS52610
+52610,Adyl Telecom - AS52610
 52624,WEB TELECOMUNICAÇÕES LTDA
 52630,MT-TELECOM SUL
 52654,Bi-Link Telecom
@@ -1632,10 +1633,10 @@ ASN,Organization
 56262,Dagupan Urban Satellite Vision Inc.
 56272,Pulse Telesystems
 56308,Telekomunikasi Indonesia International Singapore
-56330,JSC "ER-Telecom Holding"
+56330,JSC 'ER-Telecom Holding'
 56391,VTELECOM
-56404,Little Enterprise Independent Television Company "Norma-4" LTD
-56420,JSC "ER-Telecom Holding"
+56404,Little Enterprise Independent Television Company 'Norma-4' LTD
+56420,JSC 'ER-Telecom Holding'
 56441,Zaklad Teleradiotechniki Telefon Serwis Antoni Kois
 56534,Comfortel
 56542,Park Telecom Ltd
@@ -1646,7 +1647,6 @@ ASN,Organization
 56665,Proximus Luxembourg
 56677,Tele-Club Ltd.
 56689,Elitel Telecom Group Ltd
-56694,DHUB
 56696,ASLIQUID-MPLS
 56701,AVANTA TELECOM
 56709,WIST
@@ -1654,24 +1654,24 @@ ASN,Organization
 56803,Datasource AG
 56835,UTELS
 56882,LEAST COST ROUTING TELECOM SL
-56981,JSC "ER-Telecom Holding"
-57026,JSC "ER-Telecom Holding"
-57038,LLC "Amurtelekom"
-57044,JSC "ER-Telecom Holding"
+56981,JSC 'ER-Telecom Holding'
+57026,JSC 'ER-Telecom Holding'
+57038,LLC 'Amurtelekom'
+57044,JSC 'ER-Telecom Holding'
 57136,VIVA Telecom
 57141,TELWAN
 57153,TeleSystem LLC.
 57164,ViacheslavFitiunin
 57197,Shaporenko Yuri Nikolaevich
-57218,"Rightel Communication Service Company PJS"
+57218,'Rightel Communication Service Company PJS'
 57251,LLC Intelcom
 57255,Platkom Tele-Informatyka
 57269,Digi Spain Telecom
 57293,AG Telekom MMC.
 57325,123Telcom BV trading as Partell
-57333,KaspiyTelekom Ltd.
+57333,ASKASPIYTELEKOM
 57344,Telehouse
-57378,JSC "ER-Telecom Holding"
+57378,JSC 'ER-Telecom Holding'
 57388,I.B.C - Telecom Sh.p.k.
 57389,ZNET Telekom Zrt.
 57468,AZA TELECOM
@@ -1687,7 +1687,7 @@ ASN,Organization
 57888,Telesat d.o.o.
 57890,POTel
 57961,Qendra Nderuniversitare e Sherbimeve dhe Rrjeti Telematik
-57962,LLC " Ug telekom grup "
+57962,LLC ' Ug telekom grup '
 57966,INTRATEL
 58172,Freedom Telecom AS58172
 58193,Telecom26 AG
@@ -1721,7 +1721,7 @@ ASN,Organization
 59625,Korek Telecom Company for Communications LLC
 59668,Turon Media
 59710,1N
-59713,JSC "ER-Telecom Holding"
+59713,JSC 'ER-Telecom Holding'
 59723,Vaecom Telecomunicaciones
 59815,Kompeatelecom Ltd.
 59833,JSC Sevastopol Telekom
@@ -1744,8 +1744,8 @@ ASN,Organization
 60609,APFUTURA TELECOM
 60619,TelcoNet Kft.
 60641,HEXATEL SAS
-60738,OOO PKF "Delta Telekom"
-60740,Joint-Stock company "Arctictelecom"
+60738,OOO PKF 'Delta Telekom'
+60740,Joint-Stock company 'Arctictelecom'
 60793,Ocean Unified Communications
 60815,Data Net Telecom Co. Ltd
 60840,OJSC Telecom-Service
@@ -1989,7 +1989,7 @@ ASN,Organization
 138166,Mascots Myanmar
 138169,China Telecom
 138179,PACIFIC MOBILE TELECOM
-138199,Transatel
+138199,TRANSATEL ASIE
 138257,Gigatel Infocomm Pvt Ltd
 138384,Rakuten Mobile
 138407,The Internet Data Center of Guizhou Mobile Communication Company Limited
@@ -2156,10 +2156,10 @@ ASN,Organization
 198225,MDDSL
 198227,New Telecom Ukraine
 198228,Silistra TV
-198232,ZAKLAD TELEWIZJI KABLOWEJ "TELE-KAB" MARIANNA GRYGA HENRYK SMYREK S.C.
+198232,ZAKLAD TELEWIZJI KABLOWEJ 'TELE-KAB' MARIANNA GRYGA HENRYK SMYREK S.C.
 198279,Albanian Telecommunications Union
-198295,JSC "ER-Telecom Holding"
-198335,TRANSATEL SA
+198295,JSC 'ER-Telecom Holding'
+198335,TRANSATEL EUROPE
 198381,Star Satellite Communications Company - PJSC
 198388,Zastrahovatelna Kompania Lev Ins AD
 198404,RENTEL WIFI S.L.
@@ -2169,7 +2169,7 @@ ASN,Organization
 198551,Societe Atlantique de Telephonie et Communication SARL
 198632,Telia Eesti AS
 198662,IREMNET TELEKOMUNIKASYON TEKNOLOJI SAN ve TIC LTD STI
-198826,LLC "INZHENERNYE SETI - TELEKOM"
+198826,LLC 'INZHENERNYE SETI - TELEKOM'
 198890,Albanian Fiber Telecommunications
 198950,Telenet Systems GmbH
 198967,BITel
@@ -2213,7 +2213,7 @@ ASN,Organization
 201178,Euronet Telekomunikasyon
 201179,Teraline Telecom
 201183,VoipTel Italia
-201211,LLC "Tvoi Telecom"
+201211,LLC 'Tvoi Telecom'
 201285,Kirzhachtelecom LLC
 201296,Proftelecom-Service Ltd
 201328,Telewizja Kablowa Kolobrzeg Agencja Uslugowo - Reklamowa sp. z o.o.
@@ -2225,7 +2225,7 @@ ASN,Organization
 201704,VALL DE SOLLER TELECOMUNICACIONS SLU
 201719,Teleklik
 201748,INFOTELECOM NETWORKS SL
-201767,"Uzbektelekom" Joint Stock Company
+201767,'Uzbektelekom' Joint Stock Company
 201826,LLC eratelecom company
 201843,IBERSONTEL
 201860,MyTelco Ltd
@@ -2237,9 +2237,9 @@ ASN,Organization
 202103,Gigatel
 202125,ACACIO SERVICIOS TELEMATICOS S.L.
 202170,DSTELECOM S.A.
-202175,"Uzbektelekom" Joint Stock Company
+202175,'Uzbektelekom' Joint Stock Company
 202208,teutel GmbH
-202279,STATE UNITARY ENTERPRISE OF THE DONETSK PEOPLE'S REPUBLIC "REPUBLICAN TELECOMMUNICATIONS OPERATOR"
+202279,STATE UNITARY ENTERPRISE OF THE DONETSK PEOPLE'S REPUBLIC 'REPUBLICAN TELECOMMUNICATIONS OPERATOR'
 202289,Lovitel LLC
 202352,CONECTA 3 TELECOM S.L.
 202371,ZAL Network S.r.l.
@@ -2248,7 +2248,7 @@ ASN,Organization
 202498,TInkoff Mobile
 202561,High Speed Telekomunikasyon
 202654,Acerko Telecom S.L.
-202660,"Uzbektelekom" Joint Stock Company
+202660,'Uzbektelekom' Joint Stock Company
 202805,I-TEL
 202813,Liberatel Comunicaciones
 202825,NEAR TELECOM S.L.
@@ -2283,7 +2283,7 @@ ASN,Organization
 204172,TTC TELEKOMUNIKACE s.r.o.
 204177,CVS Mobile informacijske resitve d.d.
 204188,ITSG
-204297,LLC " Belgorod Networking Telecommunication Company"
+204297,LLC ' Belgorod Networking Telecommunication Company'
 204303,TRABUCO TELEVISION SL
 204348,REKORNET
 204350,Ipboom Telecom LLC
@@ -2329,18 +2329,18 @@ ASN,Organization
 206276,Citelia
 206280,Redes Telecomunicaciones Certificaciones Canarias S.L.
 206298,RKM Regional Kabel TV Moelltal und Telekommunikation GmbH
-206346,"Pan Telecom" EOOD
+206346,'Pan Telecom' EOOD
 206366,Rural Telecom
 206369,TELEKOM.pl Sp. z o.o.
-206385,OOO "SPETSTELECOM-YUG"
+206385,OOO 'SPETSTELECOM-YUG'
 206430,INFOTEC TECNOLOGIA INTEGRAL Y TELECOMUNICACIONES SL
 206438,MX-NET Telekomunikace s.r.o.
-206448,LLC "SouthTransTelecom"
+206448,LLC 'SouthTransTelecom'
 206539,HelloTel
 206557,ELTELE
 206579,Hrubieszowska Telewizja Kablowa (HTK)
 206660,Sphere Telecom SARL
-206661,JSC "ER-Telecom Holding"
+206661,JSC 'ER-Telecom Holding'
 206674,Telecentrum
 206737,IschiaWifi
 206757,TECNOCOLOR TT TELECOMUNICACIONS SL
@@ -2387,7 +2387,7 @@ ASN,Organization
 209202,Gurbtec Iguana Telecom SL
 209206,VORONEZH TELECOM LLC
 209344,ENA Operador de Telecomunicaciones S.L.
-209372,SIA "Singularity Telecom"
+209372,SIA 'Singularity Telecom'
 209400,KurpfalzTEL
 209429,Max Telekom s.r.o.
 209479,GROUPE TELECOMS DE L OUEST SAS

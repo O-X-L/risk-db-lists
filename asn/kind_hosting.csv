@@ -143,7 +143,7 @@ ASN,Organization
 25108,iomart - Asia/Middle East
 25184,Afranet
 25198,ZetServers
-25211,"Euro Crypt" EOOD
+25211,'Euro Crypt' EOOD
 25369,Hydra Communications Ltd (EU)
 25532,Masterhost
 25577,CloudCoCo Connect
@@ -291,14 +291,14 @@ ASN,Organization
 43641,SOLLUTIUM EU Sp z.o.o.
 43800,Ganesh Hosting SARL
 43896,EVO CLOUD
-44051,Fornex Hosting S.L.
+44051,Fornex Hosting - Germany
 44066,firstcolo
 44094,Webhost LLC
 44144,HostRoyale Technologies Pvt Ltd
 44222,CLOUDITY Network
 44382,FibaCloud
 44444,Forcepoint Cloud
-44477,PQ Hosting
+44477,THE Hosting
 44559,IT HOSTLINE LTD
 44716,d-hosting
 44788,Criteo Europe
@@ -367,6 +367,7 @@ ASN,Organization
 50340,Selectel MSK
 50463,Triple C Cloud Computing
 50599,DATASPACE-PL
+50613,Advania Hosting
 50673,Serverius
 50719,XINON
 50837,CloudSigma
@@ -505,6 +506,7 @@ ASN,Organization
 64200,Vivid-Hosting LLC
 64236,UnReal Servers
 64425,SKB-Enterprise
+64457,Matteo Fruhwald trading as PipeHost e.U.
 131149,Yuan-Jhen Info
 131199,Nexeon Technologies Inc.
 131353,NhanHoa Software company
@@ -704,7 +706,7 @@ ASN,Organization
 202661,NetPlans Cloud
 202913,CLOUDWIFI SL
 202954,Rapiddot
-202958,LLP "Kompaniya Hoster.KZ"
+202958,LLP 'Kompaniya Hoster.KZ'
 202984,Team Host
 203020,HostRoyale
 203446,SMARTNET LIMITED
@@ -747,7 +749,7 @@ ASN,Organization
 207252,Realtox Media
 207279,MARKAHOST-TELEKOMUNIKASYON-LIMITED-SIRKETI
 207326,HostLAB
-207333,LLP "Kompaniya Hoster.KZ"
+207333,LLP 'Kompaniya Hoster.KZ'
 207560,Zubritska Valeriia Nikolaevna
 207569,I-SERVERS LTD
 207590,LocLix
@@ -761,8 +763,8 @@ ASN,Organization
 208287,DC Host
 208323,Foundation for Applied Privacy
 208450,MEGAHOST_KZ
-208677,"Cloud Technologies" LLC trading as Cloud.ru
-208795,"Cloud Services Kazakhstan" LLP
+208677,'Cloud Technologies' LLC trading as Cloud.ru
+208795,'Cloud Services Kazakhstan' LLP
 208843,Alpha Strike Labs GmbH
 209045,Genesis Cloud
 209103,Proton
@@ -783,7 +785,7 @@ ASN,Organization
 210644,Aéza
 210767,Link Host Ltd.
 210848,Telkom Internet LTD
-211138,Private-Hosting di Cipriano oscar
+211138,PRIVATEHOSTING-NET
 211298,Driftnet Ltd
 211301,Unesty
 211360,HatHost
@@ -837,6 +839,7 @@ ASN,Organization
 214640,Hostup AB
 214668,AXUSHOST
 214677,DeluxHost
+214717,
 214738,WEHOST LLC
 214762,MATHOST
 214808,DUCKY CLOUD TECHNOLOGIES LIMITED
