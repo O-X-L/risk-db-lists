@@ -231,6 +231,7 @@ Apache-HttpClientUNAVAILABLE java 1.5
 Apache2.4.34 Ubuntu OpenSSL1.1.1 internal dummy connect
 Apache2.4.34 Ubuntu OpenSSL1.1.1 internal dummy connection
 ApacheHttpClient/4.5.9 Java/1.8.0_452
+ApacheHttpClient/5.1.4 Java/11.0.18
 AppleWebKit534.46 KHTMLlike Gecko Version5.1 
 AppleWebKit534.46 KHTMLlike Gecko Version5.1 Mobile Safari10600.6.3
 AppleWebKit534.46 KHTMLlike Gecko Version5.1 Mobile Safari10600.6.3136190JINHUA
@@ -664,6 +665,7 @@ Mozilla/5.0 Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.
 Mozilla/5.0 Windows NT 10.0; WOW64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.95
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/117.0.5938.132 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/133.0.0.0 Safari/537.36
+Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/134.0.0.0 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/136.0.0.0 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/137.0.0.0 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/69.0.3497.100 Safari/537.36
@@ -695,6 +697,7 @@ Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:76.0 Gecko/20100101 Firefox/76.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:77.0 Gecko/20100101 Firefox/77.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:84.0 Gecko/20100101 Firefox/84.0
+Mozilla/5.0 Windows NT 10.0; rv:78.0 Gecko/20100101 Firefox/78.0
 Mozilla/5.0 Windows NT 5.2; rv:44.0 Gecko/20100101 Firefox/44.0
 Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/55.0.3176.119 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/56.0.1349.133 Safari/537.36
@@ -743,6 +746,7 @@ Mozilla/5.0 X11; U; Linux x86_64; enUS; rv:1.9.2.9 Gecko/20100915 Gentoo Firefox
 Mozilla/5.0 X11; Ubuntu; Linux i686; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:135.0 Gecko/20100101 Firefox/135.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:79.0 Gecko/20100101 Firefox/79.0
+Mozilla/5.0 compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/
 Mozilla/5.0 compatible; BLEXBot/1.0; +https://help.seranking.com/en/blexcrawler
 Mozilla/5.0 compatible; CensysInspect/1.1; +https://about.censys.io/
 Mozilla/5.0 compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseobot
