@@ -629,6 +629,7 @@ Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; GPTBot/1.2; +https:
 Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot
 Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; PerplexityUser/1.0; +https://perplexity.ai/perplexityuser
 Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm Chrome/116.0.1938.76 Safari/537.36
+Mozilla/5.0 Debian; Linux x86_64; rv:124.0 Gecko/20100101 Firefox/124.0
 Mozilla/5.0 Knoppix; Linux i686; rv:122.0 Gecko/20100101 Firefox/122.0
 Mozilla/5.0 Linux x86_64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 Linux; Android 10; K AppleWebKit/537.36 KHTML like Gecko Chrome/127.0.0.0 Mobile Safari/537.36
@@ -638,6 +639,7 @@ Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:125.0 Gecko/20100101 Firefox/125
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:130.0 Gecko/20100101 Firefox/130.0
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:138.0 Gecko/20100101 Firefox/138.0
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:139.0 Gecko/20100101 Firefox/139.0
+Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:140.0 Gecko/20100101 Firefox/140.0
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_12_6 AppleWebKit/537.36 KHTML like Gecko Chrome/55.0.362.78 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_12_6 AppleWebKit/537.36 KHTML like Gecko Chrome/55.0.603.5 Safari/537.36
@@ -649,6 +651,7 @@ Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_2 AppleWebKit/537.36 KHTML like Geck
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_6 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_6 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.95
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_6 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.125 Safari/537.36
+Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/125.0.0.0 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/131.0.0.0 Safari/537.36; ClaudeBot/1.0; +claudebot@anthropic.
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/134.0.0.0 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/135.0.0.0 Safari/537.36
@@ -685,6 +688,7 @@ Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chro
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/83.0.4103.97 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.95
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/91.0.4472.124 Safari/537.36
+Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/94.0.4606.61 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/94.0.4606.81 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/99.0.4859.172 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:128.0 Gecko/20100101 Firefox/128.0
@@ -716,10 +720,12 @@ Mozilla/5.0 Windows NT 6.1; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrom
 Mozilla/5.0 Windows NT 6.1; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/78.0.3904.108 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/79.0.3945.130 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/80.0.3987.149 Safari/537.36
+Mozilla/5.0 Windows NT 6.1; Win64; x64; rv:75.0 Gecko/20100101 Firefox/75.0
 Mozilla/5.0 Windows NT 6.3; Win64; x64; rv:73.0 Gecko/20100101 Firefox/73.0
 Mozilla/5.0 X11; Fedora; Linux x86_64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 X11; Linux i686; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/114.0.0.0 Safari/537.36
+Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/128.0.0.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/135.0.0.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/136.0.0.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/137.0.0.0 Safari/537.36
@@ -746,6 +752,7 @@ Mozilla/5.0 X11; Linux x86_64; rv:128.0 Gecko/20100101 Firefox/128.0
 Mozilla/5.0 X11; Linux x86_64; rv:136.0 Gecko/20100101 Firefox/136.0
 Mozilla/5.0 X11; Linux x86_64; rv:138.0 Gecko/20100101 Firefox/138.0
 Mozilla/5.0 X11; Linux x86_64; rv:140.0 Gecko/20100101 Firefox/140.0
+Mozilla/5.0 X11; Linux x86_64; rv:71.0 Gecko/20100101 Firefox/71.0
 Mozilla/5.0 X11; U; Linux i686; enUS; rv:1.8.0.6 Gecko/20060803 Firefox/1.5.0.6 Swiftfox
 Mozilla/5.0 X11; U; Linux x86_64; enUS; rv:1.9.2.9 Gecko/20100915 Gentoo Firefox/3.6.9
 Mozilla/5.0 X11; Ubuntu; Linux i686; rv:79.0 Gecko/20100101 Firefox/79.0
@@ -23022,6 +23029,7 @@ Offline Explorer2.5
 Opera 12.0x11 Linux x86-64 U Linux Mint en Presto2.2.15 Version12.0
 Opera 9.4 Windows NT 6.1 U en
 Opera Mini 4
+Opera/9.80 X11; Linux i686; U; esES Presto/2.8.131 Version/11.11
 Opera10.50 Windows NT 6.1 U en-GB Presto2.2.
 Opera10.60 Windows NT 5.1 U en-US Presto2.6.
 Opera10.60 Windows NT 5.1 U en-US Presto2.6.30 Version10.60
