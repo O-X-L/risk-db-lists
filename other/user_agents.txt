@@ -634,6 +634,7 @@ Mozilla/5.0 Knoppix; Linux i686; rv:122.0 Gecko/20100101 Firefox/122.0
 Mozilla/5.0 Linux x86_64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 Linux; Android 10; K AppleWebKit/537.36 KHTML like Gecko Chrome/127.0.0.0 Mobile Safari/537.36
 Mozilla/5.0 Linux; Android 10; K AppleWebKit/537.36 KHTML like Gecko Chrome/131.0.0.0 Mobile Safari/537.36
+Mozilla/5.0 Linux; Android 6.0.1; Nexus 5X Build/MMB29P AppleWebKit/537.36 KHTML like Gecko Chrome/112.0.0.0 Mobile Safari/537.36 compatible; bingbot/
 Mozilla/5.0 Linux; Android 6.0.1; Nexus 5X Build/MMB29P AppleWebKit/537.36 KHTML like Gecko Chrome/136.0.7103.113 Mobile Safari/537.36 compatible; Goo
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:125.0 Gecko/20100101 Firefox/125.0
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:130.0 Gecko/20100101 Firefox/130.0
@@ -729,6 +730,7 @@ Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/128.0.0
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/135.0.0.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/136.0.0.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/137.0.0.0 Safari/537.36
+Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/49.0.2623.64 Safari/537.36 OPR/36.0.2126.101126
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/59.0.157.130 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/62.0.2381.38 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/81.0.4044.129 Safari/537.36
@@ -746,6 +748,7 @@ Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/68.0.3440.106 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/78.0.3904.70 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/81.0.4044.92 Safari/537.36
+Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/85.0.4182.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/89.0.4389.90 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/92.0.4515.107 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64; rv:128.0 Gecko/20100101 Firefox/128.0
@@ -756,8 +759,10 @@ Mozilla/5.0 X11; Linux x86_64; rv:71.0 Gecko/20100101 Firefox/71.0
 Mozilla/5.0 X11; U; Linux i686; enUS; rv:1.8.0.6 Gecko/20060803 Firefox/1.5.0.6 Swiftfox
 Mozilla/5.0 X11; U; Linux x86_64; enUS; rv:1.9.2.9 Gecko/20100915 Gentoo Firefox/3.6.9
 Mozilla/5.0 X11; Ubuntu; Linux i686; rv:79.0 Gecko/20100101 Firefox/79.0
+Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:134.0 Gecko/20100101 Firefox/134.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:135.0 Gecko/20100101 Firefox/135.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:79.0 Gecko/20100101 Firefox/79.0
+Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:84.0 Gecko/20100101 Firefox/84.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:89.0 Gecko/20100101 Firefox/89.0
 Mozilla/5.0 compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/
 Mozilla/5.0 compatible; BLEXBot/1.0; +https://help.seranking.com/en/blexcrawler
@@ -23845,10 +23850,12 @@ Python-urllib3.8
 Python-urllib3.9
 Python-xmlrpc3.10
 Python/3.10 aiohttp/3.11.18
+Python/3.10 aiohttp/3.12.13
 Python/3.11 aiohttp/3.11.11
 Python/3.11 aiohttp/3.11.14
 Python/3.11 aiohttp/3.8.4
 Python/3.12 aiohttp/3.11.18
+Python/3.12 aiohttp/3.12.13
 Python/3.12 aiohttp/3.9.5
 Python/3.9 aiohttp/3.10.6
 Python3.10 aiohttp3.10.0
