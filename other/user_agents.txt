@@ -545,6 +545,7 @@ Links0.9.1 Linux 2.4.24 i386
 Linux Mozilla
 Linux Mozilla 50 androxgh0st
 Lkx-Apache2449TraversalPlugin0.0.1 +httpsleak
+Lynx/2.8.7dev.4 libwwwFM/2.14 SSLMM/1.4.1 OpenSSL/0.9.8d
 Lynx2.8.7dev.4 libwww-FM2.14 SSL-MM1.4.1 OpenSSL0.9.8d
 MOT-L7v08.B7.5DR MIB2.2.1 ProfileMIDP-2.0 ConfigurationCLDC-1.1 UP.Link6.3.0.0.0
 MOT-V1770.1.75 UP.Browser6.2.3.9.c.12 GUI MMP2.0 UP.Link6.3.1.13.0
@@ -23857,6 +23858,7 @@ Python/3.11 aiohttp/3.8.4
 Python/3.12 aiohttp/3.11.18
 Python/3.12 aiohttp/3.12.13
 Python/3.12 aiohttp/3.9.5
+Python/3.8 aiohttp/3.10.11
 Python/3.9 aiohttp/3.10.6
 Python3.10 aiohttp3.10.0
 Python3.10 aiohttp3.10.1

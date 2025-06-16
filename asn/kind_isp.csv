@@ -615,6 +615,7 @@ ASN,Organization
 25520,JSC 'Futures Telecom'
 25531,PJSC Rostelecom
 25543,ONATEL (Office National des Telecommunications PTT)
+25548,SCS-Telecom
 25549,JSC Avantel
 25671,Wholesale Air-time
 25853,Ellijay Telephone Company
@@ -1149,6 +1150,7 @@ ASN,Organization
 42397,Bunea TELECOM SRL
 42437,T2 Rostov-on-Don
 42517,Schiphol Telematics B.V.
+42521,ARCTIC TELECOM Limited Liability Company
 42530,TOV 'Telecommunication company 'Plazma'
 42548,PJSC Rostelecom
 42560,Telemach BH d.o.o. Sarajevo
@@ -1273,6 +1275,7 @@ ASN,Organization
 47241,Joint Stock Company TransTeleCom
 47253,BCI Telecommunication & Advanced Technology Company
 47258,Premier Group Companies Telecom
+47266,Telecompany Energy LLC
 47288,FIXNET TELEKOM LTD. STI.
 47297,Telekommunikation Lindau GmbH
 47332,AIC TELECOMS
@@ -1742,6 +1745,7 @@ ASN,Organization
 59909,Tele-Tec GmbH
 59948,StarNet Telecom Sp. z o.o.
 59975,Play-Telecom
+60006,Raduga-Telecom LLC
 60042,OnTelecom
 60095,Ufanet Nizhniy Novgorod Branch
 60139,Sever-Telecom
@@ -2114,7 +2118,7 @@ ASN,Organization
 150576,ZYETEK TELECOM
 150683,Fasttel Broadband
 150955,IDNIC-MIT-INTEGRA-AS-ID
-150998,PT Atmega Telecomindo Nusantara
+150998,
 151122,Kp Infratel Network
 151125,LINKTEL-AS-IN
 151176,TELDROPS IT NETWORK SERVICES
@@ -3071,6 +3075,7 @@ ASN,Organization
 267164,S & R Telecomunicações LTDA
 267167,VIRTUALI SOLUÇOES EM TELECOMUNICAÇOES EIRELI
 267186,L AGENOR DE MELO
+267192,TELCOM PROVEDOR DE ACESSO
 267197,Camoa Telecom
 267201,Fiber One Telecomunicações
 267205,JOTAZO TELECOM
@@ -3256,6 +3261,7 @@ ASN,Organization
 268829,JARAGUA TECNOLOGIA EM TELECOMUNICACOES
 268869,FIBRA PLUS TELECOM
 268872,VALETELECOM CE
+268881,NMULTIFIBRA TELECOMUNICAÇÃO LTDA
 268884,Triplotel
 268935,VibeNet Telecom
 268944,Martins & Martins Telecom
@@ -3309,6 +3315,7 @@ ASN,Organization
 269382,PORTAL NET TELECOM SERVIÃOS DE INTERNET
 269396,UNIR TELECOM
 269401,EY TELECOMUNICACOES
+269402,WaveTech Telecom
 269409,Rio Online Telecomunicações e Informática Ltda Me
 269411,G3LINK TELECOM SERVICO DE COMUNICACAO MULTIMIDIA
 269416,SEMEAR TELECOM
@@ -3431,6 +3438,7 @@ ASN,Organization
 270738,Cedro Telecom
 270751,RNET TELECOM LTDA ­ ME
 270755,GLOBAL TELECOMUNICAÇÕES
+270778,NORTE TELECOM LTDA - ME
 270790,MegaLink TI e Telecom LTDA
 270814,ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES
 270816,ZAMTECH COM TELECOMUNICACOES LTDA
