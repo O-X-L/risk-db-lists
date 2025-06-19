@@ -39,6 +39,7 @@ ASN,Organization
 3352,Telefonica de España
 3356,Lumen AS3356
 3462,HiNet
+3695,SPM TELECOM
 3737,PenTeleData
 3748,Electronics and Telecommunications Research Institute
 3816,COLOMBIA TELECOMUNICACIONES S.A. ESP
@@ -108,6 +109,7 @@ ASN,Organization
 6535,Telmex Servicios Empresariales AS6535
 6559,State of NC - State Telecommunications Services
 6568,Entel S.A. - EntelNet
+6580,Golden West Telecommunications
 6648,Bayan Telecommunications Inc.
 6663,Türk Telekom International
 6697,Beltelecom
@@ -118,6 +120,7 @@ ASN,Organization
 6752,ANDORRA TELECOM
 6758,Monaco Telecom
 6762,Telecom Italia Sparkle
+6768,EUROTELE-PLUS
 6769,Kertinis valstybes telekomunikaciju centras
 6775,Fink Telecom Services GmbH
 6805,Telefónica Germany GmbH & Co. OHG
@@ -148,6 +151,7 @@ ASN,Organization
 7922,Comcast
 8014,Bahamas Telecommunications Company LTD.
 8103,Florida Department of Management Services - Division of Telecommunications
+8134,up.net
 8151,Uninet S.A. de C.V.
 8163,Metrotel SA ESP
 8193,'Uzbektelekom' Joint Stock Company
@@ -166,6 +170,7 @@ ASN,Organization
 8374,Polkomtel
 8375,Telehouse Deutschland GmbH
 8393,ASTEL JSC
+8395,East Telecom Ltd.
 8400,TSSRB - Telekom Srbija
 8402,Corbina Telecom
 8412,Magenta Telekom
@@ -191,6 +196,7 @@ ASN,Organization
 8717,A1 BG EAD
 8720,Aspan telecom
 8732,COMCOR
+8753,Mediateleset Ltd.
 8764,Telia Lietuva AB
 8767,M-net
 8781,Ooredoo Qatar
@@ -210,12 +216,14 @@ ASN,Organization
 9146,BHTelecom
 9158,Telenor Denmark
 9198,Kazakhtelecom
+9205,'SATELIT SERVIS' Ltd
 9231,China Mobile Hong Kong
 9246,GTA/Teleguam Holdings LLC
 9249,Telecom Vanuatu
 9299,Philippine Long Distance Company
 9318,SK Broadband
 9329,Sri Lanka Telecom
+9336,Spirit Telecom Limited Backbone
 9341,Indonesia Comnets Plus AS9341
 9444,PCCW Mobile
 9498,Bharti Airtel Limited
@@ -247,9 +255,11 @@ ASN,Organization
 10225,Nettlinx
 10269,Belize Telemedia
 10279,West Carolina Communications
+10423,STELLAR Broadband
 10429,TELEFÔNICA BRASIL AS10429
 10430,Washington State K-20 Telecommunications Network
 10620,Telmex Colombia S.A.
+10704,Microlink Telecom
 10821,The Pioneer Telephone Association Inc.
 10834,Telefonica Empresas
 11014,CPS
@@ -276,6 +286,7 @@ ASN,Organization
 11961,Mid-Rivers Telephone Cooperative
 11992,Liberty Mobile Puerto Rico Inc.
 12033,Adams TelSystems Inc.
+12056,Yucca Telecom
 12150,COTELCAM
 12297,TELECOM ARMENIA
 12302,Vodafone Romania
@@ -312,6 +323,7 @@ ASN,Organization
 12843,TelemaxX
 12844,Bouygues Telecom
 12846,PJSC Rostelecom
+12850,Retelit S.p.A. (formerly Enter)
 12861,Vestel Elektronik Sanayi ve Ticaret A.S.
 12874,Fastweb
 12880,TIC AS12880
@@ -333,10 +345,13 @@ ASN,Organization
 13122,Manx Telecom
 13126,Satellite Mediaport Services Ltd.
 13156,Cabovisao televisao por cabovisao sa
+13208,Newtel
 13357,Irati Telecomunicações Ltda.
 13370,LocalTel Communications
+13388,Egyptian Telephone
 13489,TigoUne
 13585,PowerVT SA
+13765,Nedelco
 14080,Telmex Colombia
 14117,Telefonica del Sur
 14155,Rural Telephone Service Co
@@ -363,7 +378,9 @@ ASN,Organization
 15466,Defensie Telematica Organisatie
 15468,PJSC Rostelecom
 15557,SFR Group
+15595,Skyline Telecom
 15598,NorthC Germany
+15599,Avantel Neftejugansk
 15659,NextGenTel
 15672,OOO Telecom TZ
 15673,Teleseti Plus
@@ -394,6 +411,8 @@ ASN,Organization
 16285,Joint Stock Company TransTeleCom
 16301,PJSC Rostelecom
 16345,BEE
+16381,Osterreichischer Automobil Motorrad und Touringclub (OAMTC) Verband
+16413,Telebermuda International Limited
 16438,Satelcom Internet Inc.
 16504,Granite Telecommunications
 16524,MetTel
@@ -412,9 +431,11 @@ ASN,Organization
 17069,Cotel Argentina
 17072,TOTAL PLAY TELECOMUNICACIONES AS17072
 17079,Telemovil El Salvador S.A.
+17133,T-Mobile USA Inc.
 17143,Winn Telecom
 17356,Vermont Telephone
 17380,Project Mutual Telephone Cooperative Association Inc.
+17385,Orbitel Communications LLC
 17400,MSTELCOM SARL
 17408,Chief
 17421,Mobile Business Group
@@ -437,9 +458,12 @@ ASN,Organization
 17911,Brain Telecommunication
 17917,Quadrant Televentures
 17924,SmarTone Mobile Communications
+17936,Cable  Television  Kani Co.Inc.
 17968,Daqing zhongji petroleum telecommunication construction limited cpmpany
 18004,SMARTFREN TELECOM Tbk
 18024,BT ACCESS
+18025,BT DC
+18042,Koos Broadband Telecom
 18092,Q-shu Tele Communications
 18126,Chubu Telecommunications Co.Inc. (ctc)
 18187,Source Telecoms
@@ -451,13 +475,17 @@ ASN,Organization
 18403,FPT Telecom
 18734,Bestel
 18881,TELEFÔNICA BRASIL AS18881
+18943,YELCOT TELEPHONE COMPANY
 18988,City West Cable & Telephone
+19112,New Lisbon Telephone Co.
 19114,Otecel
 19180,Americatel Perú
 19182,TELEFÔNICA BRASIL AS19182
+19212,Piedmont Rural Telephone Cooperative Incorporated
 19331,Twin Lakes
 19332,Marcatel COM
 19422,Telefonica Moviles del Uruguay
+19465,Gosfield North Communications Co-operative
 19523,BH TELECOM
 19605,3 Rivers Telephone Cooperative Inc.
 19635,Sandhill Telephone Cooperative
@@ -468,9 +496,11 @@ ASN,Organization
 19889,Telviso Argentina
 19955,Pineland Telephone Cooperative Inc.
 19970,R&R Managed Telecom Services
+19990,ZetaNET Telecom
 20057,AT&T Mobility LLC
 20115,Charter Communications
 20135,Millennium Telcom LLC
+20222,Plant Telephone Company
 20257,Farmers Telephone Cooperative
 20283,CONSOLIDATED TELEPHONE AS 20283
 20300,Woodstock Telephone Company
@@ -493,6 +523,7 @@ ASN,Organization
 20932,SIG Telecom
 20960,TKTelekom
 20978,TT Mobil Iletisim Hizmetleri A.S
+21001,NETKA TELEKOM
 21003,General Post and Telecommunication Company (GPTC)
 21013,eww ag / ITandTEL
 21017,PJSC Rostelecom
@@ -514,10 +545,13 @@ ASN,Organization
 21353,JSC 'ER-Telecom Holding'
 21360,Empirion Telekommunikations Services GmbH
 21378,PJSC Rostelecom
+21391,Algerian Broadcasting (Tele Diffusion d'Algerie TDA)
 21413,envia TEL
+21446,SOTEL
 21479,PJSC Rostelecom
 21487,PJSC Rostelecom
 21491,Uganda Telecom
+21555,LAUREL HIGHLAND TELEPHONE COMPANY
 21565,Horry Telephone Cooperative Inc.
 21574,CENTURY TELECOM
 21575,Entel Peru S.A.
@@ -534,6 +568,7 @@ ASN,Organization
 22368,TELEBUCARAMANGA S.A. E.S.P.
 22381,Megatelecom Telecomunicacoes
 22423,Altima Telecom
+22561,LightCore a CenturyTel Co.
 22573,Northwestel
 22639,Cooptel Coop de Telecommunication
 22689,Internet by Sercomtel
@@ -542,6 +577,7 @@ ASN,Organization
 22927,Telefonica de Argentina
 23031,TELECU AS23031
 23155,HARRISONVILLE TELEPHONE
+23242,LLC 'City-Telekom'
 23481,Hill Country Telephone Cooperative Inc.
 23624,Chukai Cable Television System Operator
 23673,Cogetel Ltd Online ISP Cambodia
@@ -565,6 +601,7 @@ ASN,Organization
 24158,Taiwan Mobile Co. Ltd.
 24186,Railtel Corporation Of India
 24232,Virtela Technology Services AS24232
+24259,kanuma cable television Corporation
 24337,Sky Telecom
 24400,Shanghai Mobile Communications Co.Ltd.
 24444,Shandong Mobile Communication Company Limited
@@ -581,6 +618,7 @@ ASN,Organization
 24645,CSC Telecom
 24651,Balticom
 24663,COMPLAT-TELECOM
+24689,Rosintel
 24691,Togocom
 24699,PJSC Rostelecom
 24739,Severen-Telecom
@@ -596,6 +634,7 @@ ASN,Organization
 25106,Mobile TeleSystems
 25117,Bouygues Telecom Business-Distribution
 25135,Vodafone UK Packet Backbone
+25141,Teleradiocompany Soniko-Svyaz Ltd
 25144,'Telekomunikacije Republike Srpske' akcionarsko drustvo Banja Luka
 25159,SONICDUO
 25227,Avantel Moscow
@@ -603,6 +642,7 @@ ASN,Organization
 25250,Gamtel Co.
 25299,Kompeatelecom Ltd.
 25328,HEP-TELEKOMUNIKACIJE
+25355,Intelecom
 25369,Hydra Communications Ltd (EU)
 25386,Inter-Telecom LLC
 25400,Telia Norge
@@ -618,16 +658,22 @@ ASN,Organization
 25548,SCS-Telecom
 25549,JSC Avantel
 25671,Wholesale Air-time
+25769,Garden Valley Telephone Company
 25853,Ellijay Telephone Company
 25880,Public joint-stock company 'RUTELEKOM'
 25892,VTX Telecom
 25933,Vogel Telecom
+26123,Independence Telecommunications Utility
+26472,Mosaic Telecom
 26599,TELEFÔNICA BRASIL AS26599
 26609,Universal Telecom Ltda.
 26703,Kalona Cooperative Telephone Company
+26724,The North-Eastern Pennsylvania Telephone Company
 26727,Brandenburg Telephone Company
 26860,SWIFTEL COMMUNICATIONS
 27221,Ardmore Telephone Company Inc
+27284,FOURPLEX-ASN
+27294,RTC Reserve Telecommunications
 27425,IdeaTek Telcom
 27539,West River Telecommunications Cooperative
 27651,entel MPLS
@@ -640,6 +686,7 @@ ASN,Organization
 27725,Empresa de Telecomunicaciones de Cuba S.A
 27738,Ecuadortelecom
 27742,Amnet Telecomunicaciones
+27745,Telefonia Bonairiano N.V.
 27747,Telecentro
 27757,CORPORACION NACIONAL DE TELECOMUNICACIONES CNT EP
 27763,ANDITEL S.A.S.
@@ -671,6 +718,7 @@ ASN,Organization
 28130,Certto Telecomunicações
 28131,NET.COM TELECOMUNICAÇOES
 28132,Tri Telecom
+28138,SCW Telecom
 28140,Maxiweb Internet Provider
 28142,DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES
 28145,RLINE Telecom
@@ -687,6 +735,7 @@ ASN,Organization
 28191,Jupiter Telecom
 28198,Sempre Internet
 28201,VALENET
+28212,Coprel Telecom - 28212
 28213,LCI Telecom
 28219,NetRosas Telecom
 28220,Cabo Telecom
@@ -695,28 +744,34 @@ ASN,Organization
 28225,Provedornet Telecom. e Serviços de Internet Ltda
 28226,Avvio Telecom
 28227,NOVACIA TECNOLOGIA E TELECOMUNICACOES
+28234,Wireless Telecom
 28247,Intercampo Telecom
 28250,Telbrax
 28252,WorldNet Telecom
+28263,Ensite Brasil Telecomunicaes Ltda - ME
 28264,ADLLink Telecom
 28267,IMAXXTELECOM
 28270,Multiplay Telecom
+28271,DataCorpore Telecom & Datacenter
 28277,VMAX
 28279,Telgo Telecom
 28283,Adyl Telecom - AS28283
 28285,Beltrãonet Telecomunicações
 28287,Fit Telecom - Americanet
 28292,Engeplus Telecom
+28296,Acessa Telecomunicações Ltda
 28305,LGTEL61 INTERNET
 28306,Voluy Telecom
 28308,ORION TELECOMUNICAÇÕES COM E SERV
 28309,WGO TELECOM
 28323,VIPRede Telecomunicações
 28326,Total Telecom
+28330,IFTNET Telecom
 28334,PROCESS TELECOM
 28343,Unifique Telecomunicações
 28359,ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES S.A
 28360,WKVE Telecom
+28366,Marinter Telecom
 28368,SOBRALNET SERVIÇOS E TELECOMUNICACOES LTDA - ME
 28378,TV Rey de Occidente
 28394,Bicentel SA de CV (C3ntro Telecom)
@@ -743,12 +798,14 @@ ASN,Organization
 28555,Cablemas Telecomunicaciones SA de CV
 28573,Claro S.A. (NET)
 28577,AZEVEDO E FLORIANI TELECOMUNICAÇÕES
+28587,RadNet Telecom
 28599,Italnet Telecomunicações Ltda
 28613,HUGHES TELECOMUNICACOES DO BRASIL LTDA.
 28615,Televisao Cidade S/A (SIMTV)
 28618,Linktel Telecomunicacoes
 28624,Oops Telecom
 28635,Younet Internet
+28636,CDI Telecom
 28638,CENTRO OESTE TELECOM EIRELI
 28640,VIPWAY Telecom
 28652,Telecomunicações Nordeste Ltda.
@@ -790,6 +847,7 @@ ASN,Organization
 29286,Eutelsat - Skylogic
 29287,Wien Energie GmbH
 29357,Ooredoo Kuwait (Wataniya Telecom)
+29388,ASN-BESTCOM
 29399,Ramtek
 29420,ALLOTELECOM LLC
 29422,Nebula Oy
@@ -799,6 +857,7 @@ ASN,Organization
 29544,Mauritanian Telecommunication Company
 29555,JSC Altel
 29614,Telecel Ghana
+29644,Airspeed Telecom
 29664,FLAG TELECOM UK LIMITED
 29695,Lyse Tele AS
 29744,United Telephone Mutual Aid Corporation
@@ -808,8 +867,10 @@ ASN,Organization
 30029,Dobson Technologies
 30041,Race Telecommunications
 30174,United Telephone Association
+30263,Cal-Ore Telephone
 30325,SSTC NET
 30341,South Central Telephone Association
+30530,Farmers Mutual Telephone Company
 30619,Telecomunicacoes de Mocambique
 30722,Vodafone Italy
 30733,JSC 'Globus-Telecom'
@@ -823,6 +884,7 @@ ASN,Organization
 30916,Primetel PLC
 30975,Telewizja Kablowa Koszalin
 30982,CAFE Informatique et telecommunications
+30987,Eritrea Telecommunication Service corporation (EriTel)
 30990,Djibouti Telecom
 30999,Emtel
 31028,Novoe Kabelnoe Television Ltd.
@@ -842,10 +904,12 @@ ASN,Organization
 31363,JSC 'ER-Telecom Holding'
 31376,Smart Telecom
 31404,LYCATEL DISTRIBUTION UK LIMITED
+31409,SelTelecom-Net
 31412,STOWARZYSZENIE MILOSNIKOW TELEWIZJI SATELITARNEJ ASTRAL
 31430,TC TEL CENTER AS31430
 31499,MOTIV
 31512,OJSC 'Telecommunications FEZ Nakhodka'
+31525,Satti Telecom LLC
 31549,RASANA
 31615,Odido AS31615
 31631,Telcom Networks
@@ -854,16 +918,20 @@ ASN,Organization
 31721,Azercell Telecom
 31726,Telefiber
 31841,NEW KNOXVILLE TELEPHONE COMPANY
+31996,Zoom Telcom LLC
 32012,HD Telecom Inc.
 32264,KMTELECOM
 32277,TBayTel
 32473,EHTEL
 32758,TotelCSI
+32845,Tel-Star Communications Inc
 32890,Beehive Telephone Company
+33038,XIT Rural Telephone Cooperative Inc.
 33059,Momentum Telecom AS33059
 33130,Internet Access Solutions Ltd.
 33247,Coastal Telco Services
 33339,Nemont
+33362,Wikstrom Telephone Company
 33567,Econet Telecom Lesotho (PTY) LTD
 33604,Burlington Telecom
 33647,Yadkin Valley Telephone
@@ -876,7 +944,9 @@ ASN,Organization
 33915,Vodafone Libertel B.V.
 33922,Nacionalinis Telekomunikaciju Tinklas
 33934,PJSC Rostelecom
+33977,Banat Telecom Satelit
 33986,Redder Telco
+34042,MT-Telecom LLC
 34060,SC TELECOMUNICATII CFR SA
 34066,Telappliant
 34087,NTE Bredbånd AS
@@ -885,6 +955,7 @@ ASN,Organization
 34156,DB Systel GmbH
 34168,PJSC Rostelecom
 34170,Aztelekom
+34205,PJSC Rostelecom
 34244,Teleservice Bredband Skåne AB
 34263,MPY Telecom Oy
 34265,SilverTelecom
@@ -902,6 +973,7 @@ ASN,Organization
 34502,Multikom Austria Telekom GmbH
 34533,JSC 'ER-Telecom Holding'
 34547,Telesmart Telekom
+34557,Tacom
 34584,PJSC Rostelecom
 34590,JSC 'ER-Telecom Holding'
 34594,Optima telekom
@@ -910,11 +982,13 @@ ASN,Organization
 34703,LTD Pokrovsky radiotelefon
 34704,VOIP Telecom SAS
 34718,TEXNOPROSISTEM
+34723,RNT
 34743,NASHNET
 34772,Neotel
 34779,T-2 d.o.o.
 34858,Telezon-Seti LLC
 34892,PJSC Rostelecom
+34896,Vostoktelecom Telephone Company Limited Liability Company
 34937,Stowarzyszenie Olawska Telewizja Kablowa
 34974,PJSC Rostelecom
 34977,PROCONO
@@ -929,6 +1003,7 @@ ASN,Organization
 35177,PJSC Rostelecom
 35184,IC Telecom
 35199,ENFORMATEL
+35200,iTalk Affliate Telecommunications Ltd
 35239,LLC Balttelecom
 35261,Core Telecom S.R.L.
 35283,NETWORTH TELECOM
@@ -943,18 +1018,22 @@ ASN,Organization
 35588,Telecompany LiS LTD
 35632,Societe Francaise Du Radiotelephone - SFR SA
 35699,Adamo Telecom Iberia S.A
+35723,Transport Telecommunication Company LLC
 35725,TELEKOM ROMANIA MOBILE COMMUNICATIONS S.A.
 35753,Integrated Telecom (ITC) - Saudi Arabia
 35765,Gemeindewerke Telfs GmbH
 35768,Iris-tel ltd
 35807,SkyNet SPB
+35810,BIG TELECOM
 35819,Etihad Etisalat Company (Mobily)
 35911,Telebec
 36103,CentraCom
 36105,Big Bend Telephone Company Inc.
 36149,Hawaiian Telcom
 36165,ITM TELECOM
+36305,The Albany Mutual Telephone Association
 36374,Stellar Association
+36468,Intelligent Technical Solutions
 36487,Consolidated Telephone Company
 36511,Dauphin Telecom Guadeloupe
 36545,Bledsoe Telephone Cooperative Corporation
@@ -1015,12 +1094,15 @@ ASN,Organization
 37430,VDC Telecom
 37440,Airtel Malawi
 37451,Congo Telecom
+37455,Bharat Telecom Ltd
 37457,Telkom Internet
+37472,Nigerian Communications Satellite
 37473,Telesom
 37475,HTT Telecom S.A
 37517,CV Telecom
 37526,TELECEL FASO
 37529,Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial
+37531,Airtel Niger
 37550,airtelcg
 37563,SOMTEL INTERNATIONAL
 37566,ICONA for IT and Telecom
@@ -1029,6 +1111,7 @@ ASN,Organization
 37605,General Telecommunication Networks (NIG) Limited
 37616,Airtel Gabon
 37622,Mahanagar Telephone (Mauritius)
+37677,Societe Congolaise des Postes et Telecommunications (SCPT)
 37908,KIBI Cable Television
 38009,Telikom PNG
 38019,tianjin Mobile Communication Company Limited
@@ -1055,6 +1138,7 @@ ASN,Organization
 38875,FSMTC - AS38875
 38917,INTERCOMTEL Limited Company
 38949,Trestel SK
+38951,PJSC Rostelecom
 38958,Alfa Telecom Ltd.
 38987,Spoldzielnia Telekomunikacyjna OST
 38999,Mobile Interim Company no.2 sal
@@ -1068,6 +1152,7 @@ ASN,Organization
 39153,Setel
 39156,First Telecom Ltd
 39180,LASOTEL
+39190,Ahmad Mahmoud Hassan trading as Nour El Houda Trading & Telecommunications
 39273,Kalaam Telecom Bahrain
 39279,I.S. Centrul de Telecomunicatii Speciale
 39280,UltelNET-AS
@@ -1078,6 +1163,7 @@ ASN,Organization
 39505,Vestitel
 39586,NPP Saturn Telecom Ltd.
 39699,Lounea Palvelut
+39735,'Permtelecom' Ltd
 39737,Prime Telecom
 39791,Telco Pro Services a. s.
 39808,Fontel
@@ -1101,6 +1187,7 @@ ASN,Organization
 41134,PJSC Rostelecom
 41164,GET Norway
 41165,UNTC
+41190,PJSC Rostelecom
 41202,Unitel Uzbekistan
 41272,MOSELLE TELECOM
 41275,Lovitel LLC
@@ -1127,9 +1214,12 @@ ASN,Organization
 41777,Telewizja Polsat Sp. z o.o.
 41786,JSC 'ER-Telecom Holding'
 41789,LLC Teledyne Systems Limited
+41790,Teleaudio
 41798,Transtelecom Kazakhstan
+41802,Kvidex-Telecom
 41813,LLC ONLINETELECOM
 41843,JSC 'ER-Telecom Holding'
+41844,'Urban Mobility Center' EAD
 41877,Railway Telecom Ltd
 41925,IZET-Chelyabinsk
 41959,PLJ TELECOM
@@ -1137,6 +1227,7 @@ ASN,Organization
 42003,OGERONET
 42020,LibanTelecom
 42039,Stowarzyszenie 'Telewizja Teofilow B'
+42057,GIPTEL LLC
 42061,LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation
 42065,ZAO ElectronTelecom
 42083,Guneydogu Telekom
@@ -1163,6 +1254,7 @@ ASN,Organization
 42739,Hawe Telekom
 42770,Kar-Tel LLC
 42786,SC Dynamic Telecom SRL
+42808,VIRTELA-NET-VNLAMS1
 42811,Herault Telecom SAS
 42841,ANTIK Telecom
 42845,Bretagne Telecom
@@ -1176,16 +1268,19 @@ ASN,Organization
 43061,Stelkom d.o.o.
 43103,ONE TELECOM ltd
 43132,PJSC Rostelecom
+43149,Rocket Telecom Center LLC
 43197,TT mobile
 43228,SimpleTelecom LLC
 43244,TELNET Sp. z o.o.
 43274,Teleradiocompany Teleos-1 Ltd
 43297,VDS-Telecom
 43314,JSC 'ER-Telecom Holding'
+43321,Satelcom-Service Ltd.
 43328,LLC 'INZHENERNYE SETI - TELEKOM'
 43355,UPL TELECOM
 43370,OBIT-KZ-AS
 43372,TELNAP TELECOM
+43376,DOTRO Telecom
 43400,NEO-TELEKOM Ltd
 43409,SKP 'Kyivteleservis'
 43413,NEW TELEKOM spol. s r.o.
@@ -1196,9 +1291,14 @@ ASN,Organization
 43533,Gals Telecom
 43550,JSC Avantel
 43567,ug-tele.com
+43574,PJSC Rostelecom
 43576,KuMIR TELECOM
+43605,Severo-Eniseysk-Telecom LLC
+43655,SENER Mobility S.A.
+43656,ПКП Телерадиокомпания Интертелеком
 43670,New Telecommunication Company Ltd.
 43727,KVANT-TELECOM
+43747,TELEVALENTIN S.L
 43811,Telia Lietuva AB
 43833,Open Cable Telecomunicaciones S.L.
 43843,BrianTel
@@ -1207,6 +1307,7 @@ ASN,Organization
 43940,Drustvo za telekomunikacije 'MTEL' DOO
 43957,WNT Telecommunication
 43991,Voronezh Telecom LLC
+44021,Drustvo za telekomunikaciski uslugi TELEKABEL DOOEL Stip
 44030,OtradnoeNet
 44118,BalkanTel DOO
 44123,Telavox
@@ -1215,11 +1316,15 @@ ASN,Organization
 44244,Iran Cell Service and Communication Company
 44265,OOO Smoltelecom
 44309,ET 'Satelit TM - Anton Simeonov'
+44317,Mercury Telecom LLC
 44405,Sistemy Telekommunikatsiy i Svyazi Ltd.
 44416,Satellite Net Service
+44417,JSC Neotelecom
+44429,MXTel Ltd.
 44442,The Borough of Telford and Wrekin Council
 44443,LLC Inovatsiyni Telekomunikatsii
 44507,Kostroma Municipal Telephone Network
+44540,Kartel Ltd.
 44546,ALFA TELECOM s.r.o.
 44547,NETUNDWEB TELEKOMUNIKASYON
 44565,VITAL TEKNOLOJI TELEKOMUNIKASYON BILGISAYAR HIZMETLERI VE SANAYI TICARET LTD SIRKETI
@@ -1232,6 +1337,7 @@ ASN,Organization
 44811,JSC Avantel
 44814,Bulgartel
 44832,AlphaPhone Telekommunikations GmbH
+44834,Pozitiv Telecom Ltd.
 44837,ELS Telecom
 44851,Retel JSC
 44927,Telecom MPK
@@ -1241,6 +1347,7 @@ ASN,Organization
 44988,KovrovTelecom Ltd.
 45143,SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 45313,Dinas Perhubungankomunikasi informasi dan Telematika -NAD
+45325,PT PC24 Telekomunikasi Indonesia
 45326,Broad Band Telecom Services Ltd (BBTS)
 45355,Digicel Fiji
 45356,Mobitel Sri Lanka
@@ -1261,6 +1368,7 @@ ASN,Organization
 45916,Gujarat Telelink
 45925,Teletalk Bangladesh
 46026,BATAM BINTAN TELEKOMUNIKASI PT
+46063,GTNET-AS-ID
 46375,Sonic Telecom (Sonic.net Inc.)
 46632,Southwest Arkansas Telephone Coop
 46690,Southern New England Telephone Company and SNET America Inc.
@@ -1271,6 +1379,7 @@ ASN,Organization
 47159,Celldomolki Kabeltelevizio Kft.
 47202,LAZER TELECOMUNICACOES S.A.
 47206,Societe Francaise Du Radiotelephone - SFR SA
+47216,Ettelaat Fanavarn-E Tookan Co Ltd
 47217,Planetel
 47237,NUR Telecom
 47241,Joint Stock Company TransTeleCom
@@ -1284,17 +1393,22 @@ ASN,Organization
 47418,LLS Regional TeleSystems
 47440,Business System Telecom
 47441,TRUNK MOBILE
+47530,Novokuznetsk Telecom Ltd
+47531,OskolTelecom
 47588,TEL COMMUNICATIONS L.L.C.
 47655,LINKINTEL
 47688,Fastic
 47702,Discovery
+47726,INFOBOX
 47755,Tempus Telecom
 47794,Etihad Atheeb Telecom
 47806,TeleCondado S.L.
 47826,BENTELER Business Services GmbH
+47845,Tiger-Telecom
 47883,KIBRIS MOBILE TELEKOMUNIKASYON LTD.
 47887,Neu Telecom and Technologies (Damamax)
 47898,PAN-Telecom
+47909,Baikal-Telecom Ltd.
 47914,IP-Home
 47939,TDV 'Teleradio company 'Yalta' LLC
 47954,Alpha Net Telecom Ltd
@@ -1320,7 +1434,10 @@ ASN,Organization
 48271,CJSC 'TELECOMMUNICATIONS COMPANY 'DUN'
 48284,SWU TeleNet GmbH
 48293,Uniontel
+48302,OOO 'Telecom GKhK'
 48364,Radim Pytela trading as AC Vyskov
+48369,M-Telecom Ltd.
+48408,Localitel
 48424,GLOBITEL
 48438,Corbina Telecom AS48438
 48479,KUBAN-TELECOM Ltd.
@@ -1333,6 +1450,7 @@ ASN,Organization
 48675,Deltatelecom
 48695,Etihad Atheeb Telecom /GO Telecom
 48712,'Info-Net' Uslugi Teleinformatyczne S.C.
+48720,VIP-TELECOM-SERVICE Ltd.
 48738,Teleset ltd.
 48780,OLTELECOM JSC
 48944,khalij fars Ettela Resan Company J.S.
@@ -1352,6 +1470,7 @@ ASN,Organization
 49183,Galichina Telekommunication
 49301,Joint Stock Company TransTeleCom
 49311,Regional TeleSystems Ltd.
+49318,TELEFONICA TECH UK MANAGED SERVICES LTD
 49320,Golitsyno Telecom
 49327,TOV 'Telza'
 49377,JSC'Yamaltelekom'
@@ -1359,6 +1478,7 @@ ASN,Organization
 49455,Telia Norge AS49455
 49461,PP 'Podilsky Intelectualni sistemy'
 49508,Samtelecom LLC
+49529,Duplex tel LLC
 49551,Teleseti Ltd
 49561,VECHIR TELECOM
 49601,UNITEL-MEDIA Sp. z o.o.
@@ -1369,6 +1489,7 @@ ASN,Organization
 49702,Svyaz Telecom OOO
 49718,Nizhnevolzhskie Telecommunication Networks Real
 49724,Vainah Telecom
+49759,SerDi TeleCom LTD
 49761,TELESIM
 49814,TOMGATE-AS
 49863,Lite-Telecom Limited
@@ -1377,6 +1498,7 @@ ASN,Organization
 49897,Alians Telecom Ltd.
 49902,SRR
 49954,Zextel
+49963,Regional TeleSystem Ltd
 49984,Telcom
 50009,QUARTZ TELECOM
 50022,Kristelecom
@@ -1389,15 +1511,19 @@ ASN,Organization
 50237,The College of Management Academic Studies Founded by the Union Officials in Tel Aviv Corporation for Public-Benefit Ltd.
 50239,SOFTNET TELEKOM BIELINSKA sp.j.
 50241,UnitTelecom
+50251,NUR Telecom LLC
 50257,A-Mobile
 50261,ACE Telecom Kft
 50266,Odido
 50309,ARCADIZ TELECOM
 50362,LLC CABLE TELEVISION COMPANY CABLE TELEVISION NETWORKS PLUS
+50418,Fartel Ltd
 50427,Orion Telecom Abakan
 50436,PŸUR - CIN
+50439,City Telephone Network Ltd.
 50473,Altagen
 50482,JSC Kazakhtelecom
+50488,LLC Utelcom
 50498,JSC 'ER-Telecom Holding'
 50512,JSC 'ER-Telecom Holding'
 50539,Telematica Ltd.
@@ -1407,6 +1533,7 @@ ASN,Organization
 50550,K3 Telecom Sp. z o.o.
 50577,INTELSC Ltd
 50581,UTG
+50604,SC MEDIA SUD
 50616,ONE Telecommunications
 50628,Leonix Telecom
 50657,WestNet Telekommunikations- und Informationsdienstleistungs GesmbH
@@ -1427,6 +1554,7 @@ ASN,Organization
 51004,Sakhalin Cable Telesystems Ltd
 51034,JSC 'ER-Telecom Holding'
 51035,JSC 'ER-Telecom Holding'
+51071,SibTeleCom Ltd.
 51121,Foboss-Telecom LLC
 51155,Citylink Telecom
 51178,Avantel Saint-Petersburg
@@ -1445,6 +1573,7 @@ ASN,Organization
 51449,Kabelova televize Usti nad Orlici spol. s r. o.
 51495,Telephone Network of Ashgabat CJSC
 51504,AS Telset
+51511,LLC 'Teleradio Company Traide-Express'
 51521,Resident Control Telco s.r.o.
 51547,LLC 'Telekonika'
 51570,JSC 'ER-Telecom Holding'
@@ -1453,9 +1582,11 @@ ASN,Organization
 51604,JSC 'ER-Telecom Holding'
 51612,Alfatel plus Ltd
 51615,Zavod Kabelska televizija Nova gorica
+51624,21 Century Telecom Ltd
 51645,JSC 'ER-Telecom Holding'
 51655,Ilim Telecom Ltd.
 51757,Infratel
+51801,INTERNET KUTUSU TELEKOMUNIKASYON BILISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI
 51813,Joint Stock Company TransTeleCom
 51819,ER-Telecom Holding
 51825,Telzar
@@ -1484,7 +1615,10 @@ ASN,Organization
 52436,Cable Televisora Color
 52473,Cooperativa Telefónica de Abasto
 52495,Cotel Ltda.
+52524,Terabyte Servicos de Telecom B Larga
 52532,Speednet Telecomunicações
+52539,SBS-NET TELECOMUNICACOES
+52541,New Speed Telecom
 52544,Ivatel Redes e Internet
 52547,Primatec MT
 52548,tc conecta serviços de telecomunicações e provedor
@@ -1497,19 +1631,29 @@ ASN,Organization
 52571,G2G Telecom
 52573,UNE TELECOM LTDA
 52579,Noroestecom
+52587,IFIBRA TELECOM
+52589,MULTLINK TELECOM
 52596,TROPICALNET TELECOM
+52599,A Rede Telecom
+52600,Digitotal Networks
 52601,FAXT Telecomunicações Ltda
 52609,EVO Networks
 52610,Adyl Telecom - AS52610
+52611,EdiMelo Telecom
+52617,DIGITAL.COM TELECOMUNICACOES LTDA
 52624,WEB TELECOMUNICAÇÕES LTDA
+52625,X-PC Telecom
 52630,MT-TELECOM SUL
+52651,DeltaAtiva Telecomunicacoes
 52654,Bi-Link Telecom
 52657,Norte Telecomunicações
 52662,Telecall AS52662
 52685,ConectNet Telecomunicações LTDA
 52686,F.J.FANTINI AMPARO ME
+52696,JSX TELECOM
 52698,OPENTEL Comércio e Serviços Ltda
 52699,ITANET CONECTA
+52700,ITLINE TELECOM
 52706,DANIELLI TELECOMUNICAÇÕES LTDA - 3D TELECOM
 52711,FASTNET TELECOM
 52712,Connetiva Internet
@@ -1520,14 +1664,17 @@ ASN,Organization
 52737,Floriani Serviços de Telecomunicação Ltda ME
 52741,MC TELECOM
 52747,Wsp Servios de Telecomunicaes
+52751,BrasRede Telecom
 52752,Hi7 Telecom
 52758,Global Network Telecomunicações do Brasil
 52765,MAXXNET TELECOM
 52772,Sjnet Telecom
+52778,SANER TELECOM INFORMATICA LTDA ME
 52780,MAP TELECOMUNICACOES
 52783,ALCANS TELECOM LTDA
 52787,MAX TELECOM PROVEDOR DE ACESSO A INTERNET
 52790,CONECTA NET TELECOMUNICAÇÕES LTDA ME
+52793,Kelvyn Sat Comércio e telecomunicações Ltda
 52795,One Telecom
 52812,WRLINK TELECOM
 52814,NETPLAY TELECOM
@@ -1535,10 +1682,14 @@ ASN,Organization
 52820,Brasilfone Telecomunicao Ltda
 52829,NEWLINE TELECOM
 52838,WN TELECOM
+52846,Innovanet Telecom LTDA
+52854,DIGITALSMART TELECOMUNICACOES LTDA
+52855,Omegasul
 52862,Redenilf Serviços de Telecomunicações
 52866,IVeloz Telecomunicações
 52870,Disk Sistema Tele-Informatica
 52872,VOANET Telecomunicações Ltda.
+52873,Softdados Telecomunicações
 52876,PW NETWORK INFORMATICA E TELECOMUNICACOES LTDA
 52878,REDE DE TELECOMUNICAÇÕES CARAJAS
 52879,ABM INFORMATICA E TELECOM
@@ -1546,8 +1697,12 @@ ASN,Organization
 52892,Coprel Telecom LTDA
 52894,Klisa Net Telecomunicações e Multimidia LTDA ME
 52898,Multipla Serviços Inteligentes
+52899,FLIX TELECOM
+52900,HI TELECOM
 52901,Minas Telecom
+52903,Sglinknet Telecomunicacoes
 52904,Multpontos Telecomunicações
+52906,VOXX TELECOM LTDA - ME
 52907,EMPRESA MINEIRA DE TELECOMUNICAÇOES
 52917,SPACE NET SERV. DE TELECOMUNICAÇÃO EM INF. LTDA-ME
 52923,Netcar Internet Telec Info e Tecnologia LTDA
@@ -1556,6 +1711,7 @@ ASN,Organization
 52931,Netvip Telecomunicações Ltda
 52932,Tecnowireless Telecom
 52937,FHP TELECOMUNICAÇÃO
+52940,PATH TELECOM AS52940
 52944,MEGALINK TELECOMUNICACOES
 52962,Vipnet Baixada Telecomunicacoes e Informatica LTDA
 52963,JATIMNET TELECOM
@@ -1572,6 +1728,7 @@ ASN,Organization
 53006,ALGAR TELECOM S/A
 53010,MINUTES4ALL TELECOMUNICAÇÕES LTDA
 53024,INFOR DF TELECOMUNICACOES E INFORMATICA
+53040,ALTA CONEXAO TELECOMUNICACOES LTDA
 53041,Uau Telecom Ltda ME
 53048,CTE Telecom
 53051,Com NT TELECOM LTDA - ME
@@ -1583,12 +1740,15 @@ ASN,Organization
 53081,Netjacarei Telecon
 53087,TELY
 53088,ForNet Telecom
+53096,BNET Telecom
+53097,SuperIP
 53100,Criare Net Telecomunicacoes
 53102,S.I. Teleinformatica (Sitel)
 53115,ISPX Solucoes em Telecomunicacoes
 53118,Netline Telecom
 53120,MUNDIVOX TELECOMUNICAÇÕES LTDA
 53123,Power Telecomunicações
+53127,VB Telecom Com. e Serv. de Info
 53132,Mega Grupo de Telecomunicações Ltda
 53134,Wixx Telecom
 53135,BRASIL TECNOLOGIA E PARTICIPACOES S/A
@@ -1599,12 +1759,18 @@ ASN,Organization
 53156,PortalSAT Telecom
 53158,Net Turbo Telecom
 53167,Sebratel Tecnologia
+53171,PATH TELECOM AS53171
 53172,Next Telecomunicações do Brasil LTDA
 53173,SOBRALNET SERVICOS E TELECOMUNICACOES
 53178,SCNET TELECOMUNICAÇÕES LTDA
+53180,Infortel Comunicacoes
 53181,K2 Telecom e Multimidia
+53189,Toque Telecom
+53194,VIA NOVA TELECOMUNICACOES LTDA
+53202,Acesso10 Telecom
 53205,IBSOL TELECOM LTDA
 53222,Seanet Telecom
+53223,Master Net Telecom
 53230,Clean Net Telecom
 53237,Telebras - Telecomunicações Brasileiras S.A.
 53238,Chapecó tecnologia em telecomunicação ltda
@@ -1614,8 +1780,11 @@ ASN,Organization
 53896,MAZAGAN TELECOM
 53942,ASN-CTCAK-1
 54374,WMTA
+54392,Decatur Telephone Company
 54512,Chickamauga Telephone Corporation
+54579,Chariton Valley
 54614,CIK Telecom
+55254,WaveDirect Telecommunications
 55309,Minh Tu Telecom Limited Company
 55329,Telcotech Cambodia
 55330,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK
@@ -1630,6 +1799,7 @@ ASN,Organization
 55769,SEATEL(CAMBODIA)
 55821,Radius Telecoms Inc.
 55836,Reliance Jio Infocomm NLD Network
+55888,Nintatsu Global Telecommunications Corporation
 56040,China Mobile communications corporation
 56041,China Mobile communications corporation
 56042,China Mobile communications corporation
@@ -1647,6 +1817,7 @@ ASN,Organization
 56272,Pulse Telesystems
 56308,Telekomunikasi Indonesia International Singapore
 56330,JSC 'ER-Telecom Holding'
+56377,JSC 'ER-Telecom Holding'
 56391,VTELECOM
 56404,Little Enterprise Independent Television Company 'Norma-4' LTD
 56420,JSC 'ER-Telecom Holding'
@@ -1657,20 +1828,26 @@ ASN,Organization
 56550,STEL
 56571,HISPANICA DE TELECOMUNICACIONES Y SERVICIOS INTEGRALES S.L.
 56582,NETFACTOR-ASN
+56592,Telewest Inet
+56654,Infinity Telecom SRL
 56665,Proximus Luxembourg
 56677,Tele-Club Ltd.
 56689,Elitel Telecom Group Ltd
 56696,ASLIQUID-MPLS
 56701,AVANTA TELECOM
 56709,WIST
+56724,Teleskan-Intercom Ltd
 56754,Foxtel s.r.l.
 56803,Datasource AG
 56835,UTELS
 56882,LEAST COST ROUTING TELECOM SL
 56981,JSC 'ER-Telecom Holding'
+57018,In-line Telekom LLC
+57019,Export Telecom LLC
 57026,JSC 'ER-Telecom Holding'
 57038,LLC 'Amurtelekom'
 57044,JSC 'ER-Telecom Holding'
+57113,TVIPTEL LCC
 57136,VIVA Telecom
 57141,TELWAN
 57153,TeleSystem LLC.
@@ -1688,10 +1865,15 @@ ASN,Organization
 57388,I.B.C - Telecom Sh.p.k.
 57389,ZNET Telekom Zrt.
 57468,AZA TELECOM
+57489,LLC 'Telecom-Uslugi'
 57513,Mobile interim company 1 S.A.L.
+57532,Kabelska televizija Ravne d.o.o.
+57583,IP Shefer Vitaliy Vyacheslavovich
+57615,Rusinvesttelecom Ltd
 57701,Myszkowska Telewizja Kablowa Sp. z o.o.
 57716,Skynet Telecom s.r.o.
 57723,Media Telekom Sp. z o.o.
+57741,OskolTelecom 1
 57781,LLC Yarteleservice
 57794,HCN
 57803,TeleServis Ltd
@@ -1707,16 +1889,19 @@ ASN,Organization
 58193,Telecom26 AG
 58224,TCI
 58230,INTELCOM LTD
+58238,MKS Telecom LLC
 58243,TELE AG
 58254,Nano Telecom LLC
 58284,OOO RTS Telecom
 58310,TELEPORT LLC
 58378,Balai Telekomunikasi dan Informatika Perdesaan
+58405,United Telecoms
 58424,Xinwei Telecom Cambodia
 58453,China Mobile International
 58460,Digicel (PNG)
 58466,CHINANET Guangdong province network
 58610,Telnet Telecommunication Limited
+58640,NEXTRA COMMUNICATIONS PVT. LTD.
 58655,SkyTel Communications Limited
 58715,Earth Telecommunication
 58725,ZYE TELECOM
@@ -1747,6 +1932,7 @@ ASN,Organization
 59975,Play-Telecom
 60006,Raduga-Telecom LLC
 60042,OnTelecom
+60072,LLC EGS-Telecom
 60095,Ufanet Nizhniy Novgorod Branch
 60139,Sever-Telecom
 60171,AFR-IX Telecom
@@ -1758,11 +1944,14 @@ ASN,Organization
 60533,SateliX
 60563,Transmitel Sp. z o.o.
 60599,KOMPAS TELECOM Ltd
+60607,ICENET TELEKOM HIZMETLERI ANONIM SIRKETI
 60609,APFUTURA TELECOM
 60619,TelcoNet Kft.
 60641,HEXATEL SAS
+60720,Telenet Solution
 60738,OOO PKF 'Delta Telekom'
 60740,Joint-Stock company 'Arctictelecom'
+60764,Telecom Samara
 60793,Ocean Unified Communications
 60815,Data Net Telecom Co. Ltd
 60840,OJSC Telecom-Service
@@ -1772,6 +1961,7 @@ ASN,Organization
 60904,ATC Telecom LTD.
 60986,ZagorodTelecom LLC
 60989,Sinergia Telecomunication
+60994,SOCIETE COMMERCIALE DE TELECOMMUNICATION SCT SAS
 61031,Escomtel Backbone Network
 61064,Tele-Necik.PL
 61068,NECSTEL
@@ -1781,29 +1971,45 @@ ASN,Organization
 61208,SCORTEL SRL
 61230,Internet Protocol Transit Telecom
 61233,TERRA TELEKOM SP. Z O.O.
+61349,MaxiTEL Telecom B.V.
+61367,TOO B-TEL
+61372,AZIMUT TELECOM Ltd.
 61403,Sever Telecom JSC
 61408,AGO TELECOM
+61431,TELECOMMUNICATION COMPANY KAMA - LINK LLC.
 61452,Restel S.A.
 61481,Coopetel El Bolson Ltda
+61503,SERVICIOS DE TELECOMUNICACIONES INTERCABLE
 61510,Cooperativa Telefonica de Calafate
+61577,AMAZONTEL TELECOMUNICACOES
 61582,ATRIX ENGENHARIA
 61583,WDS TELECOM Brasil
+61602,HLP Mobile and Worldwide Tracking AS61602
 61603,Goias Telecomunicações SA. - GOIAS TELECOM
 61614,67 Telecom
+61618,Viva Tecnologia Telecom
 61621,Norte.Net Telecomunicações
 61637,RADIOBRAS TELECOM
 61638,Impactnet Telecomunicacoes LTDA
 61648,PLAYIP
 61649,CONECT TELECOMUNICACOES COMUNICACOES E MULTIMIDIA
 61659,godnet telecom
+61660,CRAPAC SERVICOS DE TELECOMUNICACOES LTDA - ME
 61662,G2 XAXIM TELECOMUNICACOES
 61664,Rondotech Telecom
+61670,New Net Informatica e Telecomunicações
 61675,GRANDE REDE TELECOM EIRELLE
+61689,ALLREDE
 61696,DOMUS TELECOM
 61699,Fernando Oliveira Cambuhy Informatica - ME
 61700,Uai Telecom Comunicacao Multimidia Ltda
+61704,Conectiva Telecom
+61712,YUPNET TELECOMUNICACOES
+61717,NetTri Telecom
 61719,SP TELECOMUNICAÇÕES
+61724,VIÇOSANET TELECOM
 61725,MR Telecom
+61726,Orixinet Telecom
 61727,SPN Telecom
 61728,Infonavi Telecomunicações Ltda - Me
 61729,CB NET TELECOM
@@ -1814,6 +2020,7 @@ ASN,Organization
 61754,I3 TELECOMUNICACOES - EIRELI
 61761,AGATANGELO TELECOM
 61765,Forza Telecom
+61768,Net Infinito Telecom
 61773,G+ NETWORK TELECOM EIRELI - ME
 61782,WNNet Telecom
 61784,AltaNET Telecom
@@ -1821,25 +2028,39 @@ ASN,Organization
 61794,TW TELECOM JACIARA EIRELI
 61797,CHECK-UP NET TELECOM
 61800,VIGORA TELECOM
+61806,LIG TECH TELECOMUNICACOES EIRELI
+61810,Webfibra Telecomunicações
 61817,Halley
+61820,Ipunet Telecomunicações
 61824,Top Serviços de Telecomunicações Ltda
 61829,CNET TELECOM
+61830,ASN61830
 61834,JACOMELI TELECOM
 61844,PATH TELECOM AS61844
 61851,Garra Telecom
 61854,CLICKNET TELECOM PROVEDOR DE INTERNET
 61855,NovaNet Telecom
+61856,Viamar Telecom
+61858,PRIME SYSTEM TELECOM
+61871,Siqueira Link Serviços de Telecomunicações LTDA.
+61877,SELECT TELECOM E REDES
 61884,OLLA COMUNICACAO LTDA
 61888,GFT COMERCIO DE TELEFONIA E COMUNICACAO
 61889,BRASIL DIGITAL TELECOMUNICACOES
 61893,RMS Telecom
 61901,RMR Assessoria Técnica em Teleinformática
+61906,Unimax Telecom
 61908,Nova Net Telecomunicações Ltda
 61916,Stargateway Informatica e Telecomunicacoes Ltda
+61917,LUCARONI TELECOM
+61922,CNX TELECOMUNICAÇOES
 61923,SUNWAY TELECOM
+61924,3E TELECOM
+61930,Telecomunicações Riograndense Ltda
 61934,Puma Internet
 61936,VIATEC TELECOMUNICAÇÕES LTDA
 61937,Oquei Telecom Ltda
+61938,Meg@Net Telecom
 61942,TurboNet Telecom
 61951,Brasil-IP
 61976,JSC Selectel
@@ -1855,14 +2076,19 @@ ASN,Organization
 62259,Intelesi LLC
 62332,TELPLAY
 62336,PURtel.com
+62340,Infotelecom SP Ltd.
 62386,BTG
 62423,Telecom Center
 62592,HOPI TELECOMMUNICATIONS
 62627,WorldNet Telecommunications LLC
 62886,OMNITEL
 63134,IHR-TELECOM
+63440,Telnyx LLC
 63527,China Telecom Global IPX
+63741,DCNET TELECOM
 63838,Hengyang
+63902,SHINE TELECOM CO. LTD.
+63916,IPTELECOM GLOBAL
 64043,EUROTELBD-ONLINE-LTD-BD
 64079,China Telecom Global Limited
 64139,GRUPO METROWAN TELECOM
@@ -1883,6 +2109,7 @@ ASN,Organization
 131584,Taiwan Intelligent Fiber Optic Network  Co.Ltd.
 131627,Peicity Digital Cable Television. LTD
 131702,PT Mora Telematika Indonesia Tbk - Mora-IXP
+131735,PT Telemedia Network Cakrawala
 131915,Hamamatsu Cable Television
 131952,POTATO-NET
 132004,Touch Net India
@@ -1906,8 +2133,11 @@ ASN,Organization
 132971,Sikka Star Satellite
 132999,Richa Telecom
 133000,ARJUN TELECOM PRIVATE LIMITED
+133076,Unique Atlantic Telecommunication
 133118,China Unicom IP network
+133155,SATELLITE-BD
 133202,Afghanistan Faiz Satellite Communications AFSAT
+133227,AATTIZEN TELECOM
 133275,Gigantic Infotel Pvt Ltd
 133285,CNSINFOTEL-AS
 133357,TELKOM UNIVERSITY
@@ -1915,6 +2145,8 @@ ASN,Organization
 133606,Viettel Timor
 133647,ELXIRE DATA SERVICES
 133685,SDN TELECOM
+133691,m-ix.in
+133707,La Pointe Telecom Solutions Pvt Ltd
 133798,SMARTFREN TELECOM
 133817,Inti Data Telematika
 133982,Excitel
@@ -1938,11 +2170,16 @@ ASN,Organization
 134885,Global (India) Tele-Infra
 134976,MATL
 135025,NexLogic Telecommunications Network Inc.
+135046,TAIZTEL (PRIVATE) LIMITED
+135055,Rafin Satellite
 135059,Lao Asia Pacific Satellite
 135076,INFOCOM
 135089,China Telecom
+135106,CareTel Pty Ltd
 135191,HARKYAL TELE SERVICES PRIVATE LIMITED
 135218,Gtel Communications
+135224,EASY TELNET SERVICES PVT. LTD.
+135236,SEYON TELE INFRA PRIVATE LIMITED
 135300,Myanmar Broadband Telecom
 135307,Golden TMH Telecom Co.
 135345,NewMountainView Satellite
@@ -1954,6 +2191,8 @@ ASN,Organization
 135687,Qwistel Network Service
 135722,Teleglobal Communications
 135744,VeloxR Telecom Pvt Ltd
+135756,VPS Broadband And Telecommunications
+135782,Nyak Technologies And Teleservices
 135804,Johnson Telemarketers
 135810,Speedglobal Telecom Network
 135887,Belong  (Telstra Corporation Ltd)
@@ -1966,6 +2205,8 @@ ASN,Organization
 136255,Mytel
 136280,Costel Networks
 136284,Paradise Telecom
+136303,Sher Telelink Pvt. Ltd.
+136335,Mtel Networks Private Limited
 136356,Purenet Telecom India
 136362,Yes India Communications
 136376,Udayatel Communications
@@ -1973,12 +2214,15 @@ ASN,Organization
 136598,HN Telecom
 136617,Fortune Telecom Company
 136632,Vajra Telecom
+136652,Bytel TraNet Private Limited
 136664,D D Telecom
 136696,Arktel Networks
 136841,MITRA TELEMEDIA MANUNGGAL
 136861,ARTAMEDIA CITRA TELEMATIKA INDONESIA
 136874,Garuda Media Telematika
+136901,BTRC
 137047,TELECOMMUNICATION AND TECHNOLOGY MASTERS
+137102,Hustel Telecom
 137109,Grace Teleinfra
 137114,Kwikzo Telecomm
 137124,Jai Mata Di Telectronix Private Limited
@@ -1991,6 +2235,7 @@ ASN,Organization
 137376,PT Tele Net
 137404,Kabankalan Community Antenna Television System
 137412,Tashi InfoComm | Mobile
+137483,Tiger Telecommunication
 137532,Bhuiyan Telecom
 137551,REDLINK TELECOM Co. Ltd
 137604,Sahjanand Telecom Pvt Ltd
@@ -2000,6 +2245,7 @@ ASN,Organization
 137693,CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning  Guangxi Province P.R.China.
 137697,CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou  Jiangsu Province P.R.China.
 137699,CHINATELECOM Jiangsu Suqian IDC network
+137811,BeeTel
 137818,Panay Telephone
 137853,TELNET Cambodia
 137872,China Mobile Hong Kong AS137872
@@ -2010,11 +2256,16 @@ ASN,Organization
 138169,China Telecom
 138179,PACIFIC MOBILE TELECOM
 138199,TRANSATEL ASIE
+138221,Ynet Telecom Solutions
 138257,Gigatel Infocomm Pvt Ltd
 138384,Rakuten Mobile
 138407,The Internet Data Center of Guizhou Mobile Communication Company Limited
+138734,B FIBERNET
+138751,Anodic Telenetwork Private Limited
+138824,Gemilang Jaya Elektrindo
 138828,TELIO INTI NUSA
 138854,Inter Medialink Solusi
+138955,Brisktel Private Limited
 138958,Tandag Electric & Telephone Company
 139034,Sattelite Plus Incorporated
 139080,The Internet Data Center of Sichuan Mobile Communication Company Limited
@@ -2023,6 +2274,7 @@ ASN,Organization
 139325,IQ-TEL
 139438,PT Pembangunan Sarana Telematika
 139473,Shebatel Network Ltd
+139506,Uniqe Telecare Pvt Ltd
 139515,ZITA
 139530,Skyair Telecom Private Limited
 139547,Vimitel Network
@@ -2031,6 +2283,7 @@ ASN,Organization
 139587,China Telecom Henan Zhengzhou Shujugang IDC network
 139622,QUE TEL BD
 139628,Mega TrueNET
+139647,Alpha Sattelite Network
 139692,CHEN GUANG COMPANY LIMITED
 139752,Multinetwork Cable Television
 139759,FSMTC - AS139759
@@ -2056,18 +2309,23 @@ ASN,Organization
 140638,China Telecom
 140745,VINTEK VIET NAM TECHNOLOGY TELECOM CO.LTD
 140762,Vinh Railway Signalling - Telecom Joint Stock Company
+140766,FPT Telecom Company
 140903,CHINA TELECOM
+141014,Balaji Teleworks Development Pvt Ltd
 141146,Indonesia Telekomunikasi Teknologi
 141269,Fast Net Telecommunications Private Limited
 141285,Octel Network
+141347,7Star Telecom
 141395,netElastic Technologies
 141509,Uteleservices
+141596,Wistel Teknologi Solusi
 141618,ACT Communications
 141679,China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch
 141709,Clare Cable TeleVision
 141739,China Telecom
 141799,INDTEL
 141804,Em-cyberspace Services
+141813,Enfinity Infotel
 141820,Digital Telecom
 141834,Neolog Online Services
 141898,Milenial Inti Telekomunikasi
@@ -2101,6 +2359,7 @@ ASN,Organization
 149360,Indo Telemedia Solusi
 149422,VYBETELECOM
 149526,GITELENET
+149558,SINGH TELEVENTURES
 149570,Speech Tell Communication Private Limited
 149635,BICOL TELEPHONE AND TELEGRAPH INC.
 149688,IDNIC-SNT-AS-ID
@@ -2110,6 +2369,7 @@ ASN,Organization
 150099,SPEED HEX TELE COMMUNICATIONS PVT LTD
 150193,Olean Permata Telematika
 150215,IDNIC-EBTEL-AS-ID
+150245,PT Sakti Media Telekomunikasi
 150249,Atharva
 150265,Rajawali Bintang Cemerlang Telkomedia
 150359,Cable Television TOYAMA
@@ -2125,11 +2385,16 @@ ASN,Organization
 151185,China Telecom
 151333,ASCON TEL (PRIVATE) LIMITED
 151408,FIL-AS-AP
+151583,Satelit Global Media
 151590,PT Pandawa Global Telematika
 151653,General Telephone System
 151678,Iriga Telephone Company Inc.
 151732,Onremote Telecom
+151749,Virtel Communications Private Limited
+152017,PT Digtel Tech Solutions
 152079,PT Meta Telekomunikasi Asia
+152379,PT Fiberindo Telco Persada
+152490,WESTERNEDGE TELECOMMUNICATIONS PRIVATE LIMITED
 152525,Jetsys Telelink Opc Private Limited
 152830,IDNIC-EXATEL-AS-ID
 153233,TOSHAM1-AS-IN
@@ -2156,6 +2421,7 @@ ASN,Organization
 197217,Shentel_AS
 197221,Beetec Telekom
 197235,Avantel Samara
+197255,ZAT Televizijni kabelni merezhi Vsesvit
 197275,ASLINKTELECOMNN
 197298,MST LLC
 197311,Juzhnye telefonnye seti Ltd
@@ -2165,11 +2431,14 @@ ASN,Organization
 197453,Biz Telecom LLC
 197470,TELE-TV d.o.o.
 197503,Sptelek
+197564,Stiftelsen for Internetinfrastruktur
 197663,POLANS telekomunikacijske storitve d.o.o.
+197734,Stowarzyszenie Telewizji Kablowej TV-SAT Teofilow C
 197831,Telekom Ltd
 197862,Netfone Telecom Tavkozlesi es Szolgaltato KFT
 197883,Serinya Telecom
 197897,5KOM OOD
+197971,Inet Telecom Ltd.
 198056,TeleOka Kom Ltd.
 198089,IP Visie Networking
 198193,Television por Cable Santa Pola
@@ -2189,6 +2458,8 @@ ASN,Organization
 198551,Societe Atlantique de Telephonie et Communication SARL
 198632,Telia Eesti AS
 198662,IREMNET TELEKOMUNIKASYON TEKNOLOJI SAN ve TIC LTD STI
+198791,Ekran-Telecom LLC
+198803,Allonstelefonstroy LLP
 198826,LLC 'INZHENERNYE SETI - TELEKOM'
 198890,Albanian Fiber Telecommunications
 198950,Telenet Systems GmbH
@@ -2200,18 +2471,21 @@ ASN,Organization
 199585,TELNET Ropczyce Sp. z o.o.
 199713,MLL Telecom
 199715,MSI Telekom Sp. z o.o. Sp. k.
+199730,MS-TELECOM LLC
 199736,Gurbtec Iguana Telecom SL
 199739,Earthlink Telecommunications Equipment Trading & Services DMCC
 199782,Teletime Ltd.
 199809,Maxtel LLC
 199952,Television Costa Blanca S.L.
 199995,Omega Telecom
+200002,Verimek Telekomunikasyon San Ve Tic. Ltd. Sti.
 200064,Red digital de telecomunicaciones de las islas baleares
 200072,Gestel Teleservice 2000 S.L.
 200093,Deutsche Telekom MMS GmbH
 200100,T&T Tecnologie e Telecomunicazioni Srl
 200218,Tvoy Novy Telecom LLP
 200290,AVATEL TELECOM SA
+200345,SAMTEL NETWORK SRL
 200387,Tele puerto real SL
 200519,fiberONE.de
 200539,INTELLY
@@ -2229,6 +2503,7 @@ ASN,Organization
 201004,GlobalTT
 201041,Obltelecom LLC
 201109,BIVID TELECOM SL
+201147,DAGSVYAZ TELECOM
 201167,Caspian Telecom
 201178,Euronet Telekomunikasyon
 201179,Teraline Telecom
@@ -2239,6 +2514,7 @@ ASN,Organization
 201328,Telewizja Kablowa Kolobrzeg Agencja Uslugowo - Reklamowa sp. z o.o.
 201337,AVATEL TELECOM SA
 201427,M2M Uslugi Teleinformatyczne
+201449,Digital Absolut Business - Servidor Virtualizacao Cluster Datacenters e Telecomunicacoes Lda
 201466,Xarxes de Telecomunicacions Alternatives SL
 201540,Pishgaman Toseeh Fanavari Etelaat Va Ertebatat Jonoub (Joint Stock Company)
 201691,Fannavari Etelaate Samane Kavoshgar Ide Ltd.
@@ -2250,6 +2526,7 @@ ASN,Organization
 201843,IBERSONTEL
 201860,MyTelco Ltd
 201952,LTD AtelRybinsk
+201966,OptiKabel Telecom
 202011,ENPLUS TELECOM
 202023,Only
 202047,BREAK FREE TELECOM SL
@@ -2264,6 +2541,7 @@ ASN,Organization
 202352,CONECTA 3 TELECOM S.L.
 202371,ZAL Network S.r.l.
 202382,HYTEL
+202483,PP Teleradiocompany 'KRAFT'
 202491,WINET TELECOM SL
 202498,TInkoff Mobile
 202561,High Speed Telekomunikasyon
@@ -2274,6 +2552,7 @@ ASN,Organization
 202825,NEAR TELECOM S.L.
 202844,Airsip telecomunicaciones S.L
 202883,FATEN FACILITIES ENERGY TELECOM S.L.
+202999,Vostok Telecom LLC
 203052,Teletek 5060
 203088,Slavtelecom LLC
 203183,ARNOLD CALLE TELECOM S.L.
@@ -2289,10 +2568,13 @@ ASN,Organization
 203481,AstanaMegatel Ltd.
 203503,TICAE TELECOM
 203540,Witel Srl
+203561,KTK TELECOM LLC
+203587,Antvvifi Bilisim ve Telekomunikasyon Hiz. San. ve Ticaret LTD STI
 203593,TeleMark
 203600,VIVAFIBRA TELECOMUNICACIONES S.L.
 203628,Televoice Polska
 203657,SAKNET BILISIM TELEKOMUNIKASYON SAN. TIC. LTD.STI.
+203658,Marcin Jan Peszel trading as TELENETIKS
 203712,XARTIC
 203835,SAMBATEL CONSULTING SL
 203877,Astra Telekom
@@ -2302,11 +2584,13 @@ ASN,Organization
 203995,Lyse Tele AS
 204020,Fenice Telekom Grupa
 204041,Citytelecom LLC
+204106,Babilon-Mobile
 204172,TTC TELEKOMUNIKACE s.r.o.
 204177,CVS Mobile informacijske resitve d.d.
 204188,ITSG
 204297,LLC ' Belgorod Networking Telecommunication Company'
 204303,TRABUCO TELEVISION SL
+204309,C.Company
 204348,REKORNET
 204350,Ipboom Telecom LLC
 204379,INNOVIA SICUREZZA INFORMATICA E TELECOMUNICAZIONI SRL
@@ -2317,6 +2601,7 @@ ASN,Organization
 204581,MOVIMIENTO TELEVISIVO S.A.
 204694,ISCHIA TELECOMUNICAZIONI S.R.L.
 204736,Nida Telekomunikasyon Hizmetleri A.S
+204774,SISTEL ALMANZORA S.L.
 204797,Jamitel sp. z o.o.
 204798,Max Link Company
 204811,ZINNIA TELECOMUNICACIONES SL.
@@ -2324,11 +2609,13 @@ ASN,Organization
 204929,Television Telephony Internet of Ukraine Ltd.
 204986,Sparktel LLC
 205119,TELEKS DOOEL Skopje
+205191,InstelNET Telecomunicaciones
 205201,Public Service Media Radio Television of Serbia
 205249,telenetwork AG
 205270,FIBROPTIC CAT TELECOM SL
 205471,Telephone Network of Ashgabat City CJSC
 205495,OOO 'L-Telecom'
+205553,Magistral_Telecom
 205565,Base Telecommunications LLP
 205624,Telecomunicaciones Publicas Andaluzas S.L.
 205638,T-Mobile
@@ -2352,6 +2639,7 @@ ASN,Organization
 206276,Citelia
 206280,Redes Telecomunicaciones Certificaciones Canarias S.L.
 206298,RKM Regional Kabel TV Moelltal und Telekommunikation GmbH
+206318,CAST-TELECOM SL
 206346,'Pan Telecom' EOOD
 206366,Rural Telecom
 206369,TELEKOM.pl Sp. z o.o.
@@ -2365,7 +2653,9 @@ ASN,Organization
 206660,sphere-telecom
 206661,JSC 'ER-Telecom Holding'
 206674,Telecentrum
+206713,France Televisions SA
 206737,IschiaWifi
+206756,Beltelecom LLC
 206757,TECNOCOLOR TT TELECOMUNICACIONS SL
 206772,RJK Multimedia Shop
 206791,Slobozhenyuk B.Y. PE
@@ -2381,15 +2671,18 @@ ASN,Organization
 207234,Mobile Breitbandnetze GmbH
 207348,Tehnoline Telekom d.o.o.
 207369,Skynet Telecom LLC
+207405,Tetratel Comunicaciones SLU
 207547,Svyaztelecom LLC
 207617,ELMA TELEKOMUNIKASYON SAN.TIC.LTD.STI.
 207693,Telekabel Ltd.
+207952,ET-AS
 207987,EM SISTEMAS INFORMATICOS Y TELECOMUNICACIONES DE MALLORCA SL
 208041,INTERTELL
 208070,TILYTEL B.
 208077,AS
 208087,Novosibirsk Telecommunication Company (Ulan Ude)
 208142,LLC Rocket Telecom
+208149,SKYTelecom
 208221,Orion Telecom Bratsk
 208314,Access Telecom Ltd.
 208324,NBTEL Downstream
@@ -2398,6 +2691,7 @@ ASN,Organization
 208466,eontelco
 208569,NORVOZ
 208578,Macrotel Italia
+208594,Netbone Telekomunikasyon AS208594
 208596,Verimax Telecom SL
 208645,LOOP21 Mobile Net GmbH
 208767,TELEVALENTIN S.L
@@ -2410,14 +2704,18 @@ ASN,Organization
 209170,NOVATELDIGITAL
 209202,Gurbtec Iguana Telecom SL
 209206,VORONEZH TELECOM LLC
+209229,PE Telecompany RAI
 209344,ENA Operador de Telecomunicaciones S.L.
+209360,Bulud Telecom
 209372,SIA 'Singularity Telecom'
+209393,OOO Dontel
 209400,KurpfalzTEL
 209429,Max Telekom s.r.o.
 209433,COMTEL TOTAL-NETWORKS SRL
 209479,GROUPE TELECOMS DE L OUEST SAS
 209492,INFORMATICA Y TELECOMUNICACIONES SARRIA S.L.
 209627,ARTELIA HOLDING SAS
+209711,MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti.
 209728,Expert Telecom LLC
 209759,Moy Telecom LLC
 209791,AREA WIFI TELECOM S.L.
@@ -2437,35 +2735,51 @@ ASN,Organization
 210625,Wecom Mobile Ltd.
 210670,INFORMATICA Y NETWORKING COMPOSTELA SLU
 210692,Soluciones y Asesoramiento en Telecomunicaciones S.L.
+210719,ADRIA MOBIL d.o.o. Novo mesto
+211028,Spetsavtomatikaservice
 211057,Astra for Telecommunication and IT Services
 211196,Mtel Austria GmbH
 211291,Tulun-TeleCom Ltd
+211332,UA TELECOM PP
 211391,Mitan Telematica
 211433,Silver Telecom Ltd.
 211709,turbonet
+211711,FIBERNET TELEKOM
 211887,CABUKNET TELEKOM VE BILGI TEKNOLOJILERI LIMITED STI.
+211953,HIPERNET
 212087,JOTELULU
 212175,Stelia
 212269,AY TELEKOMUNIKASYON ILETISIM BILGISAYAR BILGI TEKNOLOJILERI ITHALAT IHRACAT SANAYI VE TICARET LIMITED STI
+212285,Linyit Net Telekomunikasyon Hizmetleri Sanayi ve Ticaret Ltd. Sti.
 212335,Simoresta GL2
 212384,Simoresta GL
+212444,Bross-Telekom
 212462,Wizon Telecom
+212538,Poyrazwifi Telekomunikasyon
 212598,SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.
 212695,Link Telecom Service Ltd
 212713,TELECOM GROUP
 212945,INT TELELOMUNIKASYON VE INTERNET
 213024,StarTelecom
+213046,Procyon Telecom Ltd.
+213083,Telekomat Haberlesme ve Iletisim Hiz. Tic. Ltd. Sti.
 213155,Yettel Hungary Ltd.
+213193,Manca Telecom SL
 213261,SADENET TELEKOMUNIKASYON
+213369,Sfera Telecom LLC
 213402,Rahat Telecom LLC
 213498,Infronet-Telecom LLC
 213890,NOVOROS-TELECOM LLC
 214089,YOUTEL NETWORK S.L.
+214173,Sever-Telecom-SPb
 214429,Sever Telecom JSC
+214463,Invers-Telecom LLC
+214529,DAM TELECOM SERVICES SRL
 214941,UPCELL TELEKOMUNIKASYON LIMITED SIRKETI
 214954,CATALUNYA TELECOM S.L.
 215222,Cable and mobile best service MCHJ
 215856,Fabertelecom SL
+215894,BLANCATEL S.L.
 215927,SURWITEL COMUNICACIONES S.L.
 216046,Tele.Co.Albania SHPK
 216158,Teleport Rus LLC
@@ -2482,8 +2796,10 @@ ASN,Organization
 262220,HV TELEVISION S.A.S
 262221,ESTRELA TELECOM
 262248,Metro Telecom
+262268,MAX NET TELECOMUNICAÇÕES
 262272,FIT Telecom
 262282,MARIA LUCIANA MACHADO E CIA
+262286,Netw Telecom
 262290,NewParce - Internet de Hipervelocidade
 262300,SUPER CONNECT TELECOM
 262301,Netmig Telecom
@@ -2497,18 +2813,23 @@ ASN,Organization
 262346,FP Telecomunicacoes LTDA
 262351,BRSITE
 262352,NOVA TELECOM  AS262352
+262360,NEDEL TELECOM
+262361,Deznet Telecom Ltda.
 262365,IBITelecom
 262373,CONECT TELECOM
 262379,HZ TELECOMUNICAÇÕES E INFORMATICA LTDA
 262380,Rontel
 262385,VSAT TELECOMUNICAÇÕES
 262391,ACESSOLINE TELECOMUNICACOES LTDA
+262399,GLP Telecomunicações
 262403,NetWay Telecom
 262406,MELFINET - National Telecom SCM Ltda
 262407,RAPIDANET TELECOM LTDA
 262417,UltraTelecom
 262426,BRAVA TELECOMUNICACOES RONDONOPOLIS
 262433,QI Equipamentos para Informática
+262438,VELOMAX TELECOM S/A
+262439,ALCANS SERVICOS EM TELECOMUNICACOES LTDA
 262447,IMG BRASIL TELECOMUNICA??ES LTDA
 262450,NORTENET TELECOMUNICACOES DO BRASIL LTDA - EPP
 262459,Osirnet Info Telecom
@@ -2520,9 +2841,12 @@ ASN,Organization
 262476,BRCENTRAL TELECOM
 262481,NEOREDE TELECOMUNICAO LTDA
 262485,S.C. RIO TELECOMUNICACOES E INFORMATICA LTDA
+262492,Interconect Teleinformatica
 262494,VIRTEX TELECOM
 262496,Clonix Telecom
+262498,Sudoeste Telecom
 262499,TMC Tecnologia em Telecomunicações
+262502,FLYLINK TELECOM
 262503,WIKI TELECOMUNICAÇÕES
 262504,Nova Rede de Telecomunicações Ltda
 262505,N4 Telecomunicacoes LTDA ME
@@ -2534,9 +2858,13 @@ ASN,Organization
 262527,MTCASEMOD COMERCIO DE PROD. DE INFOR. E SERV.
 262531,Connection Multimidia Telecomunicacoes LTDA
 262535,Flash Net Brasil Telecom
+262546,NetCintra Telecomunicações
 262551,Farol Telecom
 262557,VIA SUL TELECOMUNICAÇOES
+262562,Max WIFI Telecom Ltda.
 262567,TELECOM FOZ
+262568,NETVIA TELECOM PROVEDOR DE INTERNET LTDA
+262576,INFORMATICA JUVENILIA COMERCIO E SERVIÇOS
 262585,Virtual Housing Telecom
 262588,EXPLORERNET INFOLINK TECNOLOGIA E TELECOMUNICACOES
 262590,NETONLINE
@@ -2545,6 +2873,7 @@ ASN,Organization
 262604,Click.com telecomunicações
 262605,LVT Telecom
 262606,MICROTELL (MELL)
+262616,ASN262616
 262617,UWBR VOX Telecomunicações
 262620,Pox Network Telecomunicacoes
 262632,Grajaunet Telecomunicacoes
@@ -2556,15 +2885,19 @@ ASN,Organization
 262663,METROFLEX
 262669,Konnet Telecom
 262674,Conquest Telecomunicações
+262676,Intervip Telecom
 262689,ATENTO TELECOM
+262690,Netwave Telecomunicações Ltda.
 262693,WCOM COM E SERV TELECOM LTDA
 262706,Ultranet Telecomunicações
 262713,LIDERI TELECOM
 262720,Melo Telecomunicações
 262729,Telemidia Sistemas de Telecomunicação
+262737,GATEWAY TELECOM
 262739,NDC Telecomunicaes Ltda.
 262740,VELOO NET LTDA
 262744,ICEnet Telecomunicações (Totalvia Internet)
+262751,TERRA FIBER TELECOM LTDA-ME
 262753,VOCE TELECOM
 262755,AONET TELECOM
 262756,Portal Medianeira Informática
@@ -2583,16 +2916,22 @@ ASN,Organization
 262837,Raptor Servicos de Telecomunicacoes LTDA
 262839,Yawl Telecom
 262851,Plim Telecom
+262868,ITNET
 262869,G1Telecom Provedor de Internet
 262873,VETT - VIA EXPRESS TECNOLOGIA E TELECOMUNICACOES
+262875,IP AMERICA TELECOM
 262888,Lprint Telecomunicação e Engenharia
 262893,P4 TELECOM LTDA
+262896,SpeedWeb Net Telecomunicacoes
 262898,jm telecomunicação e man.
 262899,RT NICOLAU TELECOMUNICAÇÃO - ME
 262903,Tubaron Telecom
+262905,Skaynet telecom
 262909,JK TELECOMUNICACOES
+262911,BAU E DORL LTDA
 262937,StarByte Telecom
 262945,Golden Line Telecom
+262949,Icone Telecom
 262972,INFO SETE TELECOMUNICACOES LTDA
 262973,Max Telecomunicacoes Ltda
 262977,ADSNET TELECOM LTDA ME
@@ -2607,17 +2946,22 @@ ASN,Organization
 263008,UNI TELECOMUNICACOES
 263009,FORTE TELECOM LTDA.
 263011,6P Telecom Ltda
+263015,G7 Telecom
 263018,Alvo Telecom
 263019,QUICKNET TELECOM LTDA EPP
 263027,RAMNET TELECOM
 263033,LINKLI TELECOMUNICAÇÕES LTDA
 263035,PORTAL QUEOPS TELECOMUNICAÇÕES E SERVIÇOS
 263040,HYPER TELECOM
+263042,DELTATELE
+263043,WIFF Telecom Eireli
 263049,NIPPONTEC TELECOMUNICACOES
+263053,Paulinianet Telecom
 263055,Pinhais Net Telecom
 263073,DTEL
 263080,GTi Telecomunicacoes S/A
 263086,PBNET Telecom
+263089,V de M Vargas
 263096,Inorpel Telecom
 263098,Eyes Nwhere Sistemas Inteligentes de Imagem
 263099,STIW Sistema de Telecom. Inf e Wireless
@@ -2629,6 +2973,8 @@ ASN,Organization
 263121,Atende Telecom LTDA
 263124,ZAP TELECOMUNICAÇÕES
 263135,NOVA PORTONET TELECOMUNICAES LTDA ME
+263139,Dataware Telecomunicações
+263142,Route Way Telecomunicações e Serviços
 263144,R2 TECNOLOGIA E TELECOMUNICACOES LTDA - ME
 263146,F A VIEIRA DE SOUZA SERVICOS
 263151,CONECT TELECOM
@@ -2640,12 +2986,15 @@ ASN,Organization
 263181,Cooperativa Telefonica Grand Bourg
 263196,Infosport
 263210,HV TELEVISION
+263216,TELEIMAGEN SATELITAL
 263218,INTERNET TELECOMUNICATION COMPANY DE GUATEMALA
 263223,SATELITES Y TELECOMUNICACIONES C.A
 263224,EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA
 263243,BRIDGE TELECOM
 263250,Barbosa & Costa
 263260,ICONECT TELECOMUNICACOES INTERNET E SERVICOS LTDA
+263262,TOPPNET Telecom
+263270,Conecta Telecom
 263276,BBG Telecom
 263281,CBR TELECOM
 263284,MAXXIMO INFORMATICA E TELECOMUNICACAO LTDA
@@ -2657,18 +3006,31 @@ ASN,Organization
 263302,TORPEDOLINK TELECOM
 263327,Online
 263329,FIBERCOM Telecomunicações
+263331,Netvox Telecomunicacoes LTDA
+263338,VEXNET TELECOM INFORMÁTICA LTDA
+263343,PC2 TELECOM
 263345,Power Tech
+263357,Hot Wave Comercio e Servico de Telecomunicacoes Lt
+263362,SPEEDNET TELECOM
+263391,Virtu@lnet Telecom
 263411,ONIX TELECOM
 263415,EGR NET TELECOMUNICACOES LTDA
+263418,Neb Telecom
 263422,AXXESS TELECOMUNICAÇÕES
 263432,CORPORATIVA TELECOMUNICACOES
+263433,Click Telecomunicações e Informatica
 263436,POLLYNET TELECOM EIRELI
+263442,NovaNET Provedoria e Telecomunicações
+263445,SEM LIMITE COMUNICAÇÕES
+263450,NBN TELECOM
 263453,INOVANET TELECOM
 263455,LEV Telecom
 263456,MKNETWORK TELECOM
 263462,SPEED PLANET TELECOMUNICAÇÕES LTDA - ME
 263466,M.P. TELECOM
+263467,INSPIRE TELECOM - EIRELI
 263468,Rapnet Telecom
+263469,J P de Souza Telecomunicações
 263473,Networld Telecom
 263495,INFOSERVIC INFORMATICA TELECOMUNICAÇÃO
 263499,Telecom Internet
@@ -2676,24 +3038,39 @@ ASN,Organization
 263501,INFORTECLINE TELECOM
 263506,Gb Online Telecomunicações ltda.
 263508,SIMNET TELECOM
+263512,CTBA TELECOM
 263516,Plis Inteligência em Tecnologia Ltda.
+263517,Acesso Telecomunicacoes
 263520,VOA TELECOMUNICACOES LTDA
+263522,LGNET
 263532,VIAR TELECOMUNICAÇÕES LTDA
+263536,Empresa de Telecomunicações da Alta Mogiana
 263544,Várzea Net Telecomunicações
+263545,BETINI NET TELECOM LTDA
 263546,TURBONETT TELECOMUNICACOES
+263555,Infinity Brasil telecom LTDA ME
 263558,Jet Telecom
+263562,Speet Serviços de Telecomunicações Ltda - ME
 263566,RONDON TELECOM
 263569,Direct WiFi Telecom
+263571,CONECTE TELECOMUNICAÇÕES LTDA.
+263573,HYPER NET TELECOMUNICACOES
+263578,FacNet Telecom
 263579,iSUPER Telecom
 263589,MGP TELECOM
+263591,STONE TELECOMUNICACOES - EIRELI
 263594,MAXXITEL INFORMATICA E TELECOM LTDA
 263596,GRV TELECOM
+263598,BRX TELECOMUNICACOES LTDA - EPP
+263600,Radio Link Telecom
 263603,ATHENA TELECOMUNICACAO LTDA
 263608,WSNET TELECOM
 263611,Zum Telecom LTDA-ME
 263612,Ip Carrier Telecom
+263614,RVA TELECOM LTDA
 263616,Dez Solucoes em Telecomunicacoes
 263623,GX Telecomunicacoes (GOX)
+263625,NEW TELECOM
 263626,G-LAB TELECOM INFORMATICA
 263629,ALLREDE TELECOM (MASTER)
 263631,Via Link Telecomunicações
@@ -2701,10 +3078,13 @@ ASN,Organization
 263636,CALLNET TELECOM
 263637,DIGITAL TECNOLOGIA & TELECOMUNICACAO
 263641,TCF Telecomunicações Campo Florido
+263642,Serra Net Telecomunicações e Internet LTDA. - ME
 263645,FIXTELL TELECOM
+263647,Irádio Comercio e Manutenção de Maquinas
 263650,Clicfacil Telecom
 263656,BRSULNET TELECOM LTDA
 263661,BRASIL DIGITAL TELECOM
+263666,One Telecom Eireli
 263672,Consult Telecom Provedor LTDA ME
 263689,Telecable Central
 263698,TRANSDATELECOM
@@ -2714,74 +3094,115 @@ ASN,Organization
 263791,REFSA TELECOMUNICACIONES
 263834,GESATEL
 263846,Planeta Cyber Telecomunicações
+263847,BS CONECT TELECOMUNICAÇOES LTDA
+263861,KzNet Telecom LTDA
 263864,ClicRapido Telecom
 263866,RADIONET TELECOM LTDA
 263868,BMFLEX Telecom Eireli - ME
 263880,WANTEL TECNOLOGIA
+263887,MANIA TELECOM
 263888,FIUZA INFORMÁTICA & TELECOMUNICAÇÃO LTDA ME
 263891,Turbonet Info e Telecom
+263900,CHNET Telecom
 263903,INFORBARRA TELECOM
+263904,IUB Telecom Ltda
 263905,New Group Telecom
+263913,CIDADE ONLINE
+263914,Speed Wi-Fi Telecom
+263922,SPEED TURBO TELECOM
+263928,JBMNET TELECOM
+263939,Loginnet Telecom
+263940,TOP WEB TELECOM
 263944,FiberNet Telecomunicacoes
+263948,NEW LIFE TELECOM
 263950,TVANET TELECOM LTDA
 263952,CONNECT TELECOM
+263956,ProntoTelecom
 263959,FLEXTEL NETWORK
 263960,speed telecom
+263965,Navetech Telecom LTDA
 263966,WORLD WIFI TELECOMUNICAÇÕES
 263968,RAFAEL FARIA FERRAZ ME
 263980,G3 Telecom EIRELI
 263985,DZ7 Telecomunicacoes Ltda
 263992,Rosimeire Pereira Souza Gomes ME
 264002,MVA Telecom
+264007,Elétric Telecomunicações e Informática LTDA ME
 264010,Polli Telecom
 264013,CONNECTA TELECOM INTERNET
 264023,SE77E TELECOM
+264024,Wnet Telecom e Informática EIRELI
 264030,FIBERTELECOM
+264042,CRISPIM E GOMES TELECOM LTDA
 264049,TELECOMUNICACOES ALARCAO E FERNANDES LTDA - ME
 264069,Conecttiva Telecom
 264071,HOPNET TELECOM
 264075,K1 Telecom e Multimidia
+264092,STA TELECOM LTDA
 264100,RIO CABLE TELECOM
 264104,ZINE TELECOMUNICAÇÕES PROVEDOR LTDA
 264106,Andrade & Landim Telecomunicações
 264110,Econect Itapevi Telecomunicações ltda
 264111,RedeBr Telecom
 264117,Fibramais Telecom Ltda
+264119,UBA CONECT TELECOM
 264125,UN TELECOMUNICACOES
 264127,Emitel Internet
 264129,Flip Networks
 264144,ASAP GLOBAL TELECOM LTDA
 264150,Gigaflex internet servicos de tel
+264160,PRYMUS SERVIçOS EM TELECOMUNICAçõES
+264162,NC BRASIL TELECOM E SERVIÇOS
+264166,TURBO NET TELECOM LTDA
 264169,WNP PROGRESSO E SERV DE TELECOMUNICACAO
+264178,Coonexao Telecom e Informatica EIRELI
 264191,Temais Telecom
 264193,MASTER TELECOM
 264200,R DE MELO NEVES CONEX - ME
+264204,CAS TELECOMUNICACOES EIRELI
 264206,Mixconect Telecom
 264209,LINKFORT TELECOM LTDA ME
 264212,IMPACTO TELECOM
 264214,Guaptel-Net Telecom
+264215,Wlenet Servicos de Telecomunicacoes LTDA
 264217,Sem Fone Telecomunicações
 264227,Inove Comercio e Servicos de Telecomunicacoes
 264228,Blink Telecom AS264228
+264229,GLOBAL FLASH TELECOM E TECNOLOGIA LTDA - ME
 264230,INTERSUL TELECOM COMUNICAÇÕES EIRELI ME
+264232,RCA COMPANY DE TELECOMUNICACOES DE PARANAVAI
 264233,WF -TELECOM SERVIOS DE TELECOMUNICAOES EIRELE ME
 264234,GLOBAL SOLUCOES EM TECNOLOGIA E TELECOM LTDA-ME
+264236,COMFIBRA - PROVEDOR DE TELEC. LTDA - M
 264244,SPEED NET SERVIÇOS DE TELECOMUNICAÇOES
 264246,Globaltech Telecomunicações e Informatica Ltda ME
 264255,Interfibras Telecomunicações
+264259,INTERATIVA TELECOM LTDA
 264268,Teleturbo Telecomunicacoes
+264273,A & G TELECOMUNICAÇÕES
+264274,DSP RS TELECOMUNICAÇÕES LTDA.
 264278,MICROTELL (MELL).
 264280,Eagle Redes de Telecomunicacoes Ltda
+264281,RS Portal
 264283,Net Triangulo Telecom Ltda - ME
 264285,iFoz Telecom
 264293,Smart Solucoes em Telecomunicacoes
 264294,Ora Servicos de Telecomunicacoes Ltda
 264297,CONECTJA TELECOMUNICACOES
 264301,LNP SERVICOS DE TELECOMUNICACOES E INFORMATICA
+264310,MUNDIAL NET TELECOM
+264318,WM TELECOM BOCAIUVA LTDA. - ME
 264328,ECLIPSE TELECOM
+264329,ESTRATEGIA REDES DE TELECOMUNICACOES
+264337,NET COM INFORMATICA LTDA - ME
 264342,UPNET PROVEDOR DE ACESSO E TELECOM
+264351,UNA TELECOMUNICAÇÕES LTDA
+264360,TASS TELECOM Serviços de Telcomunicações Ltda
 264367,L&J REDES DE TELECOMUNICACAO E INFORMATICA
+264384,Linejet servios de telecomunicaes
+264386,MMM E G TELECOMUNICACOES LTDA - ME
 264387,OZONIO TELECOMUNICACOES LTDA
+264393,NetBrasil Telecom LTDA
 264397,SUPRANET TELECOM
 264404,NETGOOL TELECOMUNICACOES
 264439,OURINET TELECOM
@@ -2789,34 +3210,50 @@ ASN,Organization
 264441,DELTA TELECOM
 264444,LINKCE TELECOM
 264451,GETTEL INTERNET
+264456,GBATELECOM LTDA
 264463,MEGA REDES TELECOM
 264473,POLOTEL TELECOM LOCAÇÃO E DES. DE. SITES
+264477,FLIX TELECOM
 264483,RP Telecom
 264490,ANDRA TELECOM
+264497,Mais Net Telecomunicaçoes Eirelli
 264500,SoulTelecom
 264508,INET TELECOM E INFORMATICA LTDA
+264509,CONECTA AMAZONIA TELECOM
+264510,HNS SERVICOS DE TELECOMUNICACOES
 264516,A.M.A TELECOM
+264517,GM NETWORK TELECOMUNICACOES
 264519,BLUE TELECOMUNICACOES DO BRASIL LTDA
 264520,Radioscan Telecom Com. De Compon. Eletr. Ltda-EPP
+264521,SLIM NET TELECOM
 264524,Cunha e Zanato telecom
 264526,ALPHANETT SERVIÇOS DE TELECOMUNICAÇÕES
+264531,ULTRA TELECOM
+264540,RG Tecnologia e Telecomunicações Ltda
 264550,M H SAT SERVIÇOS EM TELECOMUNICAÇÕES
 264552,Justweb Telecomunicações
 264553,J da L Moraes Telecom ME
 264562,Texnet Internet Fibra Óptica
 264568,C&A NET TELECOM
 264570,RIOTEL
+264579,NET MAIS TELECOMUNICAÇÕES
+264586,SPEED TELECOMUNICACOES
+264590,NAVEX TELECOM
 264591,7 Sul Telecom
 264592,ENLACE TELECOM
+264598,DELTA TELECOMUNICAÇÕES
 264599,SYNCONTEL TELECOMUNICAÇÕES LTDA
 264605,TELEVIADUCTO
 264621,BLUE SAT SERVICIOS ADMINISTRADOS DE TELECOMUNICACIONES SA
 264625,SONYTELNET
 264628,FIBEX TELECOM
 264631,RED PARAGUAYA DE TELECOMUNICACIONES SA
+264634,Coop de Prov.Serv.Telef.Obras y Serv Púb y Soc Virrey del Pino
 264642,TELESISTEMA
 264652,COOPERATIVA TELEFONICA VILLA ELOISA
+264697,LEWTEL SRL
 264716,Red Television
+264726,EMPRESA DE TELECOMUNICACIONES Y SERVICIOS AUDIOVISUALES SOC. DEL ESTADO
 264731,Corporacion Digitel AS264731
 264750,TELEOPERADORA DEL NORDESTE
 264765,VANET TELECOMUNICACIONES SRL
@@ -2826,19 +3263,29 @@ ASN,Organization
 264825,TELEALFACOM
 264827,WIRCOM TELECOMUNICACIONES
 264862,TRIANGULO NET
+264867,Click Telecomunicação Ltda ME
 264871,InterPop Telecomunicações Eireli
+264876,5GTELECOM AZEVEDO INFORMATICA
 264897,SKYMAX TELECOMUNICAÇÕES
+264900,RJNET Telecomunicacoes Ltda ME
 264909,BRConnect Telecomunicacoes LTDA
 264911,Powernet Telecom AS264911
 264913,GOOFIBER TELECOM
 264915,BURITINET TELECOM
+264929,TECNET
 264933,NTi Telecomunicações LTDA.
+264935,CENTRALNET TELECOMUNICACOES LTDA - ME
 264943,VIARAPIDA TELECOMUNICAÇÕES
+264944,enzo serviços e comercio de telecomunicações
 264948,KONECTIVA TELECOM
 264953,INTEGRATO TELECOMUNICAÇÕES LTDA - ME
 264959,Torres Telecom
+264962,Voltec Automação
 264963,LUMIAR TELECOMUNICAÇÔES
+264966,UNDERCORP TELECOM LTDA.
 264974,TELECOM SCAE
+264990,WT INFORMATICA TELECOMUNICAÇÕES LTDA - ME
+264996,SERVLINK TELECOM
 264997,Direct Telecom
 264998,SQUID TELECOM
 264999,UMPLAY TELECOM
@@ -2847,17 +3294,22 @@ ASN,Organization
 265019,NEX TELECOM
 265027,Planet Sat Telecom
 265032,IRANET TELECOM
+265036,BMJNET TELECOM
 265038,TELFO TELECOM
 265041,Infotel Engenharia e Telecomunicações SCM
 265050,S.O.S. TELECOM
 265052,R N TELECOM
 265053,SYS3 Telecom
+265055,BMI TELECOMUNICAES
 265062,NETFORCE Telecom
 265080,AD Telecom
+265083,UltraWeb Telecomunicações LTDA
+265085,Linfortel Internet
 265086,GUARATIBA TELECOM SERVICOS DE COMUNICACOES
 265090,GS TELECOMUNICACOES LTDA
 265093,PegaNet
 265096,PRGNET SERVIÇOS DE TELECOMUNICAÇÕES
+265097,Upnet Telecom
 265100,FSI telecomunicacoes
 265113,Sales Telecom e Informatica
 265118,SKYNET Telecomunicacoes Eireli
@@ -2866,51 +3318,76 @@ ASN,Organization
 265132,TELEMOS MULTIMIDIA LTDA
 265140,DUPONT & SCHWANKE
 265144,MCD INFORMATICA E TELECOMUNICACOES
+265152,WIP TELECOM MULTIMIDIA
 265157,MICROTELL (MELL)..
 265158,ORBE TELECOM
 265160,FULL TECH TELECOM
 265166,SuperNetwork Telecom
 265169,MEGA TELECON PROVEDOR DE INTERNET
+265171,SITELBRA
+265173,MEGAMAX TELECOM LTDA - ME
+265177,WLA TELECOM
 265178,Fox Telecom Internet
 265189,i i telecom
 265197,Nevoli Telecom
 265205,UnoNet Telecomunicações
+265215,FiberNet Telecom
 265224,M. DANTAS E CIA
 265225,ASN265225
 265234,N-MULTIMIDIA TELECOMUNICACOES
+265237,SINAL TELECOM LTDA
 265244,MFT Servicos de Internet Comercio e Telefonia Ltda
+265247,Estacaonet Telecom Servicos e Comercio Ltda
 265249,WOW SERVICOS DE TELECOMUNICACOES
+265260,JOSÉ APARECIDO PEREIRA DA SILVA TELNET - ME
 265261,Tely Banda Larga
 265263,MULTI TELECOM E COMERCIO DE INFORMATICA EIRELI ME
+265266,level2 telecomunicaçoes eireli
 265269,MEGA TELEINFORMATICA
 265274,FIXA TELECOM
+265278,ZaapNet Telecomunicacoes
 265287,GIGANET TECNOLOGIA E TELECOMUNICAÇÃO LTDA
 265298,GR TELECOMUNICAÇÕES LTDA ME
 265300,Regional Telecom
+265302,SULCATEL COMERCIO DE TELEFONIA LTDA - ME
 265305,INTERMIRA INFORMATICA E TELECOMUNICAÇÕES LTDA-ME
 265313,ANDERLINE TELECOMUNICACOES E MULTIMIDIA LTDA
 265317,TRIXNET SERVIÇOS DE TELEINFORMATICA
+265319,RSLEAL
 265320,SATLINK TELECOM
+265330,Ponto a Ponto Telecom do Brasil
 265335,PLANETA NET TELECOM
+265336,ELneT Telecom
 265344,CURIO NET INFORMÁTICA E TELECOMUNICAÇÕES
 265345,HUP TELECOM LTDA
+265346,BLR Telecomunicacoes
 265351,INFOARTES TELECOM LTDA
 265355,L. T. SPECHT TELECOMUNICACOES ME
+265356,NETPLANETY INFOTELECOM LTDA ME
 265358,Brasilnet Serviços E Telecomunicações Ltda-Me
 265363,RV-NET TELECOM
 265364,ITlink Telecom LTDA
 265369,C-ComTelecom Servicos
+265382,SIGMA TELECOM LTDA ME
 265388,MF Telecomunicação
 265390,Topnet Telecom Serviços LTDA ME
+265391,Provex Telecom
 265393,FIRENET SERVIÇOS DE TELECOMUNICAÇÕES LTDA
 265398,nobre telecom
 265401,INFOSYSTEM TELECOMUNICACOES E INFORMATICA EIRELLI
+265404,GGNET TELECOMUNICACOES
 265406,Web River Telecom
+265407,TMK NET TELECOMUNICAÇÕES
+265417,FRASANET TELECOM
 265420,ANTONIO CARLOS ATELLA FERREIRA JUNIOR
 265424,Horizontes Telecom
+265428,Taionet Telecomunicações Ltda. ME
+265430,JDA Net - SKYNET Teleinformatica
+265437,tecnet provedor telecom ltda me
 265440,Telnet Sistemas e Comunicações
 265447,romaotelecom
 265451,INFOLINK TELECOM
+265455,SKYNET TELECOM EIRELI
 265460,LUP TELECOMUNICACOES LTDA
 265472,ITA TELECOM
 265475,INFOMENCK COMERCIO E SER. DE TELECOMUNICACAO
@@ -2921,11 +3398,15 @@ ASN,Organization
 265491,Arp Telecom
 265515,TELEVERA RED S. A. P. I. DE C.V.
 265551,TELEVISION POR CABLE TEPA
+265569,QUANTATEL SA DE CV
 265586,INBTEL SA DE CV
+265590,ABIX TELECOMUNICACIONES S.A. DE C.V.
 265594,Television Internacional S.A. de C.V.
 265629,FiberComm Telecomunicaciones
 265637,AIQUEL EDUARDO RAUL (CABLE VISION SP)
+265641,CIX BROADBAND
 265661,Fernando German Fischer (FIBERNET TELECOM)
+265675,ARTEC TELECOMUNICACIONES
 265691,WI-NET TELECOM
 265699,Hidalgo Mario Gabriel
 265711,KOLVECH S.A. (TELECOMVAS)
@@ -2934,66 +3415,101 @@ ASN,Organization
 265852,Carlos Paz Television Net
 265855,LEGON TELECOMUNICACIONES
 265858,NETDELSUR TELECOMUNICACIONES
+265886,Universo Digital Telecomunicações
 265887,R W TELECOMUNICACOES
 265890,GR SOLUCOES TELECOM
+265891,LMS Telecom LTDA
 265892,Telbe
 265905,NV7 TELECOM LTDA
+265913,Teleinfor
 265924,NOVARJ TELECOMUNICACOES E SERVICOS LTDA-ME
 265931,ISP Conecta Telecom
+265933,connectx serviços de telecomunicações
 265937,ALIANCANET TELECOM
 265943,RCTelecom Telecomunicaoes
+265944,BR UP TELECOM
 265949,INFO TELECOM INTERNET LTDA
+265952,Projemar Telecomunicações
 265958,REAL TELECOM EIRELI ME - ME
 265960,FNETCOM TELECOMUNICACAO E INFORMATICA LTDA
 265972,Donini & Saldanha Telecomunicacoes
 265973,R7 TELECOMUNICAÇÕES EIRELI ME
 265974,PATH TELECOM AS265974
 265975,INTEREDE TELECOM
+265976,NETFULL TELECOMUNICAÇÕES LTDA-ME
 265979,DATALIG TELECOM
+265980,FIBRA PARA O LAR TELECOMUNICACOES
+265981,Linknet Telecomunicações LTDA
 265989,NETS TELECOMUNICACOES LTDA
 266011,FABLINUXER CONNECT TELECOMUNICAÇÕES
+266020,Iclick telecom
 266025,OPTICA TELECOM LTDA
 266028,SMARTSEND TELECOM
 266029,SBNET TELECOM
 266030,W B DE ANDRADE TELECOMUNICAÇÕES E INFORMÁTICA
 266034,Falou Telecom
+266036,NETGAMES TELECOM
 266038,VN TELECOM PROVEDORES A.R.C EIRELI
+266043,CANET INTERNET E TELECOM
 266044,NICNET TELECOM LTDA.
 266049,Rede.com Telecom
 266051,BSB TIC SOLUCÕES LTDA - EPP
+266052,Interviva Telecom e Serviços LTDA ME
 266080,CMA MULTIMIDIA TELECOMUNICACAOES
+266083,BANDA A TELECOMUNICAOES LTDA ME
+266094,CONEXAO MB E TELECOMUNICACOES
+266095,Zetek Telecom
 266103,AGILITY PATU
+266104,A Variani Júnior servico
 266113,FELTEN & QUADROS TELEFONIA E INTERNET LTDA
 266114,TOTUS TELECOMUNICAÇÕES LTDA
 266115,W Rodrigo de Jesus ME
+266117,GLINK TELECOM
 266121,A.S.DOS SANTOS - TECNOLOGIA DA INFORMACAO
+266127,JMNet Telecom
+266129,LOCALLINK TELECOMUNICAÇÕES LTDA - ME
+266132,VTX NET TELECOM LTDA
 266136,R. P. DE B. ALVES SERVICOS E TELECOMUNICACOES
 266139,ZENAIDE ALVES DE SOUZA OLIVEIRA E CIA LTDA - ME
 266140,CMC Telecom EIRELI - ME
 266142,Bahiadados Telecom
 266148,MAIS FIBRA TELECOMUNICACAO LTDA
+266150,Borille Serviços de Telecomunicações Ltda.
 266160,Kater Telecomunicações
+266167,CELERIX TECNOLOGIA DE TELECOMUNICACOES
 266178,C2M SERVIOS DE INFORMTICA E TELECOMUNICAES
 266193,Mailbox INTERNET E TELECOMUNICAÇÕES LTDA
+266197,IBL TELECOM
 266200,EX2NET TELECOMUNICAÇOES - LTDA
 266207,Onitel
 266208,Allfiber Telecom Serviços de Telecomunicações
 266213,INOVA FIBRA
 266216,Brasil Like telecomunicações
+266236,VELPRO TELECOMUNICACOES
 266238,NETCANES TELECOM
+266240,A2 TELECOM EIRELI - ME
+266243,DFL TELECOM
 266251,INFOWORLD TELECOMUNICAÇÕES LTDA
+266253,C A DE SOUZA
+266260,ITOP TELECOM
+266269,MVTELECOM
 266272,JundFibra Telecomunicações
 266274,NETWEST TELECOM
 266275,JEFFERSON KAYAM DA ROCHA
 266279,QUALITY TELECOM
+266291,ANDERNET TELECOM
+266296,Green Telecom LTDA
 266302,RENOVENET PROVEDOR INTERNET LTDA - ME
 266303,PROVYNET TELECON LTDA ME
 266312,NaveNet Telecom
 266317,REVILINK TELECOM
+266319,Smart Telecom Networks Serv.de Telecom. LTDA M.E
 266332,PRESTEL SERVICOS
 266338,HDL SOLUCOES EM TECNOLOGIA
 266346,ATIVA INTERNET
 266351,SAIBERT TELECOM
+266353,REDE BJNET TELECOMUNICAÇÕES LTDA-ME
+266355,Sulnet Telecom
 266362,NORTE TELECOM PROVEDOR DE INTERNET EIRELI
 266366,GIGA NET TELECOMUNICACOES
 266371,R7R
@@ -3003,14 +3519,19 @@ ASN,Organization
 266386,BLUS TELECOM LTDA - EPP
 266397,UNINET TELECOM E INFORMÁTICA - EIRELLI - ME
 266399,NUDOZE TELECOMUNICACOES EIRELI
+266409,SECW TELECOM
+266418,SERVTEL EIRELI
 266423,CONNECTVY TELECOMUNICACOES
 266427,CINTIA AUXILIADORA DE ALCANTARA BARBOSA - ME
+266430,Victor.net e Link Evolution Telecom
 266433,Super On Telecom
 266434,MASTER DATA TELECOMUNICACOES
 266436,NETCENTER TELECOM Porto Seguro
+266439,InfoMaxx Telecom
 266441,LWNET COMERCIO E SERVICOS DE COMUNICACOES LTDA
 266445,SEA TELECOM AS266445
 266450,Tree tecnologia e telecom ltda
+266452,ELETROINFO TELECOMUNICACOES LTDA - ME
 266454,EXPAND TV
 266462,SW Telecomunicações e Informática Itu Ltda. - ME
 266465,CLIKANET TELECOM
@@ -3018,50 +3539,76 @@ ASN,Organization
 266467,Guimaraes E Venâncio Telecomunicações Ltda-ME
 266468,ACESSANET TELECON
 266475,SEM FRONTEIRAS TELECOMUNICAÇÕES
+266477,L2K FIBRA LTDA
 266481,NET RIBAS TELECOMUNICACOES
 266483,CIANET TELECOM
 266493,SN BANDA LARGA COMERCIO E TELECOMUNICACOES
 266499,HC TELECOM PROVEDOR DE INTERNET
 266500,ASN266500
+266507,Uraí Telecomunicação Multimidia Ltda
+266514,Antonio J De Albuquerque ME
 266517,New Life Telecom Eireli EPP
+266518,LINK BRASIL COMUNICACAO MULTIMIDIA
 266519,PROVERADIO COMERCIO E SERVIÇOS
 266520,VOOB TELECOM
 266522,Realnet Telecomunicacoes e Multimidia ltda
 266524,ONBAHIA TELECOM
+266528,Master Telecomunicações LTDA ME
+266534,Azecom Telecomunicacoes
 266539,LINQ TELECOMUNICAÇOES
+266550,WOW TELECOM COMUNICACAO MULTIMIDIA
 266553,MEGA NETWORK TELECOM
+266563,NOVA REDE TELECOM
+266570,ELETRICNET TELECOMUNICAÇÕES
 266571,PROFIBER TELECOM LTDA
+266572,WORLDNET TELECOMUNICAÇÕES
 266583,TELXE DO BRASIL TELECOMUNICACOES LTDA
+266586,NetBig Telecomunicações LTDA
 266592,LIFE INTERNET
 266593,JASGAB TELECOM
 266606,VSTNETFIBER TELECOM
+266608,Ola Fibra Telecomunicacoes
+266619,LOGPLAY - Webviva Telecomunicacoes LTDA
 266620,(VIPLANET) E D TELECOMUNICES
 266624,CONEXAO VIP TELECOM
+266627,INTERATIVA TELECOM E TI LTDA ­ME
 266634,KLINK TELECOMUNICAÇÕES EIRELI ME
 266636,REDE WORKS TELECOM
 266643,NETFY TELECOMUNICACOES
 266646,MEYER TELECOM
+266651,R. M. TELECOM
 266672,SYSNOVELLTEL
 266673,FLYTEC TELECOM SOCIEDAD ANONIMA
 266698,INSITEL
 266704,TELEVISION ORIENTADA S.A.
+266705,GABRIEL FRANCISCO ERBETTA Y MARIANO ANDRES CARRIZO RICHELET SOCIEDAD DE HECHO (TELNET SOLUCIONES)
 266722,AMITEL PERU TELECOMUNICACIONES SAC
 266731,TELECOMUNICACIONES MAURICIO ANDRES KASENDRA LARENAS
+266732,Fibertel Perú
 266734,TELEVISION POR CABLE
 266814,266814
 266830,AP Telecom
+266870,SERVICIO DE TELECOMUNICACIONES VEMOS MAS
 266877,COLOMBIATEL TELECOMUNICACIONES
 266911,VicNet Telecom
+266915,QUALITY TELECOMUNICAÇÃO
 266920,Globofiber Telecom
+266934,G5 TELECOM
 266936,MT-TELECOM SUL
+266944,CanalBR Telecom
+266951,REDE CONECTA TELECOM
 266961,Arias Telecomunicações
 266964,INFOWAYNET TELECOM
 266966,INTELINK COMUNICACAO
+266968,SUANET TELECOMUNICACOES
 266983,XZoom Telecom
+266986,OLV Telecom
 266987,Web - Link Telecomunicações e Engenharia
+266989,ETH TELECOM
 266992,Oliveira & Fernandes Telecomunicações
 266995,Evox Telecom LTDA - ME
 267013,INTERNET SOLUTION PROVIDER TELECOM. LTDA ME
+267020,VS TELECOM
 267031,DUNAS TELECOM
 267032,DIGINETBRASIL TELECOMINICAÇOES LTDA ME
 267033,serrasul telecom ltda
@@ -3071,21 +3618,30 @@ ASN,Organization
 267061,Microtec Telecomunicação Ltda - ME
 267070,Fibranet Juiz de Fora Serviços de Telecomunicações
 267073,L A P JUNIOR EIRELI - ME
+267076,REDE MINEIRA DE TELECOMUNICAÇÕES LTDA
 267077,JACKSON DE S. SILVA - ME
 267091,Veloce Telecom
 267096,HELLO WEB TELECOMUNICACOES E SERVICOS
+267106,NETFIBRA TELECOMUNICACOES
 267121,Atplus Telecom
 267123,MEGANET TELECON LTDA
+267128,Speednet Telecom
 267129,NET+ TELECOM
+267156,CHARLLEY PEREIRA DA SILVA
+267158,MG NET TELECOMUNICACOES LTDA ­ ME
 267159,LTNET Telecomunicacoes EIRELE ME
 267162,LINKNET Telecom
 267164,S & R Telecomunicações LTDA
 267167,VIRTUALI SOLUÇOES EM TELECOMUNICAÇOES EIRELI
+267185,CCS Camboriú Cable System de Telecomunicações
 267186,L AGENOR DE MELO
 267192,TELCOM PROVEDOR DE ACESSO
+267195,REDE TELENEW EIRELI - ME
 267197,Camoa Telecom
+267199,RedeMetro Telecom
 267201,Fiber One Telecomunicações
 267205,JOTAZO TELECOM
+267221,Gold Telecom
 267224,LOGPLAY - Itelecom Solucoes Em Comunicacoes LTDA
 267227,FLAT TELECOMUNICAÇÕES LTDA
 267229,DG Telecom Serviços de Telecomunicações LTDA
@@ -3095,30 +3651,49 @@ ASN,Organization
 267251,TELEFONARNET TELECOMUNICAÇÕES
 267261,PROXER TELECOMUNICAÇÕES LTDA ME
 267264,JrFiber Telecomunicações
+267265,DINAMICA TELECOM LTDA
 267274,GBNET TELECOM
 267281,GIGANET TELECOM LTDA-ME
 267288,PONGAR TELECOM
 267291,satynet telecom ltda -me
+267297,NETUNO DO BRASIL TELECON Network
+267301,TEUTONET TELECOMUNICACOES
+267308,J L X Telecom
 267311,MGNETT TELECOMUNICAÇÕES LTDA - ME
 267329,YOUSER TELECOMUNICAÇÕES LTDA
 267335,MUNDIAL TELECOMUNICACAO
+267342,HELP TELECOM
+267348,FC Telecomunicações
+267350,Go INTERNET E TELECOM LTDA ME
+267357,LIVENET FIBRA
+267362,ILIMITECH TELECOM JUSSARA EIRELI
 267363,L E M INFORMATICA E INTERNET LTDA
+267366,: F L SALVIANO PROVEDORES
 267374,ICOS TELECOM LTDA - ME
 267378,CWMC TELECOM
+267384,G7 BSB TELECOM LTDA
 267386,P.j. Campos Perina - ME
+267390,POWERTEC TELECOMUNICACOES
 267394,AV3M Telecom e Multimidia LTDA
 267396,Rv Connect telecomunicações
 267399,TOP 37 ESTACOES E REDES DE TELECOMUNICACOES
+267412,ASN267412
 267419,VISUALNET TELECOM
+267424,G.C.TELECOMUNICAÇÕES LTDA-ME
+267425,TSCM NET BRASIL TELECOMUNICAÇÕES
 267426,AQUI TELECOMUNICACOES
 267428,LEX TELECOM
 267429,GRAFNET TELECOM
+267438,TECNOLINS COMÉRCIO E SERVIÇOS E TELECOMUNICAÇÕES LTDA
 267449,GLOBALNET TELECOMUNICAÇÕES
 267452,CABONNET - R W TELECOMUNICACOES
 267453,Neticabo Telecom Ltda - ME
+267455,ASN267455
 267456,INOVANETCE TELECOM
 267470,Caxias Online
 267494,DNL NETWORK TELECOMUNICAÇÕES LTDA
+267497,GL TELECOM LTDA - ME
+267498,VIDATEL SERVICOS CONVERGENTES EM TELECOMUNICACOES
 267501,Equatorial Telecomunicações LTDA
 267510,PROVEDOR CRNET TELECOM S.C. MULTIMIDIA EIRELI
 267513,Seanet Telecom Carazinho
@@ -3129,14 +3704,21 @@ ASN,Organization
 267529,KNS DE PINHO TELECOMUNICACOES
 267537,NETFLESH TELECOM E COM DE PROD DE INFORMAT LTDA-ME
 267540,ITACELL TELECOM
+267545,Power Networks Telecomunicações
 267546,Goiás Conect
 267551,DATACOM TELECOM
 267552,Turbo Net Telecom LtdaME
+267554,+Net & Telecom
 267555,CONECT FIBER TELECOMUNICACOES LTDA - ME
+267556,Explorer Telecom Barretos Informatica
 267560,PC CONNECT TELECOMUNICACOES
 267563,Ei Telecom
 267564,FIBER TELECOM - TELECOMUNICAÇÃO DE DADOS
 267568,R. C. F. ­ TELECOM
+267570,Rafael Zamboni Freisleben
+267571,SUMITA TELECOMUNICACOES LTDA
+267575,Maranet Telecom
+267576,Conet Telecom
 267583,MegaLink Telecom e Segurança Eletronica
 267586,Tunins Telecom
 267587,CLICK SPEED SERVICOS DE TELECOMUNICACOES
@@ -3147,11 +3729,15 @@ ASN,Organization
 267612,UNIAO DIGITAL TELECOMUNICAÇÕES
 267614,SIGAON SERVICOS TELECOMUNICACOES EIRELE
 267618,ARPRONET TELECOMUNICACOES
+267621,IFIBER TELECOM
 267629,SGV TI E TELECOM
 267633,DATANET TELECOMUNICAÇÕES E INFORMATICA LTDA
 267638,Wind Telecomunicação do Brasil Ltda - ME
 267641,DKTelecom
+267642,T. TELES LEITE TELECOMUNICACOES
 267645,VISION ON LINE TELECOM
+267650,JCL TELECOMUNICACOES
+267675,AKI NET TELECOM LTDA ME
 267685,SIRIO TELECOMUNICACIONES
 267693,PROYTEL CONNECTIONS C.A
 267749,INVERSIONES TELCOTEL SAC
@@ -3160,31 +3746,57 @@ ASN,Organization
 267823,ATENEA TELECOMUNICACIONES
 267831,INVERSIONES EN TELECOMUNICACIONES DIGITALES
 267869,CABLE Y TELECOMUNICACIONES DE COLOMBIA S.A.S (CABLETELCO)
+267883,267883
+267918,TELEGA SOCIEDAD ANONIMA
 267929,GENIONET TELECOMUNICACIONES S.A.S
 267933,IBI TELECOM  AS267933
 267935,GV telecomunicações
+267938,UNIC SERVICOS DE TELECOMUNICACOES
+267945,MICROCHIP-NET TELECOM SERV COM MULTIMIDIA LTDA
+267955,OP TELECOM
 267963,HAYAN TELECOM
 267980,City Turbo Telecom
+267983,L V SERVICOS DE TELECOMUNICACOES
+267988,JH SORCI TELECOMUNICAÇÃO
 267994,ASN267994
+268019,RODRIGUES & LEAL SERVIÇOS DE TELECOMUNICAÇÃO
+268022,NORDESTE TELECOMUNICACOES E PORTAIS DE PROVEDORES
+268038,LG Telecomunicacoes
 268051,NEXFIBRA TELECOMUNICACOES LTDA
 268055,LOKAL ONLINE TELECOM SERVICO DE TELECOMUNICACAO
 268056,LEXCOM TELECOM
+268060,FTLNET
+268064,Net 1000 Telecom Ltda
 268069,SPACELINK
+268080,JMA PROVEDOR DE INTERNET
 268091,ZM SERVICOS EM TELEFONIA
+268093,DIRECTNET TELECOM LTDA
 268097,i10 Telecom
+268099,BJ NET BANDA LARGA
 268101,MIO TELECOM LTDA
 268105,N.F.F.NETWORK SERVICOS DE TELECOMUNICACOES LTDA
+268107,GERENSIS TELECOM E SERVICOS LTDA - ME
+268120,Garden Telecom
+268122,ASN268122
 268123,INOVA TELECOMUNICAÇÕES EIRELI
+268124,CONEXAO TELECOM
+268125,Jequie Telecom Servicos
 268131,MIX NET TELECOMUNICAÇÕES
 268134,Topetex Telecom
+268136,P J A TELECOMUNICACOES LTDA
 268144,Grandella Telecomunicações e Construções Ltda
 268145,IPV7 SERVICOS DE TELECOMUNICACOES BRASIL
 268146,PKNET SERVICOS DE TELECOMUNICACOES LTDA
 268148,AccessLink Telecom
+268155,TRACECOM SOLUCOES
+268157,ELEVAR TELECOM LTDA
 268158,S.P. TELECOM LTDA
 268166,POINT TELECOM SERVIÇOS LTDA
 268177,D & B TELECOMUNICAÇÕES LTDA
+268181,TELECOMUNICACOES JUPI LTDA
+268182,JNET TELECOM EIRELI
 268186,InterOuro Telecom
+268194,G2 Telecom
 268195,LINK FLY TELECOM LTDA - ME
 268197,AJR Fibervision Tecnologia e Telecom
 268201,IGP Fibra
@@ -3194,17 +3806,23 @@ ASN,Organization
 268219,SDG TELECOM E SERVICOS
 268221,Fiber Banda Larga Servicos e Telecomunicacoes
 268229,VIA ONDAS TELECOMUNICACOES LTDA
+268230,SEA TELECOM AS268230
 268231,X-CELENTE TELECOM
 268235,VLA TELECOMUNICACOES - AS268235
 268238,Clicknet Telecom. Provedor de Internet LTDA
+268243,LUXFIBRA TELECOMUNICAÇÕES
 268246,ATIVA TELECOM LTDA
 268251,STARFIBER INTERNET
+268257,SIDI SERVICOS
 268272,TBN TELECOMUNICACOES LTDA ME
 268286,TECH PIGNATON TELECOM
 268289,Audicom Telecom
 268291,MI NET TELECOM
+268296,BARRANET TELECOMUNICAÇÕES LTDA
+268299,ACESS TELECOMUNICACOES
 268300,Ativar Telecom
 268305,T & I TELECOMUNICAÇÕES LTDA ME
+268310,IBNET TELECOM LTDA
 268314,EWERTON DA SILVA LOPES TELECOMUNICAÇÕES
 268317,CSTELECOM SERVICOS LTDA
 268321,SM Passos Kayser Sistemas de Comunicações
@@ -3212,48 +3830,78 @@ ASN,Organization
 268324,Provecom
 268329,ONLINE TELECOMUNICACOES LTDA
 268330,LOUZEIRO & MORAIS
+268335,ORACLON TELECOM
 268336,A Fróes da Mota telecomunicaçoes
+268344,TECKLINK NET
 268350,R.R.COMUNICAÇÃO & MULTIMIDIA EIRELI
 268352,Dendena Koerich e Vieira
 268367,ITELFIBRA TELECOMUNICAÇÕES LTDA
 268374,Telnet Servicos e Comércio em Informática Ltda.
 268377,LOCALNET TELECOM
 268383,RCSANTOS SERVICOS DE TELECOMINICAÇOES E
+268391,GramNet
+268392,Hagalink Telecomunicacoes Ltda - Me
 268413,ACENO TELECOMUNICACOES LTDA
 268425,TURBOMAIS NETWORKS TELECOMUNICAÇÕES LTDA
 268428,Client
 268429,SISTELBRAS TELECOM
+268430,L&R Soluções em Telecomunicações
+268434,Quadri Telecom
+268436,Starcamp
 268437,Braxtel Telecom e Ti
+268449,SL Telecomunicações EIRELI
+268455,MASS TELECOMUNICAÇÃO
 268458,VIRTUAL NET TELECOM
 268470,CONECTAR TELECOM BANDA LARGA LTDA
 268476,Neofibra Telecom
 268480,ALTA VELOCIDADE TELECOMUNICACOES LTDA
+268487,PRISMA TELECOMUNICAÇÕES LTDA. EPP
 268494,TURBO NET TELECOMUNICAÇÃO
 268502,Sinal do Ceu Telecom Comercio e Servicos
 268505,Deep Telecom
+268509,COMPLETA Telecomunicações
+268514,PLUS TELECOM DO BRASIL
+268516,Midia Net Telecom
+268518,Starnet Telecom
 268538,Conecta Network Telecom LTDA
+268541,Skyturbo Telecom
 268543,ASL Telecomunicações
 268544,C ANDRE C SILVA
+268545,NNET TELECOMUNICAÇÃO LTDA
+268551,DMC TELECOM
 268556,RG Correa Telecomunicaçoes
 268557,A B DA SILVA TELECOMUNICACOES
 268560,VIPTELECOM INTERNET BANDA LARGA
 268568,ImplantarTelecomNet
 268573,GNET TELECOM SERVIÇOS COMUNICAÇÃO LTDA
 268576,CONECT TELECOM LTDA - ME
+268577,LIGEIRO FIBRA TELECOM LTDA
 268588,J.LP FONSECA TELECOM
 268597,RC TELECOMUNICAOES
+268600,GiroNet Provedor de Internet e Telecom
 268605,SRG TELECOM
 268611,WJ NET
+268617,G7 Telecom servicos de Internet LTDA.
+268621,KEEPNET TELECOMUNICAÇÕES LTDA ME
+268623,VTEK TELECOM
 268625,NETFAST TELECOMUNICACOES E MULTIMIDIA LTDA
+268628,ROX TELECOM
+268631,CALU.COM
 268635,FIBER UP TELECOM EIRELI
+268644,Eletrochip Informática e Telecomunicações Ltda.
 268645,AJA DIGITAL
 268657,BLESS TELECOMUNICACOES LTDA
+268665,Raquel Storch Almeida de Oliveira
 268674,Conexão Bahia Sul
 268675,Web Fiber Provedor Telecom Acesso A Redes de Inter
 268689,LINKAR TELECOM
+268698,CONNECTCEU TELECOM EIRELI
+268699,SOLPTEC TELECOM
 268700,Salatiel dos Santos Teles Informatica
 268707,4WNET AS268707
 268710,YES FIBRA TELECOMUNICACOES LTDA
+268725,Planex Telecom
+268726,TOPNET SERVIÇOS DE TELECOMU E MULTIMÍDIA
 268733,MaetingaNET
 268751,IBV Telecom
 268755,Stok Info Telecom Ltda-me
@@ -3263,41 +3911,73 @@ ASN,Organization
 268787,SEU WIFI TELECOM LTDA
 268788,HEXA TELECOM
 268791,E C de CANO
+268795,TELECONSULT TELECOMUNICACOES
 268803,JRB TELECOM LTDA
+268815,L & R NET SERVICOS DE TELECOMUNICACOES LTDA - ME
 268817,FIBER TELECOMUNICACOES
+268818,KOBERTURA TELECOM LTDA
 268824,Connectmax Telecom
+268828,ONDANET TELECOM FIBRA OPTICA EIRELI
 268829,JARAGUA TECNOLOGIA EM TELECOMUNICACOES
+268831,M & M telecomunicações e Multimidia
+268836,SOW Telecomunicações
+268842,Igap Net
+268863,M & G TELECON LTDA
 268869,FIBRA PLUS TELECOM
 268872,VALETELECOM CE
 268881,NMULTIFIBRA TELECOMUNICAÇÃO LTDA
 268884,Triplotel
+268885,KINET PROVEDOR DE INTERNET E SERVICOS DE TELECOM
+268909,ALAICOMNET
+268925,TELLCORP TELECOMUNICACOES CORPORATIVAS
 268935,VibeNet Telecom
 268944,Martins & Martins Telecom
 268953,G6 TELECOM
+268956,ESPECIALNET TELECOM LTDA
+268969,MegaNet Telecom
 268976,Weclix Telecom
 268980,NOXY COMUNICAÇÃO E TELECOMUNICAÇÃO LTDA.
 268983,NAXOS TELECOM
 268988,MULTINET TELECOM
+268990,Inforfelixnet Telecomunicaçoes Ltda ME
+269000,JG TELECOM COM. E SERVS. LTDA
+269002,ISOUL SOLUCOES CORPORATIVAS E TELECOMUNICACOES LTD
 269004,MORE SPEED INFORMATICA E TELECOM
+269008,ANDRE HACKBARTH
+269014,VIVEZA TELECOM AS269014
 269025,GmaX Telecomunicaçao
 269028,L2Comercio
+269030,TOPSAPP SOLUCOES EM TELECOMUNICACOES E REDES AVANC
 269036,ATEX
 269037,L2M TELECOMUNICAÇÕES EIRELI
+269046,First Telecom Network
 269056,LNK Telecom
+269057,VELOZ FIBRA
 269067,RVTNET
 269073,NipTelecom Telecomunicacoes LTDA
 269077,VISION TELECOM SERVICOS DE COMUNICACAO MULTIMIDIA
+269079,SUPERNETMAIS TELECOMUNICAÇOES
 269082,Fonseca Telecomunicacoes
+269084,Global Tech Telecom Ltda - ME
 269096,NORTH TELECOMUNICACOES
 269107,J L TELECOMUNICACAO E MULTIMIDIA COMERCIO E SERVIC
 269108,UNT TELECOM
 269109,MARKTEC TELECOM
 269121,VG WEB INTERNET E TELECOM LTDA - ME
+269124,JRNET TELECOM
+269129,WJL TECNOLOGIA & TELECOMUNICACOES
+269131,LK Maia Telecon LTDA-ME
 269136,Andre L. Azariti & Cia LTDA
 269138,ASN269138
+269139,AN TELECOM
 269146,NOKE TELECOMUNICACOES
+269147,VALE VERDE TELECOMUNICACOES LTDA - ME
+269151,SWAP TELECOM
+269153,Conecte Telecom
 269158,SPEED TELECOM
 269164,planoip telecom
+269170,ASN269170
+269172,JC NET TELECOM EIRELI ME
 269173,TECNET TELECOM
 269174,FIXANET TELECOM PROVEDOR DE INTERNET
 269179,CONNECT FIBER TELECOM
@@ -3306,6 +3986,8 @@ ASN,Organization
 269193,Iktelecom Ltda
 269200,CONNECT TELECOMUNICACOES LTDA
 269204,FIBER.NET
+269211,MUND NET TELECOMUNICAÇÕES LTDA ME
+269212,INSTALE TELECOM
 269220,Vamos Internet Telecom
 269231,BIOS NETWORKS TELECOMUNICAÇÕES
 269243,RedeVista Telecom
@@ -3313,65 +3995,111 @@ ASN,Organization
 269249,Nexo Telecom LTDA
 269250,EVOLUCAO TELECOM LTDA
 269258,NETBOX TELECOM EIRELI - ME
+269273,Jcnet Telecom LTDA
+269299,New HB Servicos de Telecomunicacoes
+269301,S. DANTAS QUEIROZ TELECOM
 269308,TELECOM ORBI
 269317,MM TELECOM
+269318,VIRTUAL NETWORK TELECOM LTDA
+269319,PSTELECOM
+269326,A2 TELECOM PROVEDOR DE INTERNET LTDA
 269335,SUPORT TELECOM LTDA
 269339,CONEXAO WEB TELECOM LTDA
+269340,BM SERVICOS EM TELECOMUNICACOES
 269352,Netcenter Telecom
+269354,NDD TELECOM - SERVICOS DE COMUNICACOES
+269355,VSC TELECOM EIRELI - ME
 269357,Inter fibra telecomunicação
 269359,CANAA TELECOMUNICAÇÕES LTDA - ME
 269363,S GALVAO TELECOMUNICACOES
+269374,CLUSTERS TELECOM INFORMATICA LTDA ME
+269380,UP LINK TELECOM
 269382,PORTAL NET TELECOM SERVIÃOS DE INTERNET
+269383,FIRST NET TELECOMUNICACOES LTDA
 269396,UNIR TELECOM
 269401,EY TELECOMUNICACOES
 269402,WaveTech Telecom
+269405,ASN269405
 269409,Rio Online Telecomunicações e Informática Ltda Me
 269411,G3LINK TELECOM SERVICO DE COMUNICACAO MULTIMIDIA
+269412,Oeste Telecom
 269416,SEMEAR TELECOM
+269425,RN TELECOMUNICACOES
+269429,Agility Telecom
 269433,LINK TELECOM SERVIÇOS DE INTERNET
 269435,SISTEL FIBRA
+269437,PRADO TELECOM E SISTEMAS DE SEGURANÇA ELETRONICA
+269442,VG NET SERVIÇOS DE TELECOM
 269447,Aquidaweb Telecomunicações e Multimidia Ltda EPP
+269457,G+B SISTEMAS E AUTOMACAO
+269460,NEW NET LG SOLUCOES TELECOMUNICACOES E INFORMATICA
 269469,GIGAR TELECOMUNICACOES LTDA ME
 269473,i4 Telecom Eireli
+269474,YOUPLOAD TELECOM
+269475,STI Telecom
+269477,CN-TELECOM LTDA
 269478,67 TELECOMUNICACOES
+269483,CYBER NET TELECOMUNICACOES EIRELI ME
+269484,Start Telecom
 269485,JRNETWORKS Telecom
+269488,RRLINK TELECOM
 269499,FIBRALINK INTERNET E TELECOMUNICACOES
 269501,OneTech Telecom
 269506,BRLOGNET TELECOMUNICACOES LTDA
+269516,SOLUÇÃO TELECOMUNICAÇÕES
+269517,Spacenet Telecom
 269524,Suprema Network Telecom
 269526,AFS TELECOM LTDA. -ME
+269527,Impertech Telecom
+269529,M2 TELECOMUNICAÇÃO
+269530,AccessNet Telecomunicações
+269535,TEC PLUS TELECOMUNICAO
 269538,CONECTEC NET LTDA
 269546,BITNET TELECOM
 269554,Três Marias Fiber Telecom
 269571,TEX TELECOM EIRELI
+269578,M T Net Telecom LTDA
+269591,DOBLERNET TELECOMUNICAÇÕES
 269595,VGRNET
+269600,Fourfibras Serviços de Telecom
+269603,MM Telecomunicações LTDA.
+269604,JNETCOM TELECOM
 269614,ONLLINE TELECOMUNICACOES
+269615,FIBRAXX TELECOM
+269632,Ops Telecomunicações
 269633,LCE TELECOM
 269634,FIXTELL TELECOM NE LTDA
 269635,SC TELECOMUNICAÇÕES LTDA
+269636,ACTIVEX TELECOMUNICACOES LTDA
 269638,SPEEDY TELECOM
 269639,WORKSAT SERVIÇOS DE TELECOMUNICAÇÕES
 269656,RK Telecom Provedor Internet LTDA
 269657,MPLINE TELECOM
 269662,TELE FIBRAS INTERNET BANDA LARGA LTDA
+269664,MAIS TELECOMUNICACOES LTDA
 269665,LEKST TELECOM
+269676,FORCA E ACAO SERVICOS DE TELECOMUNICACAO EIRELI
 269680,TCL Cortez Servicoes en telecominicacoes
 269684,LANFIBRA TELECOMUNICACOES - EIRELI
 269687,Inova Teleinformatica
 269688,ASN269688
+269696,KMS NETWORK TELECOM LTDA
 269698,INTERCLUB FIBRA TELECOM LTDA
 269704,G DE OLIVEIRA LIMA SERVICOS DE TELECOMUNICOES
 269712,OCTA TELECOM
 269713,Voo Telecom AP
 269714,Vipfiber Telecom Ltda
 269715,InfinityGo Telecom
+269720,AMD TELECOM LTDA
 269733,REDCENTRAL TELECOMUNICACIONES LTDA
+269742,AVIDTEL E.U.
 269743,UNIMOS EMPRESA MUNICIPAL DE TELECOMUNICACIONES DE IPIALES S.A. E.S.P.
 269797,LOCH TEL SRL (GOLOCHTEL)
 269803,INVENTA TELECOMUNICACIONES
 269816,TELE MON
 269831,SERVICIO DE TELECOMUNICACIONES OROBLA
 269832,MDSTELECOM
+269841,COMNET TELECOM CRP S.A.
 269843,BANTEL
 269852,LOJANOS TELECOMUNICACIONES
 269873,COOPERATIVA TELEFONICA INTEGRAL DE OBRAS Y PROVISION DE SERVICIOS PUBLICOS SANTA SYLVINA LTDA
@@ -3380,13 +4108,16 @@ ASN,Organization
 269921,Telecable Central Puerto Plata
 269928,TELECOMUNICACIONES RHJ C. A.
 269936,TELEVISION MONTALVO VISION MONVISION
+269952,ARZE NORBERTO DELFIN (NORTEL)
 270006,INTEL COMUNICACIONES PERÚ SAC
 270023,TELECOM BOLIVIA S.A.C
 270026,RED SERVITEL
+270037,ComWiFi
 270044,CORRIENTES TELECOMUNICACIONES
 270045,TELECOMUNICACIONES OPORTUNAS INTELIGENTES SRL
 270052,STARTELECOM S.A.
 270071,SIGNAL-TELECOM TELECOMUNICACIONES & T.I CIA
+270086,FIRTEL
 270158,WANTELCO SA DE CV
 270237,MULT3 TELECOM
 270241,m.a.carvalho telecomunicacoes - me
@@ -3403,81 +4134,150 @@ ASN,Organization
 270334,NET 100A
 270340,NETCOM TELECOMUNICAÇOES LTDA
 270341,Futel Telecom
+270342,ENSATA TELECOM
 270344,GA Telecom
+270358,FUSION TELECOM
 270368,TR TELECOMUNICACOES
+270370,A B DA SILVA MULTIMIDIA - ME
 270372,CEUNET TELECOM
+270373,N TELES MORORO - ME
+270374,KINGNET TELECOMUNICACOES
 270375,CONNECT TELECOM LTDA
 270383,MULTI TELECOMUNICACAO LTDA
 270391,Raiznet Telecom Ltda
 270413,PGF SERVICO DE TELECOMUNICACOES LTDA
+270415,LEVE INTERNET E REDES DE TELECOMUNICACOES LTDA
 270436,SOOU TELECOM
 270438,GBNET
 270444,ZBL TELECOM
+270447,MIGUEL A. DOS SANTOS TELECOMUNICACOES
+270453,4TELECOM
 270458,FIBRA MAIS
 270463,ASCES NET TELECOMUNICACAO LTDA ME
+270464,ASN270464
 270465,CRS SERVIÇOS DE COMUNICAÇÃO MULTIMÍDIA
+270473,3.I. TELECOM LTDA - ME
 270474,E.D.F DE ARAGAO TELECOMUNICAÇOES EIRELE - ME
+270487,JC NET TELECOMUNICACOES
+270495,JRD TELECOM LTDA
+270498,ACCONECT TELECOM LTDA - ME
+270501,HORUS TELECOMUNICACOES EIRELI
 270506,G5 Rede de Telecomunicacoes Multimidia
+270507,DOMINIO TELECOM LTDA
+270509,Turbinado Telecom Ltda - ME
 270512,Nw3 telecomunicações
 270515,Enter Telecom
 270518,Atec Informatica Telecom Martinez e Rocha LTDA
+270528,ASN270528
 270531,POLVO TELECOMUNICACOES EIRELLI
 270543,Gwg telco telecomunicaçoes eireli
 270544,JB TELECOMUNICACOES & SOLUCOES
 270548,AGI TELECOM
 270549,Oliveira e Novaes Serviços de Telecomunicação LTDA
 270552,WCL TELECOM
+270560,Fort line serviços de telecomunicações Ltda
 270561,net rapida telecomunicações do brasil
 270562,ET NET TELECOMUNICACOES E CONSULTORIA LTDA
+270581,JET NETWORK
+270601,SMART TELECOM
+270607,POWERNET MINAS TELECOM LTDA
 270608,RODRIGO ALBERTO CARLOS-ME
+270612,Mnet Telecom Provedoria em Internet Ltda
+270624,Live Fibra Telecom
 270625,M. S. TELECOMUNICACOES LTDA
+270626,DOMINION UAULL NET TEC DE CON INTELIGENTES LTDA
+270636,GLOBALLIG TELECOMUNICACOES LTDA - ME
 270641,YAS TELECOMUNICACOES EIRELI
 270642,ASN270642
 270646,LONDRINET TELECOMUNICACOES
+270652,H.l informática e telecon Ltda me
+270653,SPEED NETWORK TELECOM LTDA
+270656,2 M TELECOM EIRELI
 270664,A K C PROV DE ACESSO AS REDES DE TEL. E INF
+270669,ATTENTO NET TELECOM
+270674,WebFiber Telecom
+270677,TEK TELECOM LTDA
 270678,W.B.G INFORMATICA E TELECOMUNICACOES EIRELI
 270685,SUMER NET SERVICOS DE TELECOMUNICACOES
+270691,REVNET TELECOMUNICACOES E SERVICOS LTDA
 270692,JOSE CARLOS GONZAGA CARDOSO
+270706,LAN TELECOM INTERNET BANDA LARGA
 270708,WEBNET GLOBAL TELEFONIA E COMUNICACAO
 270715,TELECOM SERVIÇOS DE INTERNET LTDA
 270718,ACSNET TELECOM
+270721,J J C Telecomunicacoes
 270722,CSO.NET TELECOM
+270723,Poecom Telecom LTDA.
+270725,INOVE TELECOMUNICAÇÕES E SERVIÇOS
 270733,netmax telecomunicacoes ltda
 270736,MASTERNET TELECOMUNICACAO LTDA
 270738,Cedro Telecom
+270744,Forte Telecom Servicos de Comunicacao Multimidia E
+270748,INTERV TELECOM
 270751,RNET TELECOM LTDA ­ ME
 270755,GLOBAL TELECOMUNICAÇÕES
+270768,SS TELECOM LTDA
+270776,Hiperlink Telecom Brazil
 270778,NORTE TELECOM LTDA - ME
 270790,MegaLink TI e Telecom LTDA
+270805,AJF TELECOM
 270814,ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES
 270816,ZAMTECH COM TELECOMUNICACOES LTDA
+270820,COMPUNET DO BRASIL TELECOM
+270823,LH NET Telecom
 270834,3D COIMBRA TELECOMUNICACOES EIRELI
+270844,AXION3 TELECOM
+270848,NANUQUE TELECOM
+270862,Ferabraznet Comenrcio e Serv. de Telecom. Ltda-ME
+270863,DRM SERVICOS DE TELECOMUNICACOES EIRELI
 270868,IP TELECOM E SISTEMAS
 270873,VISION NET TELECOMUNICAÇÃO LTDA
 270877,INTERNETUP TELECOMUNICAÇÕES LTDA
+270879,START SERVICOS & TELECOMUNICACOES LTDA
+270893,JAGUARNET TELECOMUNICAÇÃO
 270896,CARIOCA NET SERVICOS DE TELECOMUNICACOES LTDA
+270899,Worksul Telecom
 270915,Nova Web Telecom 270915
+270916,Redfiber Telecomunicações Ltda.
 270927,FUTURACONNECT TELECOMUNICAÇOES LTDA
+270936,GTBA
+270938,SAT TELECOM E CONSULTORIA EM TI
 270943,FIBINET NETWORKS TELECOMUNICACOES LTDA
+270944,MEGA DAT INFORMÁTICA E TELECOM
 270949,Vello Serviços de Telecomunicações
+270953,IDL Telecom
 270959,WIX TELECOM DO BRASIL
 270968,GRUPO TELECOM
 270969,CARVALHO & DUARTE TELECOM
 270976,FOX NET FS
+270979,Giptelecom Telecomunicacao E Tecnologia Da Informa
 270989,IP Telecomunicacoes
+271002,TURBO NET TELECOMUNICAÇÕES
+271003,ALTONET TELECOM
 271008,RSCONNECTION TELECOM COMERCIO E SERVIÇO
+271011,SpedyNet Telecom
 271013,MP NET TELECOM
 271016,G NETWEB TELECOM
 271024,WLNET TELECON
+271032,ATS Telecom
 271034,GM Telecom LTDA
+271035,CCS Camboriú Cable System de Telecomunicações Ltda
 271038,Mega Turbo Internet Banda Larga Telecom LTDA
 271042,BOT INTERNET E SERVICOS DE TELECOMUNICACOES
+271054,CL TELECOM
 271057,FIBERLINK TELECOM LTDA
 271060,ASN271060
 271066,AB NET TELECOM
+271069,A4 TELECOM
 271071,NAVEGAI SERVICOS DE TELECOMUNICACOES E INFORMATICA
+271075,fibernet wv servicos telecom ltda
 271083,SF Telecomunicações Ltda
+271092,WORLDNET SERVICOS DE TELECOMUNICACAO LTDA
+271101,Comunick Telecom
+271104,SN TELECON LTDA
+271105,Kadim Connect Telecominicacao LTDA - ME
 271108,HBA TELECOM
+271116,DTS TELECOMUNICAÇÕES
 271117,Ultranet Ipava Telecom Ltda
 271131,Giga Sul Telecom
 271134,R&R Telecomunicacoes
@@ -3485,58 +4285,105 @@ ASN,Organization
 271148,NEXTALL
 271158,HDC TELECOM LINK DEDICADO FIBRA ÓPTICA TV E TELE
 271160,CONNECT FIBRA SERVICOS DE TELECOMUNICACAO
+271162,MEGA JLA SERVICOS DE TELECOMUNICACOES LTDA
+271169,NETLINE TELECOM
 271179,AF TELECOM
 271186,EUNAPOLIS TELECOM LTDA
 271188,VOCAL NET TELECOMUNICAÇÕES LTDA
+271192,Acess.Net Telecomunicacoes
 271194,online telecomunicações eirele
 271199,MULTNET TELECOM LTDA
 271202,NavegNet Telecom
+271208,Stream Net Telecom
 271215,4CJ SERVICOS E TELECOMUNICACOES LTDA
 271218,AL TELECOM - TELECOMUNICAÇÕES LTDA
 271237,MAXXLINK TELECOMUNICAÇÕES
 271240,PIXEL INTERNET E TELECOMUNICACOES EIRELI
 271241,Fbnet Telecom
+271244,FORTINET TELECOMUNICAÇŌES
 271251,LAR NET TELECOMUNICAÇÕES LTDA
 271254,ME TELECOM SERVIÇOS DE INTERNET LTDA
+271257,RODRIGO SANTINELLI DE LIMA
 271258,ERICK TELECOM
 271260,MYCONNECT SERVICOS DE TELECOMUNICACAO LTDA
 271263,GILEADE TELECOMUNICACOES E MULTIMIDIA
 271265,TUDO ON TELECOMUNICACOES
 271267,Vision Connect Telecomunicaçoes Ltda Me
 271270,T5 Telecom
+271271,AGS TELECOM LTDA ME
 271278,A B OLIVEIRA TELECOMUNICACAO E INFORMARTICA
+271279,RADIONET PROVEDOR DE TELECOMUNICACAO LTDA
 271285,MG TELECOM
+271288,AULOI INFORMATICA TELECOM
+271291,C. M. A. RIBEIRO
+271309,ASA NET TELECOM
 271314,JECTIX
+271323,CONNECT TELECOM
+271325,LACKNET SERVIÇOS DE TELECOMUNICAÇÕES
 271327,BEM MAIS SERVIÇOS DE TELECOMUNICAÇÕES
 271338,TITAM NET TELECOM
+271345,ND TELECOM
 271352,Starsat Telecom Comercio e Serviços LTDA
 271365,WWC Telecom
+271368,i9 Telecom LTDA
+271370,LINKMASTER PROVEDOR SERVIÇOS E TELECOMUNICAÇOES-ME
 271376,7LINK TELECOM EIRELI
 271380,GLOBAL CONECTA TELECOM EIRELI
+271387,Emfibra Telecom
+271395,LINKCOM TELECOM SERVICOS E TELECOMUNICACAO
 271401,ATUAL TELECOM
+271402,Live Conect Telecomunicações Ltda.
 271413,CASTRO TELECOM
 271415,S3 Net Soluções Inteligentes
 271416,Cuiabá Telecom
 271429,LC SERVICOS TELECOMUNICACOES E INFORMATICA EIRELI
+271432,CLICK TELECOM SERV TELE E TELEFONIA LTDA
 271439,PLANET TEL TELECOMUNICACOES - EIRELI
 271441,JA Telecom
+271458,KAIBA ISP TELECOMUNICACOES EIRELI
+271474,INALAN TELECOMUNICACOES
+271482,MEGA TELECOM FIBRA
+271484,NORT TELECOM
 271486,AP SOLUCOES EM NETWORK E INFORMATICA
+271488,REALDATA TELECOMUNICAÇÕES E TECNOLOGIA LTDA
+271502,XyberNet Telecom
 271513,INTERTOP - TELECOMUNICAÇÕES LTDA
 271514,WEB ONLINE TELECOMUNICACOES EIRELI ME
+271516,Unafiber
+271526,Giga Fibra Net Telecomunicações Eireli Me
+271529,Online Telecom Brazil
 271531,TURBO LOGNET TLN TELECOM
+271546,ITANET TELECOM
+271549,NOVA UNIAO TELECOM
 271550,FIBRANET TELECOM EIRELI
 271551,HIPERLINK TELECOM
 271558,Conecta Vale Serviço de Telecomunicação EIRELI
+271563,Mega Mais Telecom Ltda me
 271596,MaxNet Telecom
+271602,CANDEIAS NET TELECOM COMUNICACOES
+271606,FT Fibra Telecom LTDA
+271612,LOGO Telecom
+271616,CONEXÃO WEB - SOLUÇÕES EM REDES E TELECOMUNICAÇÕES
 271618,Virtual Revolution Fibra Telecomunicações
 271622,FOUR SOLUCOES E SERVIÇOS DE TELECOMUNICACOES
+271624,LD TELECOM EIRELI
+271634,A2B TELECOM LTDA
 271639,HOME ON TELECOMUNICACOES LTDA
+271643,FLT TELECOM
 271646,ULTRALINK TELECOM
+271647,M B Telecom
 271650,LC NET TELECOMUNICAÇOES LTDA
+271664,INFINITY FIBRA TELECOMUNICACOES LTDA
+271669,PATHFINDER TELECOM COMERCIO E SERVICOS LTDA
+271683,BRISNET TELECOMUNICACOES EIRELI
+271686,Célio Pereirado Prado -Telecomunicações - me
 271689,AGE TELECOMUNICACOES LTDA
 271690,AGUIA NET TELECOMUNICACOES EIRELI
 271696,N. Z. RAMOS TELECOMUNICACOES EIRELI
 271701,CONNEX TELECOM
+271702,DELTA INTERNET E TELECOMUNICACOES EIRELI ME
+271707,TRANSNETWORK TELECOMUNICACOES
+271744,Alfacom telecomunições e multimidia LTDA
 271761,CLICK FIBRA TELECOMUNICACOES
 271773,WOM Colombia
 271795,SERVITELCONET
@@ -3546,27 +4393,41 @@ ASN,Organization
 271884,VIPTEL COMMUNICATIONS C.A.
 271898,MKTEL
 271909,TELECOMUNICACIONES MANTENIMIENTO Y SERVICIOS P&C C.A.
+271933,AIRMAXTELECOM SOLUCIONES TECNOLOGICAS
 271936,SERVICIOS DE TELECOMUNICACIONES ATVCABLE
 271943,White
+271968,CEMO
 271971,CABLE SATELITE
 271979,INSTALACION DE REDES DE TELECOMUNICACIONES SRL (IREDETCOM)
 271982,TVICOM
 271992,ANTIOQUEÑA DE TELECOMUNICACIONES
 272011,TELEMARCH
 272048,TELECOMUNICACIONES FASTNET F.G 50 C.A.
+272060,FERMAC TELECOMUNICACIONES S.A.S
 272085,TELECOMUNICACIONES DEL FUTURO
 272097,GRUPO COCAVISION
 272112,TELECABLE DOMINICANO
 272122,G-Network
 272132,TELE-COTUI S.R.L.
+272174,JM TELECOM LTDA
+272226,ILHA CONNECT TELECOMUNICÕES LTDA
+272466,SERLINK TELECOM PROVEDOR DE INTERNET LTDA
+272483,2NET TELECOM
 272535,VIXNET TELECOM SERVICOS DE COMUNICACAO
 272539,ENEVE TELECOMUNICACOES LTDA
+272553,LC TELECOM LTDA
 272564,Javanet Telecom
 272605,GRUPO 3D TELECOM
+272619,FIVE TELECOM LTDA
 272636,ZOE NET TELECOMUNICACOES E TECNOLOGIA LTDA
+272775,costa & rodrigues serviço de telecomunicações ltda
 272854,TELECOMUNICACIONES SILVERDATA C.A.
 272937,272937
+273001,TELECOMUNICACIONES DEL CATATUMBO
+273006,INTERNET Y TELECOMUNICACIONES DE COLOMBIA S.A.S.
 273019,DIRECTV CHILE TELEVISION LIMITADA
+273026,273026
+273034,273034
 273054,TELEVISION POR CABLE VIA SATELITE CABLE YOJOA TV SOCIEDAD DE RESPONSABILIDAD LIMITADA
 273061,273061
 273134,273134
@@ -3576,13 +4437,25 @@ ASN,Organization
 273309,ISPRO TELECOM
 273316,E-TECH TELECOM
 273350,GNS TELECOM
+273409,NETCENTER FIBRA TELECOMUNICACOES LTDA
+273412,CN TELECOM SERVICOS DE INTERNET LTDA
+273414,Bignet Telecom LTDA
+273416,NOVA BANDA LARGA
 273451,BRANDAONET SERVICOS E TELECOMUNICACOES LDTA
+273470,WORK TELECOM INTERNET LTDA
+273473,ASN273473
 273511,Saldanha.Net Telecom
 273568,UNICA TELECOM
+273595,Lastnet Telecom
+273674,VIVA TELECOMUNICACOES & PROVEDOR DE INTERNET LTDA
 273683,ALLREDE TELECOM LTDA
+273709,MR Telecom
+273813,SUA FIBRA
 273850,SERVICIOS DE TELECOMUNICACIONES E INFORMATICA S.A.S.
+273883,MEGATEL-EC S.A.
 273895,INFINITE SPEED TELECOMUNICACIONES SAC
 273960,273960
+274722,MEGAFLEX Internet Telecom
 327688,Screamer Telecommunications
 327697,Free Reunion
 327707,Airtel Rwanda AS327707
@@ -3593,6 +4466,7 @@ ASN,Organization
 327769,Spacetel - Guine-Bissau
 327776,Stature
 327782,Metrofibre Networx (PTY) Ltd
+327786,4G Telecom
 327799,VIETTEL BURUNDI
 327808,TESUCO TELECOMMUNICATIONS (PTY) LTD
 327818,BENIN-IX
@@ -3602,6 +4476,7 @@ ASN,Organization
 327907,Session Telecoms(PTY)
 327931,Optimum Telecom Algeria
 327934,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+327975,ILNET TELECOM GROUP SARL
 327981,Ekovolt Telco
 328001,Satellite Software
 328029,Web Telecom Services (PTY) Ltd
@@ -3617,10 +4492,13 @@ ASN,Organization
 328253,ALPHA TELECOMMUNICATION MALI-ATEL
 328286,Libyana Mobile Phone Company
 328323,Brilliant Telecommunications
+328333,Fixed Mobile Telecommunications
 328450,F & G Telecommunications cc
+328469,Somtel Somalia
 328471,HERO TELECOMS
 328488,DK Telecom
 328539,Giga for Telecommunication and Technology
+328548,TOUCHNET TELECOMMUNICATIONS CC
 328576,TelcoExchange (aka AS328576.net)
 328613,Trakatel Limited
 328636,Jambo telecoms limited
@@ -3629,39 +4507,54 @@ ASN,Organization
 328733,AWAL TELECOM & TECHNOLOGY
 328755,Digitel Holdings Limited
 328780,IMBIL TELECOM SOLUTIONS NIG. LTD
+328790,Opentel Technologies
 328866,NEWTELNET CAMEROUN
 328975,MTAANI TELECOM
 328988,ORG-STEP1-AFRINIC
 328997,ORG-RA11-AFRINIC
 329027,Ozone
+329032,Mdaswifi
 329066,Datacom Telecommunication Limited
 329152,ATIS TELCOM LIMITED
 329170,Boss Telecom
+329243,One Mile Telecoms
 329248,Simtel ISP
 329255,Telcoptics
 329341,Tatu Telecom Company SEZ Limited
 329421,Localtel Communications Limited
+329444,BEELINE TELECOMS LIMITED
 329472,SPARK Internet Service Provider
+329478,ORG-ST8-AFRINIC
+393227,Rochester Telephone Company
 393457,HCE Telecom Inc.
 393573,Fuse Telecom
 393632,NFTC Telecom
+393740,Progressive Rural Telephone Cooperative Inc
 394111,Foothills Rural Telephone Cooperative Corporation Inc.
 394333,TRANSATEL US
+394473,Brantley Telephone Company Inc.
 394474,WhiteLabelColo
 394625,WhiteLabel IT Solutions
 394708,Horizon Telcom Inc.
 394710,TelMAX
 394778,Northeast Missouri Rural Telephone Co.
+395040,Green Hills Telephone Corporation
 395582,Grand River Mutual Telephone Corporation
 395965,Carrytel
 396338,Altima TRT
 396461,Natel Broadband
 397340,Glasford Telephone Company
 397361,Poka Lambro Telephone Cooperative Inc.
+398052,Mechanicsville Telephone Company
+399111,In-Telecom Consulting
 399435,Lipan Telephone Company
+399494,Brooke Telecom Cooperative
 399844,Saskatchewan Telecommunications
 399893,Richmond Telephone Company LLC
+400155,Manchester-Hartland Telephone Company
 400212,VergeTel Group LLC
 400439,Consolidated Telcom
 400610,Middle Michigan Network for Educational Telecommunications
+400633,Peoples Rural Telephone Cooperative Corporation Inc.
 400662,Dobson Technologies - Transport and Telecom Solutions LLC
+401312,GRAY TELEVISION INC

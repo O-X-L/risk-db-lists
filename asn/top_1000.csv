@@ -1,1001 +1,1001 @@
 ASN,Report count,Organization
-16509,2303821,Amazon.com
-398324,488500,Censys
-14618,455343,Amazon AES
-8075,439318,Microsoft
-14061,420215,DigitalOcean
-396982,406221,Google Cloud
-45102,391417,Alibaba
-16276,389192,OVHcloud
-135377,292763,UCloud Information Technology (HK) Limited
-6939,272893,Hurricane Electric
-13335,251815,Cloudflare
-398705,236000,Censys Inc.
-211298,211815,Driftnet Ltd
-136907,211560,Huawei Cloud Global
-213412,186005,
-36183,137294,Akamai Technologies Inc.
-63949,133739,Linode AS63949
-55960,133118,BJ-GUANGHUAN-AP
-24940,117563,Hetzner Online
-202425,112931,IP Volume
-51396,104545,Pfcloud UG
-204428,99695,SS-Net
-4134,91602,China Telecom
-6730,75752,Sunrise GmbH
-174,73879,Cogent Communications Inc.
-32934,71379,Meta
-4837,66189,China Unicom
-49870,60027,Alsycon AS49870
-401120,59515,
-49581,59271,Tube-Hosting
-398722,59047,Censys Inc.
-23724,50159,IDC China Telecommunications Corporation
-200373,48611,3xK Tech
-52053,45573,REDHEBERG SAS
-202306,41897,HOSTGLOBAL.PLUS
-210848,41380,Telkom Internet LTD
-207812,40810,DM AUTO EOOD
+16509,3366598,Amazon.com
+14618,678168,Amazon AES
+398324,588852,Censys
+14061,538812,DigitalOcean
+8075,499216,Microsoft
+396982,466637,Google Cloud
+16276,457178,OVHcloud
+45102,439384,Alibaba
+13335,366859,Cloudflare
+136907,362063,Huawei Cloud Global
+6939,342194,Hurricane Electric
+135377,333040,UCloud Information Technology (HK) Limited
+398705,265649,Censys Inc.
+211298,262555,Driftnet Ltd
+213412,213466,
+36183,190724,Akamai Technologies Inc.
+55960,170867,BJ-GUANGHUAN-AP
+63949,164000,Linode AS63949
+24940,141457,Hetzner Online
+202425,138765,IP Volume
+9829,137749,National Internet Backbone India
+51396,134846,Pfcloud UG
+4134,133373,China Telecom
+204428,121125,SS-Net
+174,111287,Cogent Communications Inc.
+4837,110629,China Unicom
+32934,99773,Meta
+6730,80009,Sunrise GmbH
+401120,79041,
+398722,69826,Censys Inc.
+23724,68096,IDC China Telecommunications Corporation
+49870,66022,Alsycon AS49870
+49581,62720,Tube-Hosting
+135629,61779,Ningxia West Cloud Data Technology Co.Ltd.
+37963,58517,Alibaba (China)
+200373,51442,3xK Tech
+207812,49921,DM AUTO EOOD
+52053,49718,REDHEBERG SAS
+210848,48658,Telkom Internet LTD
+202306,45732,HOSTGLOBAL.PLUS
+201814,41853,Mevspace
+9009,41061,M247
 36321,39805,Castle Global Inc.
-135629,39689,Ningxia West Cloud Data Technology Co.Ltd.
-132203,35703,Tencent Global
-9009,32513,M247
-9829,31990,National Internet Backbone India
-51167,31976,Contabo
-201814,31884,Mevspace
-37963,31725,Alibaba (China)
-20052,28359,ARBOR
-60223,27850,Netiface
-209605,26601,UAB Host Baltic
-58461,26060,CT-HangZhou-IDC
-206092,26013,Internet Utilities Europe and Asia Limited
-10439,24903,CARI.net - Fiber Alley Data Centers
-48693,24838,Rices Privately owned enterprise
-51852,23996,Phase Layer Global Networks
-139341,23377,ACE CDN
-38365,23007,Baidu Netcom Science and Technology Co. Ltd.
-21859,22999,Zenlayer Inc
-3320,22915,Deutsche Telekom
-36352,21967,ColoCrossing
-212238,21961,Datacamp Limited
-47890,21841,UNMANAGED LTD
-200391,21478,KREZ 999 EOOD
-39832,21299,Opera Software AS
-4766,21264,KT Corporation (Korea Telecom)
-48090,21055,
-35916,20402,MultaCOM
-214943,20356,Railnet LLC
-62563,19534,GTHost Canada
-213438,18874,
-60068,18596,CDN77
-211680,18375,NSEC - Sistemas Informaticos S.A.
-4,17765,University of Southern California
-135918,17279,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-3462,17147,HiNet
-209160,17091,Miti 2000 EOOD
-401116,16721,
-12876,15816,Scaleway
-31898,15341,Oracle Cloud Infrastructure
-211607,14905,Securitytrails LLC
-20473,14651,The Constant Company
-9808,14504,China Mobile Communications Group Co. Ltd.
-8551,14496,Bezeq International
-5483,14436,Magyar Telekom plc.
-206216,14373,Advin Servers
+20052,39254,ARBOR
+51167,39099,Contabo
+132203,38953,Tencent Global
+139341,38007,ACE CDN
+3320,34769,Deutsche Telekom
+4766,33935,KT Corporation (Korea Telecom)
+10439,32821,CARI.net - Fiber Alley Data Centers
+47890,32037,UNMANAGED LTD
+51852,31951,Phase Layer Global Networks
+60223,30700,Netiface
+21859,30128,Zenlayer Inc
+58461,29579,CT-HangZhou-IDC
+209605,29523,UAB Host Baltic
+206092,29513,Internet Utilities Europe and Asia Limited
+3462,28322,HiNet
+36352,27472,ColoCrossing
+60068,27250,CDN77
+48090,26713,
+212238,26588,Datacamp Limited
+4,25799,University of Southern California
+48693,25626,Rices Privately owned enterprise
+211680,24877,NSEC - Sistemas Informaticos S.A.
+214943,24794,Railnet LLC
+200391,23892,KREZ 999 EOOD
+213438,23571,
+38365,23539,Baidu Netcom Science and Technology Co. Ltd.
+62563,23146,GTHost Canada
+134761,22092,CHINANET NINGXIA province ZHONGWEI IDC network
+39832,21941,Opera Software AS
+1267,21494,WINDTRE
+9808,21466,China Mobile Communications Group Co. Ltd.
+401116,21354,
+20473,21216,The Constant Company
+45899,20559,VNPT
+35916,20514,MultaCOM
+55990,20169,Huawei Cloud(China)
+3209,20074,Vodafone Germany
+7713,19698,Telekomunikasi Indonesia Int (TELIN)
+31898,19615,Oracle Cloud Infrastructure
+12145,19512,Colorado State University
+206216,19317,Advin Servers
+5483,19195,Magyar Telekom plc.
+12389,19022,Rostelecom
+12876,19007,Scaleway
+45090,18901,Tencent-CN
+8447,18864,A1 Telekom Austria AG
+215925,18680,VPSVAULT.HOST LTD
+209160,18571,Miti 2000 EOOD
+400161,18437,Academy for Internet Research Limited Liability Company
+211607,18391,Securitytrails LLC
+15169,18323,Google LLC
+135918,18165,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+212512,17821,Kayizer Bilişim Hizmetleri
+8551,17293,Bezeq International
+12880,17095,TIC AS12880
+8048,16260,CANTV
+3269,16248,Telecom Italia S.p.a.
+53667,15891,FranTech Solutions
+214295,15659,SKYNET NETWORK LTD
+3303,15610,Swisscom
+19318,15095,InterServer
+54994,15051,meteversecloud
+396986,14904,ByteDance
+35369,14641,LINZ AG TELEKOM
+30722,14494,Vodafone Italy
+62240,14415,Clouvider
 200632,14354,
-1267,14291,WINDTRE
-35369,14217,LINZ AG TELEKOM
-134761,14155,CHINANET NINGXIA province ZHONGWEI IDC network
-400161,13688,Academy for Internet Research Limited Liability Company
-45090,13663,Tencent-CN
-15169,13658,Google LLC
-7849,12867,Crocker Communications Inc
-12145,12568,Colorado State University
-50360,12491,4vendeta
-8447,12484,A1 Telekom Austria AG
-53667,12319,FranTech Solutions
-215925,11890,VPSVAULT.HOST LTD
-212512,11888,Kayizer Bilişim Hizmetleri
-12880,11731,TIC AS12880
-3209,11724,Vodafone Germany
-14987,11516,Rethem Hosting LLC
-396986,11468,ByteDance
-7713,11176,Telekomunikasi Indonesia Int (TELIN)
-8560,11056,IONOS SE
-45753,10926,Simcentric Solutions Limited
-59019,10911,Beijing Kingsoft Cloud Internet Technology
-55990,10754,Huawei Cloud(China)
-3269,10637,Telecom Italia S.p.a.
-58466,10107,CHINANET Guangdong province network
-45899,10058,VNPT
-46844,9809,Sharktech
-9465,9770,AGOTOZ PTE. LTD.
-137409,9629,Global Secure Layer
-3303,9621,Swisscom
-12389,9253,Rostelecom
-197207,9131,Mobile Communication Company of Iran
-30722,8990,Vodafone Italy
-54994,8668,meteversecloud
-56048,8642,China Mobile Communicaitons Corporation
-47105,8601,Vault Dweller OU
-62240,8597,Clouvider
-203834,8562,Vault Dweller OU
-55836,8466,Reliance Jio Infocomm NLD Network
-210558,8134,1337 Services GmbH
-3215,8040,Orange France
-12874,7947,Fastweb
-13213,7898,UK2Group
-9299,7789,Philippine Long Distance Company
-24757,7710,Ethio Telecom
-8412,7527,Magenta Telekom
-20012,7522,Internet Holdings LLC
-10753,7315,Level 3 Parent LLC
-57509,7296,L&L Investment Ltd.
-205016,7164,HERN Labs
-3352,6994,Telefonica de España
-210644,6894,Aéza
-23470,6850,ReliableSite.Net
-4812,6786,China Telecom (Group)
-24560,6712,Bharti Airtel Ltd. Telemedia Services
-136258,6707,ONEPROVIDER
-214940,6685,KPROHOST LLC
-54801,6536,
-60729,6466,Zwiebelfreunde
-36007,6398,Kamatera Inc.
-63199,6342,CDS Global Cloud Co. LTD
-51115,6192,HLL LLC
-26347,6144,DreamHost
-22552,6120,eSited Solutions
-53062,5991,ALT (ACESSOLINE TELECOM)
-206264,5953,Amarutu Technology Ltd.
-7552,5933,Viettel
-8048,5843,CANTV
-62371,5832,Proton AG
+8560,13953,IONOS SE
+9121,13824,Turk Telekom
+50360,13274,4vendeta
+8151,12976,Uninet S.A. de C.V.
+7849,12884,Crocker Communications Inc
+14987,12811,Rethem Hosting LLC
+58466,12500,CHINANET Guangdong province network
+4812,12478,China Telecom (Group)
+3215,12276,Orange France
+46844,12043,Sharktech
+203834,11921,Vault Dweller OU
+9465,11804,AGOTOZ PTE. LTD.
+8412,11665,Magenta Telekom
+3352,11360,Telefonica de España
+45753,11287,Simcentric Solutions Limited
+47105,11238,Vault Dweller OU
+7552,11080,Viettel
+12874,10997,Fastweb
+59019,10915,Beijing Kingsoft Cloud Internet Technology
+7922,10604,Comcast
+36007,10522,Kamatera Inc.
+137409,10398,Global Secure Layer
+136258,10162,ONEPROVIDER
+9299,9927,Philippine Long Distance Company
+197207,9909,Mobile Communication Company of Iran
+8452,9729,Telecom Egypt
+57509,9723,L&L Investment Ltd.
+210558,9619,1337 Services GmbH
+55836,9556,Reliance Jio Infocomm NLD Network
+13213,9407,UK2Group
+24560,9184,Bharti Airtel Ltd. Telemedia Services
+56048,8969,China Mobile Communicaitons Corporation
+24757,8904,Ethio Telecom
+18403,8854,FPT Telecom
+6805,8338,Telefónica Germany GmbH & Co. OHG
+5617,8232,Orange Polska - TPNET
+1103,8165,SURF
+214940,8123,KPROHOST LLC
+22552,7978,eSited Solutions
+22295,7864,Advin Servers AS22295
+206264,7847,Amarutu Technology Ltd.
+2637,7698,Georgia Institute of Technology
+205016,7677,HERN Labs
+24429,7671,Alibaba Cloud CDN
+20012,7523,Internet Holdings LLC
+208843,7506,Alpha Strike Labs GmbH
+60729,7500,Zwiebelfreunde
+63199,7424,CDS Global Cloud Co. LTD
+10753,7376,Level 3 Parent LLC
+5603,7348,Telekom Slovenije
+23470,7318,ReliableSite.Net
+51115,7286,HLL LLC
+40676,7037,Psychz Networks
+151858,6989,INTERDIGI JOINT STOCK COMPANY
+210644,6971,Aéza
+45758,6944,TripleT Broadband(AIS|3BB)
+23969,6846,NT Broadband ISP
+4713,6780,NTT Communications Corporation (OCN)
+2500,6622,WIDE Project
+8611,6596,Athens University of Economics and Business
+17621,6551,China Unicom Shanghai Network
+54801,6543,
+40021,6536,Nubes
+135905,6464,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+29447,6368,Iliad Italia
+203020,6351,HostRoyale
+136180,6339,IPIP-CN
+53062,6319,ALT (ACESSOLINE TELECOM)
+62371,6303,Proton AG
+215462,6261,BUGGZ HOSTING
+26347,6244,DreamHost
+25369,6232,Hydra Communications Ltd (EU)
+36947,6222,Algeria Telecom
+21334,6214,One Hungary
+142002,6159,Scloud Pte Ltd
+141995,6118,Contabo Asia
+44477,6115,THE Hosting
+34011,6085,Host Europe GmbH
+197540,6073,netcup GmbH
+1101,5927,Not SURF Net
+399045,5821,DediOutlet Networks
 208949,5803,HBING LIMITED
-9121,5802,Turk Telekom
-8151,5678,Uninet S.A. de C.V.
-7922,5648,Comcast
-19318,5620,InterServer
-5617,5580,Orange Polska - TPNET
-40021,5520,Nubes
-208843,5494,Alpha Strike Labs GmbH
-1103,5483,SURF
-24429,5483,Alibaba Cloud CDN
-48925,5461,VibeGAMES B.V.
-44477,5450,THE Hosting
-48753,5352,AVA HOST SRL
-62713,5317,PubMatic
-40676,5289,Psychz Networks
-203020,5283,HostRoyale
-141995,5188,Contabo Asia
-6805,5185,Telefónica Germany GmbH & Co. OHG
-8452,5180,Telecom Egypt
-1101,5069,Not SURF Net
-984,5012,OWS
-214295,4958,SKYNET NETWORK LTD
-142002,4946,Scloud Pte Ltd
-2637,4860,Georgia Institute of Technology
-135905,4746,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-22295,4742,Advin Servers AS22295
-136180,4564,IPIP-CN
-25369,4530,Hydra Communications Ltd (EU)
-152194,4517,CTG Server Limited
-29484,4509,Ruhr-Universitaet Bochum
-36947,4503,Algeria Telecom
-46606,4471,Endurance International Group Inc
-197540,4379,netcup GmbH
-2500,4313,WIDE Project
-8611,4268,Athens University of Economics and Business
-151858,4264,INTERDIGI JOINT STOCK COMPANY
-18403,4231,FPT Telecom
-216071,4225,VDSINA
-399045,4220,DediOutlet Networks
-34011,4137,Host Europe GmbH
-29802,4117,Hivelocity LLC
-5603,4115,Telekom Slovenije
-29447,4086,Iliad Italia
-56046,4044,China Mobile communications corporation
-60490,4033,MTS PJSC
-21334,4027,One Hungary
-17621,4007,China Unicom Shanghai Network
-14080,3992,Telmex Colombia
-48282,3937,Hosting technology LTD
-398465,3901,Rackdog
-401152,3717,Ace Data Centers II L.L.C.
+8881,5772,1&1 Versatel Deutschland
+48925,5688,VibeGAMES B.V.
+1136,5661,KPN NL
+150436,5607,Byteplus Pte. Ltd.
+216071,5542,VDSINA
+211590,5513,
+48753,5506,AVA HOST SRL
+62713,5413,PubMatic
+5432,5359,Proximus
+39891,5352,Saudi Telecom Company JSC
+31034,5344,Aruba
+56046,5336,China Mobile communications corporation
+14956,5276,RouterHosting LLC
+133982,5211,Excitel
+4808,5207,China Unicom Beijing Province Network
+17557,5184,PTCL
+984,5177,OWS
+5410,5148,Bouygues Telecom ISP
+7018,5099,AT&T US - 7018
+25255,5089,Drei Austria
+46606,5085,Endurance International Group Inc
+29484,5000,Ruhr-Universitaet Bochum
+680,4976,DFN Deutsches Forschungsnetz e.V.
+16232,4946,Telecom Italia S.p.A.
+33915,4912,Vodafone Libertel B.V.
+15557,4891,SFR Group
+152194,4889,CTG Server Limited
+12322,4838,Free SAS
+2856,4791,BTnet (BT's UK IP Network - AS2856)
+14576,4738,King Servers
+3212,4678,Telemach Slovenia
+21283,4669,A1 Slovenija
+29802,4628,Hivelocity LLC
+12479,4545,Orange Spain
+215540,4499,GLOBAL CONNECTIVITY SOLUTIONS LLP
+42624,4494,Global-Data System IT Corporation
+14593,4490,SpaceX Starlink
+20845,4453,DIGI Ltd
+4538,4445,CERNET-CN
+48282,4402,Hosting technology LTD
+9183,4397,Robert Bosch Gesellschaft mit Beschraenkter Haftung
+60490,4397,MTS PJSC
+58224,4377,TCI
+149125,4361,4S TECHNOLOGY TRADING SERVICES COMPANY LIMITED
+396356,4358,Latitude.sh AS396356
+14080,4355,Telmex Colombia
+6855,4315,Slovak Telekom/T-Mobile CZ
+3301,4299,Telia Sweden
+213887,4230,WAICORE
+33765,4190,TTCL Corporation
+398465,4052,Rackdog
+701,4038,Verizon
+214717,3960,
+7303,3959,TELECOM ARGENTINA
+200019,3907,AlexHost
+39351,3897,31173 Services
+28573,3868,Claro S.A. (NET)
+211849,3865,Kakharov Orinbassar Maratuly
+197726,3855,Ukrainian Internet Names Center
+9318,3823,SK Broadband
+40861,3816,Paradise Networks
+6848,3808,Telenet
+4760,3777,HKT Limited
+3786,3760,LG Uplus
+12912,3744,T-Mobile Polska
+401152,3718,Ace Data Centers II L.L.C.
 401172,3703,Inspici LLC
-151873,3659,TOTHOST SOLUTIONS AND TECHNOLOGIES COMPANY LIMITED
-8881,3654,1&1 Versatel Deutschland
-1136,3654,KPN NL
-4713,3632,NTT Communications Corporation (OCN)
-213887,3627,WAICORE
-17557,3618,PTCL
-40861,3580,Paradise Networks
-197726,3555,Ukrainian Internet Names Center
-133982,3551,Excitel
-31034,3551,Aruba
-680,3548,DFN Deutsches Forschungsnetz e.V.
-150436,3490,Byteplus Pte. Ltd.
-5432,3466,Proximus
-149125,3446,4S TECHNOLOGY TRADING SERVICES COMPANY LIMITED
-214717,3392,
-9183,3360,Robert Bosch Gesellschaft mit Beschraenkter Haftung
-7018,3354,AT&T US - 7018
-5410,3352,Bouygues Telecom ISP
-396356,3343,Latitude.sh AS396356
-42624,3340,Global-Data System IT Corporation
-14576,3312,King Servers
-29066,3288,velia.net
-7029,3285,Windstream Communications
-39351,3271,31173 Services
+1257,3698,TELE2
+12430,3679,Vodafone España
+151873,3666,TOTHOST SOLUTIONS AND TECHNOLOGIES COMPANY LIMITED
+29066,3632,velia.net
+8422,3606,NetCologne
+7029,3569,Windstream Communications
+15704,3568,MásMóvil
+34779,3566,T-2 d.o.o.
+5391,3554,Croatian Telecom
+15796,3527,SALT MOBILE
+51265,3502,Mass Response / spusu
+5610,3463,O2 Czech Republic a.s.
+17639,3421,CONVERGE ICT SOLUTION
+4788,3392,Telekom Malaysia Berhad (TM)
+5089,3356,Virgin Media
+17318,3339,DomainTools LLC
+5384,3263,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC
 39421,3250,Sapinet
-12322,3214,Free SAS
-25255,3203,Drei Austria
-4808,3171,China Unicom Beijing Province Network
-15557,3123,SFR Group
-16232,3117,Telecom Italia S.p.A.
-8422,3103,NetCologne
-211590,3100,
-33915,3080,Vodafone Libertel B.V.
-4538,3067,CERNET-CN
-14593,3061,SpaceX Starlink
-2856,2984,BTnet (BT's UK IP Network - AS2856)
-215540,2975,GLOBAL CONNECTIVITY SOLUTIONS LLP
-215462,2963,BUGGZ HOSTING
-20845,2888,DIGI Ltd
-12479,2859,Orange Spain
-6855,2858,Slovak Telekom/T-Mobile CZ
-25135,2838,Vodafone UK Packet Backbone
+136787,3116,PacketHub S.A.
+25135,3093,Vodafone UK Packet Backbone
+19871,3082,Network Solutions LLC
+199785,3053,Cloud Hosting Solutions
+9498,3023,Bharti Airtel Limited
+24186,2979,Railtel Corporation Of India
+49505,2975,Selectel Ltd.
+55286,2971,ServerMania Inc
+36903,2944,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+138915,2943,Kaopu Cloud HK
+16019,2938,Vodafone Czech Republic
+28753,2923,LeaseWeb Germany / FRA-01
+24444,2895,Shandong Mobile Communication Company Limited
+41745,2888,Baykov Ilya Sergeevich
+134420,2887,Chongqing Telecom
+42237,2872,W1N
+29302,2871,Hosting Services Inc
+56041,2862,China Mobile communications corporation
+132199,2844,Globe Telecom Inc.
+42708,2835,Portlane
 209588,2831,
-3786,2751,LG Uplus
-21283,2730,A1 Slovenija
-20911,2725,Net-Surf.net
-3212,2719,Telemach Slovenia
-49505,2687,Selectel Ltd.
-17639,2676,CONVERGE ICT SOLUTION
-28753,2674,LeaseWeb Germany / FRA-01
-264617,2660,GRUPO PANAGLOBAL 15 S.A
-394474,2646,WhiteLabelColo
-52804,2627,ESTREITONET LTDA
-41745,2608,Baykov Ilya Sergeevich
-42708,2576,Portlane
-17318,2573,DomainTools LLC
-9318,2547,SK Broadband
-12912,2546,T-Mobile Polska
-23969,2539,NT Broadband ISP
-55286,2532,ServerMania Inc
-14956,2505,RouterHosting LLC
-205100,2500,F3 Netze
-212317,2491,Hetzner Online Cloud 3
-132199,2486,Globe Telecom Inc.
-6848,2480,Telenet
-29302,2437,Hosting Services Inc
-199785,2434,Cloud Hosting Solutions
-200019,2420,AlexHost
-64080,2412,SYN AS64080
-203999,2402,
-263740,2393,Corporacion Laceibanetsociety
-133118,2392,China Unicom IP network
-45758,2377,TripleT Broadband(AIS|3BB)
-199524,2370,G-Core Labs
-36903,2356,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+213790,2823,Limited Network LTD
+4811,2815,China Telecom (Group)
+55967,2804,Baidu
+205100,2786,F3 Netze
+13036,2773,T-Mobile CZ AS13036
+20911,2765,Net-Surf.net
+209702,2759,
+49544,2743,i3D.net
+264617,2719,GRUPO PANAGLOBAL 15 S.A
+394474,2718,WhiteLabelColo
+34984,2713,Superonline
+64080,2684,SYN AS64080
+1303,2671,Renater
+30860,2669,Virtual Systems AS30860
+203999,2664,
+5607,2633,Sky Broadband
+52804,2629,ESTREITONET LTDA
+35487,2626,Misaka Network Inc. (EMEA)
+9534,2588,Maxis Communications Bhd
+212317,2585,Hetzner Online Cloud 3
+12555,2564,IMAQLIQ
+25019,2549,Saudi Telecom Company (STC SAUDINET)
+58519,2541,Cloud Computing Corporation
+50304,2536,Blix Solutions AS
+20115,2530,Charter Communications
+329166,2519,Absolute Hosting
+2119,2506,Telenor (Norway/Sweden)
+8767,2503,M-net
+57269,2498,Digi Spain Telecom
+16135,2487,TURKCELL
+9198,2463,Kazakhtelecom
+263740,2453,Corporacion Laceibanetsociety
+199524,2450,G-Core Labs
+133118,2441,China Unicom IP network
+3223,2412,VOXILITY
+397423,2411,Tier.Net Technologies LLC
+207990,2408,HostRoyale Technologies Pvt Ltd
+9141,2376,P4 PLAY Network
+26658,2365,HT
+21928,2357,T-Mobile USA
+62068,2341,SpectraIP B.V.
 42397,2329,Bunea TELECOM SRL
-19871,2307,Network Solutions LLC
-55967,2305,Baidu
-12430,2304,Vodafone España
-30860,2263,Virtual Systems AS30860
-215439,2257,PLAY2GO-NET
-36375,2254,University of Michigan
-134420,2222,Chongqing Telecom
-50304,2207,Blix Solutions AS
-15704,2207,MásMóvil
-5384,2202,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC
-28573,2192,Claro S.A. (NET)
-49453,2182,Global Layer BV
-34779,2180,T-2 d.o.o.
-136787,2144,PacketHub S.A.
-15796,2140,SALT MOBILE
-207990,2136,HostRoyale Technologies Pvt Ltd
-215826,2136,Partner Hosting LTD
-36114,2130,VegasNAP LLC
-8767,2103,M-net
-5610,2100,O2 Czech Republic a.s.
-4760,2088,HKT Limited
-58224,2085,TCI
-1257,2083,TELE2
-202496,2083,trafficforce UAB
-138915,2069,Kaopu Cloud HK
-3223,2058,VOXILITY
-24444,2051,Shandong Mobile Communication Company Limited
-137899,2046,I LAYER LIMITED
-5391,2044,Croatian Telecom
-37061,2040,Safaricom AS37061
-701,2029,Verizon
-397423,2027,Tier.Net Technologies LLC
-5089,2023,Virgin Media
-151612,2003,HOSTPERL
-42237,1976,W1N
-3301,1960,Telia Sweden
-44244,1960,Iran Cell Service and Communication Company
-21367,1924,Wiland
-4788,1904,Telekom Malaysia Berhad (TM)
-9534,1881,Maxis Communications Bhd
-213790,1877,Limited Network LTD
-211849,1875,Kakharov Orinbassar Maratuly
-43350,1855,NFOrce Internet Services :: 43350
-26658,1852,HT
-20940,1844,Akamai Technologies
-16019,1835,Vodafone Czech Republic
-54290,1830,Hostwinds
-58519,1827,Cloud Computing Corporation
-200651,1825,FlokiNET
-13354,1806,zColo Dallas
-9541,1787,Cyber Internet Services
-51265,1754,Mass Response / spusu
-8400,1747,TSSRB - Telekom Srbija
-852,1744,TELUS Communications
-22772,1740,Login
-133944,1739,trafficforce UAB
-9498,1735,Bharti Airtel Limited
-35487,1732,Misaka Network Inc. (EMEA)
-7303,1723,TELECOM ARGENTINA
-1303,1723,Renater
-11320,1713,LightEdge Solutions
-13332,1709,NephoScale
-13036,1691,T-Mobile CZ AS13036
-56041,1690,China Mobile communications corporation
-12741,1687,Netia
-34984,1680,Superonline
-215476,1664,Inside Network LTD
-136557,1661,Host Universal
-25184,1657,Afranet
-20853,1644,ETOP Sp z o.o.
-10912,1637,Unitas Global
-9123,1634,JSC TimeWeb
-51765,1626,CreaNova Datacenter
+852,2326,TELUS Communications
+8400,2318,TSSRB - Telekom Srbija
+136557,2312,Host Universal
+140061,2310,Qinghai Telecom
+17622,2306,China Unicom Guangzhou network
+49453,2293,Global Layer BV
+137718,2290,VOLCANO-ENGINE
+137899,2282,I LAYER LIMITED
+215439,2258,PLAY2GO-NET
+36375,2255,University of Michigan
+9541,2246,Cyber Internet Services
+37061,2235,Safaricom AS37061
+24309,2231,Atria Convergence Technologies Ltd.
+202325,2217,4Media Ltd.
+917,2210,Misaka.io
+213155,2209,Yettel Hungary Ltd.
+43350,2202,NFOrce Internet Services :: 43350
+10912,2201,Unitas Global
+8866,2194,Vivacom Bulgaria EAD
+202496,2178,trafficforce UAB
+21367,2178,Wiland
+215826,2150,Partner Hosting LTD
+39603,2144,PLAY
+36114,2137,VegasNAP LLC
+12741,2130,Netia
+132510,2123,IDC ShanXi China Mobile communications corporation
+17858,2116,LG POWERCOMM
+44244,2112,Iran Cell Service and Communication Company
+17488,2094,Hathway IP Over Cable Internet
+54098,2094,LIONLINK NETWORKS
+5650,2093,Frontier Communications of America (FCA)
+11320,2080,LightEdge Solutions
+269538,2073,CONECTEC NET LTDA
+200651,2069,FlokiNET
+8374,2053,Polkomtel
+6799,2040,OTEnet
+26599,2040,TELEFÔNICA BRASIL AS26599
+15962,2036,Orange Slovensko
+197019,2022,WEDOS Internet
+206067,2007,Three UK AS206067
+151612,2004,HOSTPERL
+133944,1993,trafficforce UAB
+214503,1993,R0cket Cloud
+1680,1989,Cellcom Israel
+4847,1974,CNIX-AP
+265936,1972,TURBONET CE
+8402,1965,Corbina Telecom
+61178,1959,Digital Transformation Plus LLC
+2514,1940,NTT PC Communications (InfoSphere)
+13332,1916,NephoScale
+215476,1912,Inside Network LTD
+46261,1909,QuickPacket
+35612,1906,Eolo SpA
+29465,1896,MTN NIGERIA Communication
+3356,1882,Lumen AS3356
+137687,1877,Luoyang Henan Province P.R.China.
+215730,1862,H2NEXUS
+54290,1852,Hostwinds
+22772,1850,Login
+47377,1850,Orange Belgium SA
+55933,1848,Cloudie
+20940,1845,Akamai Technologies
+38623,1841,Viettel (Cambodia) Pte. Ltd.
+3243,1841,MEO Residential
+13354,1827,zColo Dallas
+38235,1816,MekongNet
+45609,1814,Bharti Airtel Ltd. AS for GPRS Service
+136188,1811,NINGBO ZHEJIANG Province P.R.China.
+63961,1795,BdREN
+401109,1789,
+31133,1777,MegaFon
+9123,1765,JSC TimeWeb
+8359,1760,Mobile TeleSystems PJSC
+141718,1760,haoxiangyun
+20853,1742,ETOP Sp z o.o.
+27699,1742,TELEFÔNICA BRASIL AS27699
+51765,1739,CreaNova Datacenter
+32475,1737,SingleHop LLC
+57695,1725,Misaka Network Inc.
+18881,1720,TELEFÔNICA BRASIL AS18881
+26496,1718,GoDaddy
+55081,1703,24Shells Inc
+45820,1701,Tata Teleservices
+25184,1690,Afranet
+22773,1688,Cox Communications
+208323,1686,Foundation for Applied Privacy
+205876,1686,Hoasted
+8445,1685,Salzburg AG
+6327,1681,Shaw Cablesystems
+3257,1678,GTT Communications (AS3257)
+35048,1665,Biterika Group LLC
+26548,1661,Purevoltage Hosting
+394695,1648,Public Domain Registry
+268552,1635,NETSBRASIL
+24547,1633,Hebei Mobile Communication Company Limited
+9294,1633,GNET INC.
+8708,1631,RCS & RDS
+42610,1631,Rostelecom MRB Moscow
+17638,1629,ASN for TIANJIN Provincial Net of CT
 16045,1615,
-206067,1611,Three UK AS206067
-57269,1601,Digi Spain Telecom
-205876,1598,Hoasted
-136188,1593,NINGBO ZHEJIANG Province P.R.China.
-269538,1585,CONECTEC NET LTDA
-268552,1582,NETSBRASIL
-62068,1579,SpectraIP B.V.
-265936,1577,TURBONET CE
-38235,1576,MekongNet
-26496,1573,GoDaddy
-32475,1571,SingleHop LLC
-5607,1571,Sky Broadband
-46261,1569,QuickPacket
-9294,1567,GNET INC.
-214503,1557,R0cket Cloud
-26548,1549,Purevoltage Hosting
-1680,1540,Cellcom Israel
-25019,1539,Saudi Telecom Company (STC SAUDINET)
-55081,1523,24Shells Inc
-21928,1522,T-Mobile USA
-47544,1521,IQ PL
-39603,1515,PLAY
-5650,1498,Frontier Communications of America (FCA)
-3356,1497,Lumen AS3356
-50495,1496,Web2Objects Frankfurt
-9141,1468,P4 PLAY Network
-2119,1467,Telenor (Norway/Sweden)
-4811,1462,China Telecom (Group)
-55933,1455,Cloudie
-137687,1450,Luoyang Henan Province P.R.China.
-3257,1446,GTT Communications (AS3257)
-17488,1438,Hathway IP Over Cable Internet
-45609,1436,Bharti Airtel Ltd. AS for GPRS Service
-917,1433,Misaka.io
-208323,1424,Foundation for Applied Privacy
-19527,1420,Google LLC AS19527
-8374,1417,Polkomtel
-20115,1393,Charter Communications
-18501,1393,CyberCloud Professionals LLC
-213155,1390,Yettel Hungary Ltd.
-24186,1371,Railtel Corporation Of India
-394695,1370,Public Domain Registry
-62904,1369,Eonix N.A. Region
-60781,1351,LeaseWeb Netherlands / AMS-01
-8866,1339,Vivacom Bulgaria EAD
-17622,1336,China Unicom Guangzhou network
-59253,1331,Leaseweb Singapore
-49544,1327,i3D.net
-6327,1323,Shaw Cablesystems
-34081,1320,Server24
-63961,1309,BdREN
-9198,1300,Kazakhtelecom
-12555,1296,IMAQLIQ
-197019,1295,WEDOS Internet
-6461,1293,Zayo
-64267,1284,Sprious LLC
-15962,1279,Orange Slovensko
-24309,1273,Atria Convergence Technologies Ltd.
-265645,1266,HOSTINGFOREX S.A.
-57858,1266,Angelnet Limited
-8402,1262,Corbina Telecom
-141718,1262,haoxiangyun
-48721,1259,Flyservers S.A.
-140061,1254,Qinghai Telecom
-35048,1254,Biterika Group LLC
-131386,1248,Long Van System Solution JSC
-47674,1247,Net Solutions Macau
-17858,1242,LG POWERCOMM
-215730,1241,H2NEXUS
-18779,1238,Energy Group Networks
-8445,1237,Salzburg AG
-38623,1233,Viettel (Cambodia) Pte. Ltd.
-58065,1225,Packet Exchange
-54098,1215,LIONLINK NETWORKS
-137718,1211,VOLCANO-ENGINE
-401109,1210,
-394814,1204,ISP4Life INC
-3243,1202,MEO Residential
-139628,1195,Mega TrueNET
-47583,1180,Hostinger International
-61178,1180,Digital Transformation Plus LLC
-47377,1168,Orange Belgium SA
-35042,1154,Layer7 Networks GmbH
+2860,1608,NOS
+47544,1605,IQ PL
+1221,1588,Telstra Corporation Ltd
+209854,1583,Cyberzonehub
+51207,1581,Free Mobile SAS
+17676,1578,SoftBank Corp.
+17451,1571,Biznet Networks
+22927,1569,Telefonica de Argentina
+50495,1560,Web2Objects Frankfurt
+47674,1558,Net Solutions Macau
+6057,1557,ANTEL
+12353,1549,Vodafone Portugal
+134771,1540,WENZHOU ZHEJIANG Province P.R.China.
+60781,1530,LeaseWeb Netherlands / AMS-01
+19527,1524,Google LLC AS19527
+34081,1521,Server24
+215590,1519,DpkgSoft International Limited
+18209,1508,Atria Convergence Technologies
+17816,1505,CHINA169-GZ
+22884,1496,TOTAL PLAY TELECOMUNICACIONES AS22884
+9269,1483,Hong Kong Broadband Network LTD
+57858,1466,Angelnet Limited
+18013,1464,ASLINE
+17813,1462,Mahanagar Telephone Nigam Limited
+62904,1456,Eonix N.A. Region
+42969,1451,
+139880,1448,COLOURS Fiber
+45204,1436,Gemnet
+25046,1434,Check Point Software Technologies LTD
+18779,1433,Energy Group Networks
+58065,1432,Packet Exchange
+22363,1429,Powerhouse Management Inc.
+141892,1429,SENGKED.COM
+9145,1425,EWE TEL
+43641,1424,SOLLUTIUM EU Sp z.o.o.
+8339,1424,Kabelplus GmbH
+64267,1422,Sprious LLC
+12301,1421,Invitech
+37705,1420,TOPNET / tunisia
+20001,1419,Charter Communications (20001)
+18501,1417,CyberCloud Professionals LLC
+16086,1413,DNA
+719,1410,Elisa Finland
+5578,1400,SWAN / exBENESTRA
+211619,1396,MAXKO
+10796,1393,Charter Communications (10796)
+36925,1390,Meditelecom
+28685,1385,RoutIT B.V.
+48721,1378,Flyservers S.A.
+265645,1369,HOSTINGFOREX S.A.
+12810,1365,A1 Hrvatska d.o.o.
+131090,1362,NT(CAT) Broadband
+8612,1357,Tiscali
+59253,1353,Leaseweb Singapore
+29518,1348,Bredband2
+42961,1345,Zain KW
+6461,1332,Zayo
+140726,1331,UNICOM AnHui province network
+24139,1324,Huashu media&Network Limited
+47583,1323,Hostinger International
+131386,1322,Long Van System Solution JSC
+1955,1321,Hungarian NREN
+577,1316,Bell Canada Backbone
+41436,1300,Kamatera EU
+30844,1298,Liquid Intelligent Technologies
+11426,1294,Charter Communications Inc
+141679,1293,China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch
+35042,1288,Layer7 Networks GmbH
+8473,1288,Bahnhof
+9329,1283,Sri Lanka Telecom
+16735,1270,Algar Telecom
+197183,1257,Occentus Network SL
+50266,1232,Odido
+394814,1228,ISP4Life INC
+210278,1224,Sky Italia AS210278
+205544,1217,LeaseWeb UK / LON-01
+23674,1207,Nayatel
+64286,1205,LogicWeb
+63023,1205,GTHost US and EU
+21499,1204,Host Europe GmbH
+139628,1198,Mega TrueNET
+24955,1195,JSC Ufanet
+19148,1187,LiveWorld Inc
+209372,1187,SIA 'Singularity Telecom'
+267784,1183,Flyservers S.A.
+140292,1182,CHINATELECOM Jiangsu province Suzhou 5G network
+55577,1176,Atria Convergence Technologies Ltd.
+17623,1173,China Unicom Shenzen network
+133481,1173,Advanced Wireless Network Co. Ltd.(ฺBroadband)
+6079,1171,Astound
+204646,1169,web2objects GmbH
+23888,1165,National Telecommunication Corporation HQ
+21769,1165,Colocation America AS21769
+30282,1164,Unitas Global
+135089,1159,China Telecom
+53260,1155,Clark University
 214668,1150,AXUSHOST
-36925,1142,Meditelecom
+6167,1148,CELLCO-PART
+59711,1147,HZ-NL
+30633,1144,LeaseWeb USA / WDC-01
 214417,1136,
-53260,1136,Clark University
-139880,1130,COLOURS Fiber
-2514,1128,NTT PC Communications (InfoSphere)
-209372,1122,SIA 'Singularity Telecom'
-21499,1121,Host Europe GmbH
-57695,1121,Misaka Network Inc.
-141892,1110,SENGKED.COM
-43641,1110,SOLLUTIUM EU Sp z.o.o.
-22363,1102,Powerhouse Management Inc.
-211619,1092,MAXKO
-215590,1089,DpkgSoft International Limited
-32097,1086,Wholesale Internet Inc.
-35612,1082,Eolo SpA
-209854,1076,Cyberzonehub
-49434,1054,FBW Networks
-205544,1051,LeaseWeb UK / LON-01
-1955,1050,Hungarian NREN
-52393,1048,Corporación Dana S.A.
-141679,1047,China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch
-6079,1047,Astound
-17676,1046,SoftBank Corp.
-134771,1042,WENZHOU ZHEJIANG Province P.R.China.
-3561,1023,Lumen AS3561
-17451,1016,Biznet Networks
-2860,1010,NOS
-51207,1010,Free Mobile SAS
-45820,1007,Tata Teleservices
-8708,1000,RCS & RDS
-23352,994,Deft.com
-26599,993,TELEFÔNICA BRASIL AS26599
-28685,993,RoutIT B.V.
-12353,992,Vodafone Portugal
-24547,984,Hebei Mobile Communication Company Limited
-24139,978,Huashu media&Network Limited
-21769,976,Colocation America AS21769
-213993,971,Femboy Proxy Solutions
-1221,970,Telstra Corporation Ltd
-22773,967,Cox Communications
-41436,958,Kamatera EU
-140292,954,CHINATELECOM Jiangsu province Suzhou 5G network
-8339,949,Kabelplus GmbH
-204646,947,web2objects GmbH
-577,947,Bell Canada Backbone
-9145,940,EWE TEL
-5578,939,SWAN / exBENESTRA
+49434,1131,FBW Networks
+58898,1131,Rainbow Communications India
+8899,1128,DEUTSCHE-GLASFASER
+1759,1125,Telia Finland
+7738,1120,Vtal 7738
+2516,1117,KDDI
+31042,1112,Serbia BroadBand
+6697,1107,Beltelecom
+11427,1107,Charter Communications (11427)
+12735,1106,TurkNet Iletisim Hizmetleri A.S
+6830,1106,Liberty Global
+4775,1105,Globe Telecom
+32097,1102,Wholesale Internet Inc.
+13110,1100,INEA
+8167,1097,Vtal 8167
+12392,1095,Brutele SC / Voo
+6128,1094,Cablevision Systems Corporation
+52393,1090,Corporación Dana S.A.
+57169,1087,EDIS GmbH
+25513,1084,MGTS
+15600,1084,Quickline AG
+63737,1081,VIETSERVER SERVICES TECHNOLOGY COMPANY LIMITED
+205659,1081,UAB code200
+3561,1075,Lumen AS3561
+9304,1071,HGC
+49367,1071,Seflow S.N.C. Di Marco Brame & C.
+10929,1070,eStruxture AS10929
+21299,1069,Beeline Kazakhstan
+58087,1060,Florian Kolb
+36884,1054,Wana Corporate (AS36884)
+2519,1049,ARTERIA Networks Corporation (Vectant)
+4809,1047,China Telecom / CN2
+28198,1038,Sempre Internet
+6400,1034,Claro Dominicana
+10139,1027,SMARTBRO-PH-AP
+150895,1027,EZ TECHNOLOGY COMPANY LIMITED
+206804,1026,EstNOC
+33771,1021,Safaricom AS33771
+148981,1016,China Telecom
+23352,1014,Deft.com
+32613,1014,iWeb Technologies
+263812,1009,IPXON Networks
+137,1007,GARR
+58563,1003,CHINANET Hubei province network
+38283,997,CHINANET SiChuan Telecom Internet Data Center
+213993,997,Femboy Proxy Solutions
+146966,995,China Telecom
+215090,994,Keskin Yavuz trading as HebergTonServ
+200195,994,Verasel Inc.
+24086,993,Viettel Corporation
+17072,993,TOTAL PLAY TELECOMUNICACIONES AS17072
+17552,991,True Internet Co.
+200593,988,PROSPERO OOO
+2527,986,Sony Network Communications
+812,979,Rogers Cable
+18049,974,Taiwan Optical Platform Group
+34010,966,Yahoo-UK Limited
+9341,966,Indonesia Comnets Plus AS9341
+211507,965,JulianAchter
+30893,964,no ack hosting network
+56047,959,China Mobile communications corporation
+25820,953,IT7 Networks
+44034,952,Hi3G Access AB
+12400,951,Partner Communications
+216127,948,NUXTCLOUD
+31615,946,Odido AS31615
+46475,945,Limestone Networks
+6739,941,Vodafone ONO
 17561,939,LARUS Limited
-4847,938,CNIX-AP
-31042,920,Serbia BroadBand
-49367,916,Seflow S.N.C. Di Marco Brame & C.
-33771,916,Safaricom AS33771
-6799,911,OTEnet
-205659,909,UAB code200
-17623,908,China Unicom Shenzen network
-8612,908,Tiscali
-9329,907,Sri Lanka Telecom
-64286,905,LogicWeb
-206804,901,EstNOC
-52485,899,networksdelmanana.com
-34010,899,Yahoo-UK Limited
-12301,896,Invitech
-216246,895,Aéza (RU)
-17638,892,ASN for TIANJIN Provincial Net of CT
-12810,889,A1 Hrvatska d.o.o.
-18209,880,Atria Convergence Technologies
-200195,877,Verasel Inc.
-216127,873,NUXTCLOUD
-23674,865,Nayatel
-8473,861,Bahnhof
-9269,855,Hong Kong Broadband Network LTD
-267784,854,Flyservers S.A.
-4775,853,Globe Telecom
-37705,851,TOPNET / tunisia
-16086,846,DNA
-399629,843,BL Networks
-59711,841,HZ-NL
-135089,840,China Telecom
-63737,840,VIETSERVER SERVICES TECHNOLOGY COMPANY LIMITED
-52368,838,ZAM LTDA.
-27699,834,TELEFÔNICA BRASIL AS27699
-22927,824,Telefonica de Argentina
-18881,824,TELEFÔNICA BRASIL AS18881
-16735,823,Algar Telecom
-25046,823,Check Point Software Technologies LTD
-52449,816,My Tech BZ
-50266,813,Odido
-10139,811,SMARTBRO-PH-AP
-30893,805,no ack hosting network
-719,804,Elisa Finland
-63023,803,GTHost US and EU
-400619,794,AROSS-AS
-213613,793,BotShield-LTD
-38719,792,Dreamscape Networks
-140726,791,UNICOM AnHui province network
-22884,790,TOTAL PLAY TELECOMUNICACIONES AS22884
-34788,789,Neue Medien Muennich
-263812,781,IPXON Networks
-4809,780,China Telecom / CN2
-202044,777,Getechbrothers Internet
-394303,771,BIGSCOOTS
-42610,771,Rostelecom MRB Moscow
-46475,770,Limestone Networks
-148981,762,China Telecom
-38283,760,CHINANET SiChuan Telecom Internet Data Center
-42961,756,Zain KW
+60587,937,XINON Carrier Network
+8220,937,Colt
+211642,933,AdminVPS OOO
+29314,932,VECTRA
+201579,924,HOSTGNOME LTD
+56630,920,Melbikomas
+52485,919,networksdelmanana.com
+45916,913,Gujarat Telelink
+216246,913,Aéza (RU)
+22612,911,Namecheap
+137125,909,NETSAT
+19257,906,SUBRIGO
+149440,905,Evoxt
+35228,904,O2 Broadband
+62044,898,Zscaler AS62044
+559,897,SWITCH
+17511,897,OPTAGE
+8437,896,Hutchison Drei Austria GmbH
+63760,891,AZDIGI Corporation
+1853,884,ACOnet
+135426,883,ZTE CORPORATION
+60404,882,LiteServer
+197706,876,Keminet
+205714,875,Telemach Croatia
+202044,874,Getechbrothers Internet
+7385,872,Electric Lightwave
+30006,872,TOP BUSINESS INC
+25159,870,SONICDUO
+399629,869,BL Networks
+17995,866,iForte Global Internet
+52368,865,ZAM LTDA.
+6849,863,Ukrtelecom
+202422,861,GHOST !
+27747,854,Telecentro
+17917,854,Quadrant Televentures
+8758,851,iWay AG
+7203,849,LeaseWeb USA  / SFO-12
+7545,847,TPG Telecom
+6810,845,Bezeq
+262210,845,VIETTEL PERU
+34788,845,Neue Medien Muennich
+4609,844,Macau CTM
+13999,843,Mega Cable S.A. de C.V.
+400619,842,AROSS-AS
+23700,842,First Media
+12605,840,Liwest Kabelmedien
+36692,839,Cisco Umbrella
+213613,838,BotShield-LTD
+28209,835,Under
+140403,835,PT. Graha Fatta
+50340,832,Selectel MSK
+56040,831,China Mobile communications corporation
+4230,829,Claro
+52449,827,My Tech BZ
+262551,826,Farol Telecom
+24835,822,Vodafone Egypt
+131111,820,PT Mora Telematika Indonesia Tbk - Domestic
+4761,819,Indosat Ooredoo
+15435,819,DELTA Fiber - AS15435
+8369,818,Intersvyaz
+203214,818,Hulum Almustakbal
+7418,814,Movistar ISP
+3816,813,COLOMBIA TELECOMUNICACIONES S.A. ESP
+49791,810,3HCLOUD
+35819,809,Etihad Etisalat Company (Mobily)
+17882,808,Univision Mongolia
+59432,806,GINERNET
+13489,805,TigoUne
+2107,804,Arnes
+13285,803,PlatformX Communications
+8462,803,Tarr Ltd.
+12975,801,Palestinian Telecommunications
+394303,801,BIGSCOOTS
+52468,799,Ufinet Latam AS52468
+38719,795,Dreamscape Networks
+61094,792,CRATIS
+28952,790,O2 Business Services
+56042,788,China Mobile communications corporation
+62160,788,YESHOST-AS
+15895,786,Kyivstar
+2116,786,GlobalConnect AS2116
+6147,786,Telefonica Del Perú
+18001,784,Dialog Axiata PLC
+200000,777,Hosting Ukraine
+37457,776,Telkom Internet
+15802,772,du
+15964,771,CAMTEL
+12887,769,
+12182,768,Unitas Global
+37492,768,Orange Tunisie
+31581,764,National Infocommunications Service Company Limited by Shares
+51559,761,Netinternet
+44453,759,interneX GmbH
+132167,758,Ooredoo Myanmar
+204957,754,GREEN FLOID
+214822,753,MT FINANCE LLC
+8193,752,'Uzbektelekom' Joint Stock Company
+3216,751,VimpelCom
 141159,751,Incomparable(HK)Network Co. Limited
-8359,749,Mobile TeleSystems PJSC
-2519,748,ARTERIA Networks Corporation (Vectant)
-138699,746,ByteDance AS138699
-11427,743,Charter Communications (11427)
-16135,742,TURKCELL
-25820,741,IT7 Networks
-20001,741,Charter Communications (20001)
-57169,738,EDIS GmbH
-197183,738,Occentus Network SL
-60587,735,XINON Carrier Network
-200000,730,Hosting Ukraine
-6830,723,Liberty Global
-7385,720,Electric Lightwave
-6400,719,Claro Dominicana
-12392,719,Brutele SC / Voo
-131111,716,PT Mora Telematika Indonesia Tbk - Domestic
-53856,710,NJ IX
-30844,709,Liquid Intelligent Technologies
-22612,708,Namecheap
-1759,703,Telia Finland
-25106,702,Mobile TeleSystems
-44453,701,interneX GmbH
-8899,700,DEUTSCHE-GLASFASER
-10796,699,Charter Communications (10796)
-29518,693,Bredband2
-60404,693,LiteServer
-812,685,Rogers Cable
-11426,681,Charter Communications Inc
-50867,680,HOSTKEY
-51559,679,Netinternet
-197706,677,Keminet
-17552,675,True Internet Co.
-42969,675,
-137,675,GARR
+138699,747,ByteDance AS138699
+41378,746,Kirino
+55720,745,TheGigabit
+29222,745,Infomaniak Network SA
+11878,744,TZULO
+53856,743,NJ IX
+134768,741,CHINANET SHAANXI province Cloud Base network
+205964,740,360 IT
+25106,740,Mobile TeleSystems
+11664,734,CLARO ARGENTINA
+33837,734,
+394089,734,Google LLC
+28840,731,PJSC 'TATTELECOM'
+17665,728,ONEOTT iNTERTAINMENT LTD
+56044,725,China Mobile communications corporation
+151185,723,China Telecom
+43037,721,Seznam.cz a.s.
+8764,717,Telia Lietuva AB
+9063,716,VSE NET GmbH
+2852,716,CESNET
+42366,714,TerraTransit
+2635,710,Automattic
+35805,700,Silknet
+7979,697,SERVERS.COM
+9762,695,HYUNDAI COMMUNICATIONS   NETWORK
+6568,693,Entel S.A. - EntelNet
+40065,693,CNSERVERS
+4685,687,ASAHI Net
+23860,687,Alliance Broadband Services Pvt Ltd
+5769,687,Videotron AS5769
+63859,686,Eka Mas Republik
+50867,682,HOSTKEY
+133159,681,Mammoth Media
+24863,680,LINKdotNET
+210906,679,UAB 'Bite Lietuva'
+12552,679,GlobalConnect AS12552
+14117,679,Telefonica del Sur
+714,677,Apple Inc.
 213780,675,Individual Entrepreneur Suvorov Maxim Sergeevich
-62160,672,YESHOST-AS
-15600,669,Quickline AG
-6167,669,CELLCO-PART
-210278,667,Sky Italia AS210278
-25513,665,MGTS
-55577,665,Atria Convergence Technologies Ltd.
-2635,661,Automattic
-13110,658,INEA
-15964,652,CAMTEL
-559,652,SWITCH
-262551,652,Farol Telecom
-43037,648,Seznam.cz a.s.
-42366,648,TerraTransit
-12735,647,TurkNet Iletisim Hizmetleri A.S
-201579,645,HOSTGNOME LTD
-15802,644,du
-4609,642,Macau CTM
-209723,640,EXPERT NETCLOUD LLP
-3491,640,PCCW Global
-58563,638,CHINANET Hubei province network
-9762,638,HYUNDAI COMMUNICATIONS   NETWORK
-24086,635,Viettel Corporation
-9304,634,HGC
-11878,633,TZULO
-17511,626,OPTAGE
-36884,625,Wana Corporate (AS36884)
-8220,624,Colt
-55720,623,TheGigabit
-133481,622,Advanced Wireless Network Co. Ltd.(ฺBroadband)
-7738,622,Vtal 7738
-25159,622,SONICDUO
-210906,621,UAB 'Bite Lietuva'
-205964,619,360 IT
-46918,618,GLOBALHOSTINGSOLUTIONS INC
-6697,617,Beltelecom
-49791,617,3HCLOUD
-39891,616,Saudi Telecom Company JSC
-6739,613,Vodafone ONO
-27747,613,Telecentro
-33765,613,TTCL Corporation
-2914,611,NTT Global IP Network
-131090,610,NT(CAT) Broadband
-17816,610,CHINA169-GZ
-151185,609,China Telecom
-25288,608,DEMENIN B.V.
-202422,607,GHOST !
-200596,607,Adyen
-136170,606,PT. EXABYTES NETWORK INDONESIA
-50926,606,Axarnet Comunicaciones S.L.
-54301,605,Interphase Communications Inc.
-207083,605,HostSlim
-33837,605,
-37492,603,Orange Tunisie
-1853,600,ACOnet
-2516,598,KDDI
-10929,597,eStruxture AS10929
-28209,596,Under
-31133,596,MegaFon
-8758,593,iWay AG
-18001,592,Dialog Axiata PLC
-4761,592,Indosat Ooredoo
-29314,588,VECTRA
-40564,588,Vocom International Telecommunication INC
-17072,587,TOTAL PLAY TELECOMUNICACIONES AS17072
-56047,585,China Mobile communications corporation
-132825,584,Defense Australia Network
-215224,583,NovoServe B.V.
-150895,580,EZ TECHNOLOGY COMPANY LIMITED
-211642,580,AdminVPS OOO
-48715,578,Sefroyek Pardaz Engineering PJSC
-6128,577,Cablevision Systems Corporation
-7015,577,Comcast - New England
-1781,574,Korea Advanced Institute of Science and Technology
-63760,570,AZDIGI Corporation
-399486,569,Virtuo (AS399486)
-214822,569,MT FINANCE LLC
-8437,568,Hutchison Drei Austria GmbH
-26383,568,Baxet Group Inc.
-24544,565,Overcasts Limited
-15895,564,Kyivstar
-135407,564,TransWorldEnterpriseServices
-399820,562,Atomic Networks LLC
-8167,561,Vtal 8167
-23888,558,National Telecommunication Corporation HQ
-6057,557,ANTEL
-35819,556,Etihad Etisalat Company (Mobily)
-23700,554,First Media
-17813,553,Mahanagar Telephone Nigam Limited
-12975,552,Palestinian Telecommunications
-211507,551,JulianAchter
-30633,551,LeaseWeb USA / WDC-01
-22075,551,Outbrain Inc.
-56040,550,China Mobile communications corporation
-36926,550,Airtel Networks Kenya
-9063,546,VSE NET GmbH
-41095,543,IPTP Networks
-21299,540,Beeline Kazakhstan
-19257,540,SUBRIGO
-62044,537,Zscaler AS62044
-61317,536,Hivelocity Inc. fka Digital Energy Technologies Limited (Global)
-133398,536,Tele Asia
-55423,533,JasTel Network
-9370,528,SAKURA internet AS9370
-263291,527,SAVNET TELECOMUNICAÇÕES LTDA
-6810,526,Bezeq
+37611,672,Afrihost
+55423,672,JasTel Network
+25490,671,PJSC Rostelecom
+209723,669,EXPERT NETCLOUD LLP
+10429,668,TELEFÔNICA BRASIL AS10429
+2914,667,NTT Global IP Network
+3491,666,PCCW Global
+11351,665,Charter Communications Inc
+45117,659,Ishan Netsol
+11831,659,eSecureData
+26615,659,TIM Celular
+139982,657,PT Buana Visualnet Sentra
+6821,656,Makedonski Telekom
+24400,655,Shanghai Mobile Communications Co.Ltd.
+135407,654,TransWorldEnterpriseServices
+399820,653,Atomic Networks LLC
+14754,648,Telgua
+399486,648,Virtuo (AS399486)
+136958,643,China Unicom Guangdong IP network
+25288,642,DEMENIN B.V.
+36351,642,SoftLayer Technologies Inc. (an IBM Company)
+397373,642,H4Y Technologies LLC
+134762,640,CHINANET Liaoning province Dalian MAN network
+8796,639,Fast Data
+50926,639,Axarnet Comunicaciones S.L.
+21497,638,Vodafone Ukraine
+18126,637,Chubu Telecommunications Co.Inc. (ctc)
+55430,637,StarHub AS55430
+136170,637,PT. EXABYTES NETWORK INDONESIA
+34594,636,Optima telekom
+17762,635,Tata Teleservices (Maharastra)
+57043,635,HOSTKEY B.V.
+23201,632,TIGO PY
+2607,625,SANET
+56971,624,CloudBackbone
+24961,624,WIIT Group
+12714,621,PJSC MegaFon
+16591,621,Google Fiber Inc.
+46918,620,GLOBALHOSTINGSOLUTIONS INC
+198605,618,AVAST Software s.r.o.
+57578,617,Misaka Network Inc. (CIS)
+27967,616,Gobernacion de la Provincia de Buenos Aires
+22075,616,Outbrain Inc.
+38841,615,kbro
+198953,615,Proton66 OOO
+207083,613,HostSlim
+15502,612,Vodafone Ireland
+54301,611,Interphase Communications Inc.
+12271,610,Charter Communications Inc
+41564,610,Packet Exchange AS41564
+36873,609,Airtel Networks Nigeria
+200596,609,Adyen
+271795,606,SERVITELCONET
+64289,606,Macarne - AS64289
+13030,604,Init7
+209,603,Lumen AS209
+9930,601,TIME DotCom Berhad
+133661,598,Netplus Broadband Services
+48715,597,Sefroyek Pardaz Engineering PJSC
+215224,595,NovoServe B.V.
+31252,594,StarNet Moldova
+45352,594,IP ServerOne Solutions
+135061,593,China Unicom Guangdong IP network
+9595,593,NTT-ME (XePhionWAKWAK)
+27947,592,Telconet Ecuador
+140810,592,MEGACORE-AS-VN
+397384,591,LAUNCHVPS
+33363,591,Charter Communications (33363)
+7015,590,Comcast - New England
+40564,590,Vocom International Telecommunication INC
+9038,589,Umniah Mobile Company
+262287,589,Latitude.sh AS262287
+44489,589,STARNET s.r.o.
+132825,588,Defense Australia Network
+28343,587,Unifique Telecomunicações
+38264,587,Wateen Telecom
+27176,586,DataWagon
+8732,585,COMCOR
+26383,584,Baxet Group Inc.
+36914,582,KENET
+20860,582,iomart
+36926,582,Airtel Networks Kenya
+150862,581,VPSTTT COMPUTER COMPANY LIMITED
+9260,580,Multinet Pakistan Pvt. Ltd.
+212504,578,AdKyNet SAS
+39486,577,HostRoyale Technologies Pvt Ltd
+16223,576,Columbus AS16223
+9105,575,
+9146,575,BHTelecom
+1781,575,Korea Advanced Institute of Science and Technology
+61317,574,Hivelocity Inc. fka Digital Energy Technologies Limited (Global)
+13188,574,Triolan ISP
+9902,573,NEOCOMISP LIMITED
+24544,570,Overcasts Limited
+19037,569,AMX Argentina
+133398,565,Tele Asia
+43754,565,Asiatech
+200185,565,Aruba Cloud DE
+213250,564,Dominic Scholz trading as ITP-Solutions GmbH & Co. KG
+44395,561,UCOM AS44395
+135450,560,Berkah Solusi Teknologi Informasi
+207957,560,SERV.HOST GROUP LTD
+134365,558,Ansheng Network Technology Co. Limited
+208813,558,Galexis AG
+7562,557,HCN Dongjak
+202520,557,SkyPass Solutions
+396073,557,Spin Servers
+786,555,Janet
+12302,554,Vodafone Romania
+29580,554,A1 Bulgaria AS29580
+135953,551,Vietnam Online Network Solution Joint Stock Compnay
+137951,550,
+400536,549,Nodestop
+41608,549,NextGenWebs S.L.
+27895,549,Núcleo S.A. PY
+207137,549,PacketHub AS207137
+4800,547,Lintasarta
+138754,547,Kerala Vision Broadband Limited
+29614,547,Telecel Ghana
+9506,546,Singtel Fibre Broadband
+16010,546,Magticom Broadband
+28126,546,Brisanet Servicos de Telecomunicacoes
+36992,546,ETISALAT MISR
+41095,545,IPTP Networks
+61138,543,Zappie Host
+138415,542,Yancy Limited
+6866,541,CYTA
+4618,539,Internet Thailand (INET)
+17421,539,Mobile Business Group
+62610,539,Zenlayer Inc
+199912,538,Layer7 Networks GmbH
+270353,538,Tyna Host - Datacenter no Brasil
+200845,538,Avatel Telecom
+9370,538,SAKURA internet AS9370
+553,537,BelWü
+46516,536,HostRoyale LLC
+212219,536,Hosting Dunyam
+8376,535,Jordan Data Communications Company LLC
+327813,534,Web4Africa
+206281,533,Vimexx
+29208,532,Quantcom
+15468,531,PJSC Rostelecom
+328988,531,ORG-STEP1-AFRINIC
+393336,530,Catalyst Host LLC
+42560,529,Telemach BH d.o.o. Sarajevo
+263291,529,SAVNET TELECOMUNICAÇÕES LTDA
+215026,528,EvosHosting by Len Service SRL
+62874,528,Web2Objects Global
+53356,526,Free Range Cloud Hosting Inc
+23693,526,Telekomunikasi Selular
 48014,526,Albanian Hosting SH.P.K.
-270353,525,Tyna Host - Datacenter no Brasil
-215026,522,EvosHosting by Len Service SRL
-63859,522,Eka Mas Republik
-12887,522,
-12605,518,Liwest Kabelmedien
-205714,518,Telemach Croatia
-200593,518,PROSPERO OOO
-45916,515,Gujarat Telelink
-13489,513,TigoUne
-12400,512,Partner Communications
-39486,512,HostRoyale Technologies Pvt Ltd
-400536,510,Nodestop
-35228,510,O2 Broadband
-29614,508,Telecel Ghana
-198605,507,AVAST Software s.r.o.
-41608,507,NextGenWebs S.L.
-23860,506,Alliance Broadband Services Pvt Ltd
-212504,506,AdKyNet SAS
-206281,505,Vimexx
-199912,504,Layer7 Networks GmbH
-38264,504,Wateen Telecom
-2107,504,Arnes
-6147,503,Telefonica Del Perú
-328988,502,ORG-STEP1-AFRINIC
-5769,501,Videotron AS5769
-40065,500,CNSERVERS
-56630,499,Melbikomas
-7562,498,HCN Dongjak
-52030,498,Server Plan
-31581,498,National Infocommunications Service Company Limited by Shares
-39855,497,Mod Mission Critical AS39855
-7979,497,SERVERS.COM
-134768,496,CHINANET SHAANXI province Cloud Base network
-59432,496,GINERNET
-11664,495,CLARO ARGENTINA
-202520,495,SkyPass Solutions
-203214,494,Hulum Almustakbal
-15435,494,DELTA Fiber - AS15435
-27895,493,Núcleo S.A. PY
-8764,492,Telia Lietuva AB
-8462,492,Tarr Ltd.
+47589,525,STC Kuwait
+39855,523,Mod Mission Critical AS39855
+6713,523,MAROC TELECOM
+30900,522,Web World Ireland
+215703,521,FREAKHOSTING
+13238,520,Yandex
+57588,519,Hayat for Internet & Communication
+5378,519,Vodafone UK
+10620,515,Telmex Colombia S.A.
+2518,513,BIGLOBE Inc.
+30986,512,Scancom
+63473,512,HostHatch
+132525,512,HeiLongJiang Mobile Communication Company Limited
+8717,512,A1 BG EAD
+37153,510,xneelo (Formerly Hetzner SA)
+204287,510,HostRoyale Technologies Pvt Ltd
+30475,509,Handy Networks LLC
+58541,509,Qingdao266000
+29256,508,INT-PDN-STE-AS
+27651,508,entel MPLS
+133499,507,HostRoyale Technologies Pvt Ltd
+26042,507,FIBERSTATE
+12716,507,A1 Bulgaria AS12716
+52030,506,Server Plan
+5466,504,eircom
+44066,503,firstcolo
+23688,502,Link3 Technologies Limited
+42337,499,Respina Networks & Beyond PJSC
+47692,499,Nessus GmbH
+58540,499,Jinan250000
+6878,499,T-Systems International GmbH
+29244,498,CETIN Bulgaria AS29244
+12338,498,EUSKALTEL S.A.
+37693,497,Ooredoo Tunisia
+4780,497,New Century InfoComm Tech Co.Ltd.
+23956,496,AMBERIT
+131353,496,NhanHoa Software company
+49770,495,Internetport Sweden AB
+29695,494,Lyse Tele AS
+6871,494,Plusnet plc
+135139,494,Skylink Fibernet Private Limited
+45458,492,Advanced Wireless Network Co. Ltd.(Enterprise/NIX)
+26210,492,AXS BOLIVIA
+146943,492,Tier 4 Cloud Services
 398090,492,Lambda Cloud
-18049,491,Taiwan Optical Platform Group
-17882,490,Univision Mongolia
-23201,490,TIGO PY
-44034,490,Hi3G Access AB
-3816,489,COLOMBIA TELECOMUNICACIONES S.A. ESP
-393336,484,Catalyst Host LLC
-138415,484,Yancy Limited
-204957,484,GREEN FLOID
-56042,483,China Mobile communications corporation
-24835,483,Vodafone Egypt
-13999,481,Mega Cable S.A. de C.V.
-55430,480,StarHub AS55430
-15672,480,OOO Telecom TZ
-58087,478,Florian Kolb
-394089,477,Google LLC
-11831,475,eSecureData
-45204,475,Gemnet
-19037,474,AMX Argentina
-135450,471,Berkah Solusi Teknologi Informasi
-51468,470,One.com
-149440,470,Evoxt
-140403,470,PT. Graha Fatta
-271795,469,SERVITELCONET
-2527,469,Sony Network Communications
-137951,468,
-262287,467,Latitude.sh AS262287
+6724,491,STRATO AG
+12668,490,MiraLogic Telecommunication Systems
+210125,488,PriamNET
+138077,487,Abhinawa Sumberdaya Asia - AS138077
+12042,487,Consolidated Communications - North
+50979,484,GREEN FLOID LLC
+56005,484,Zhengzhou Fastidc Technology Co.Ltd.
+199064,484,QWANT
+15672,483,OOO Telecom TZ
+270438,483,GBNET
+42841,482,ANTIK Telecom
+4804,481,Optus Internet
+135761,481,Userlinks Netcom
+136435,479,ELITE COMMUNICATION
+24445,479,Henan Mobile Communications Co.Ltd
+51468,478,One.com
+21056,477,Vianova
+209272,476,Alviva Holding Limited
+47524,476,TURKSAT
+28649,475,Desktop Sigmanet Comunicação Multimídia Ltda
+31200,473,Novotelecom (NTK)
+12252,473,CLARO PERU
+48716,473,PS Internet Company Network
+21246,472,Ipko Telecommunication
+393886,472,Leaseweb USA Inc.
+8781,471,Ooredoo Qatar
+141004,471,QTIME BUSINESSES
+2200,471,RENATER
+43529,471,Vidanet Cabletelevision Provider
+51430,469,AltusHost
+20546,469,SOPRADO GmbH
+24158,468,Taiwan Mobile Co. Ltd.
+214918,468,ESAGAMES HOSTING SHIELD S.R.L.
 802,466,York University
-7418,465,Movistar ISP
-42560,464,Telemach BH d.o.o. Sarajevo
-9341,461,Indonesia Comnets Plus AS9341
-28952,461,O2 Business Services
-61094,461,CRATIS
-141004,460,QTIME BUSINESSES
-8796,459,Fast Data
-30986,459,Scancom
-131353,459,NhanHoa Software company
-12182,456,Unitas Global
-41564,456,Packet Exchange AS41564
-215090,455,Keskin Yavuz trading as HebergTonServ
-146943,455,Tier 4 Cloud Services
-262210,453,VIETTEL PERU
-13285,453,PlatformX Communications
-133159,453,Mammoth Media
-7941,452,Internet Archive
-24955,451,JSC Ufanet
-36914,451,KENET
-41378,451,Kirino
-134365,450,Ansheng Network Technology Co. Limited
-15468,447,PJSC Rostelecom
-26042,447,FIBERSTATE
-13030,444,Init7
-31615,444,Odido AS31615
-23693,443,Telekomunikasi Selular
-2852,442,CESNET
-55293,441,A2 Hosting Inc.
-34594,441,Optima telekom
-397373,441,H4Y Technologies LLC
-29465,439,MTN NIGERIA Communication
-133499,438,HostRoyale Technologies Pvt Ltd
-6568,437,Entel S.A. - EntelNet
-6878,437,T-Systems International GmbH
-57588,434,Hayat for Internet & Communication
-553,434,BelWü
-786,434,Janet
-214918,434,ESAGAMES HOSTING SHIELD S.R.L.
-47692,433,Nessus GmbH
-35805,430,Silknet
-211860,429,
-63473,429,HostHatch
-204044,429,PACKET STAR NETWORKS LIMITED
-36351,428,SoftLayer Technologies Inc. (an IBM Company)
-14754,427,Telgua
-51430,425,AltusHost
-714,425,Apple Inc.
-2607,424,SANET
-206791,423,Slobozhenyuk B.Y. PE
-134762,418,CHINANET Liaoning province Dalian MAN network
-21069,418,METANET AG
-24961,416,WIIT Group
-150862,415,VPSTTT COMPUTER COMPANY LIMITED
-139982,414,PT Buana Visualnet Sentra
-9146,412,BHTelecom
-8369,410,Intersvyaz
-46516,409,HostRoyale LLC
-56971,409,CloudBackbone
-215467,408,Skhron
-27176,408,DataWagon
-398101,408,GoDaddy.com LLC
-2116,407,GlobalConnect AS2116
-37611,407,Afrihost
-10429,406,TELEFÔNICA BRASIL AS10429
-23688,405,Link3 Technologies Limited
-52468,405,Ufinet Latam AS52468
-27967,404,Gobernacion de la Provincia de Buenos Aires
-16010,404,Magticom Broadband
-16591,404,Google Fiber Inc.
-151270,404,
-30900,403,Web World Ireland
-139692,403,CHEN GUANG COMPANY LIMITED
-8193,400,'Uzbektelekom' Joint Stock Company
-17665,399,ONEOTT iNTERTAINMENT LTD
-55592,399,
-7545,398,TPG Telecom
-207137,396,PacketHub AS207137
-397384,395,LAUNCHVPS
-35830,392,Fast Servers (Pty) Ltd
-203346,391,Proper Support LLP
-209272,390,Alviva Holding Limited
-57578,390,Misaka Network Inc. (CIS)
-24863,389,LINKdotNET
-6821,388,Makedonski Telekom
-25227,386,Avantel Moscow
-9260,386,Multinet Pakistan Pvt. Ltd.
-56044,385,China Mobile communications corporation
-62874,385,Web2Objects Global
-135953,385,Vietnam Online Network Solution Joint Stock Compnay
-4618,384,Internet Thailand (INET)
-20860,384,iomart
-20857,383,TransIP BV
-7506,382,GMO Internet Inc.
-34665,381,PIN Datacenter
-15570,381,PACKETFABRIC (UK) LTD
-10620,380,Telmex Colombia S.A.
-62907,380,ZSCALER INC.
-42841,380,ANTIK Telecom
-44489,380,STARNET s.r.o.
-4230,379,Claro
-28840,377,PJSC 'TATTELECOM'
-43754,377,Asiatech
-49770,377,Internetport Sweden AB
-213250,376,Dominic Scholz trading as ITP-Solutions GmbH & Co. KG
-21497,376,Vodafone Ukraine
-12668,376,MiraLogic Telecommunication Systems
-199064,376,QWANT
-18126,375,Chubu Telecommunications Co.Inc. (ctc)
-9930,374,TIME DotCom Berhad
-17762,374,Tata Teleservices (Maharastra)
-204287,372,HostRoyale Technologies Pvt Ltd
-135139,372,Skylink Fibernet Private Limited
-43366,371,OSSO
-5466,370,eircom
-3216,370,VimpelCom
-401401,368,UNREDACTED-NOISENET
-198953,367,Proton66 OOO
-212219,367,Hosting Dunyam
-200845,366,Avatel Telecom
-136958,366,China Unicom Guangdong IP network
-6849,365,Ukrtelecom
-36692,365,Cisco Umbrella
-29580,364,A1 Bulgaria AS29580
-37457,363,Telkom Internet
-27947,362,Telconet Ecuador
-12271,362,Charter Communications Inc
-30823,362,aurologic GmbH
-41281,361,KeFF Networks
-24651,361,Balticom
-25490,360,PJSC Rostelecom
-45117,359,Ishan Netsol
-47764,358,Mail.Ru Group
-138152,357,YISU CLOUD LTD
-207957,357,SERV.HOST GROUP LTD
-29256,354,INT-PDN-STE-AS
-34762,354,Combell
-55824,353,NKN Core Network
-8376,353,Jordan Data Communications Company LLC
-53356,352,Free Range Cloud Hosting Inc
-263744,352,Udasha S.A.
-44066,352,firstcolo
-12302,351,Vodafone Romania
-147049,348,PacketHub AS147049
-202053,348,UpCloud
-47524,347,TURKSAT
-17995,347,iForte Global Internet
-61138,347,Zappie Host
-58541,347,Qingdao266000
-29208,345,Quantcom
-199218,345,Proton AG
-31252,344,StarNet Moldova
-4800,344,Lintasarta
-49981,343,Worldstream BV
-263500,342,BIGLINE TECNOLOGIA
-207547,342,Svyaztelecom LLC
-9038,341,Umniah Mobile Company
-207023,341,Centrix Web Services LLC
-43766,340,Zain KSA
-36992,340,ETISALAT MISR
-32613,339,iWeb Technologies
-45352,339,IP ServerOne Solutions
-15502,338,Vodafone Ireland
-23956,337,AMBERIT
-136435,337,ELITE COMMUNICATION
-57164,336,ViacheslavFitiunin
-24400,335,Shanghai Mobile Communications Co.Ltd.
-17506,334,ARTERIA Networks Corporation (UCOM)
-15830,334,Equinix as15830
-17501,334,Worldlink Communications
-8717,334,A1 BG EAD
-138997,333,Eons Data
-210413,332,Smart Link Company for Internet Service special company and limited responsibility
-208813,332,Galexis AG
-37153,331,xneelo (Formerly Hetzner SA)
-37693,331,Ooredoo Tunisia
-9105,331,
-216334,331,New Hosting Technologies LLC
-12042,331,Consolidated Communications - North
-327813,330,Web4Africa
-3842,330,RamNode
-135061,329,China Unicom Guangdong IP network
-4804,329,Optus Internet
-1659,329,Taiwan Academic Network(TANet)
-395954,328,Leaseweb USA Inc.
-11351,328,Charter Communications Inc
-58212,328,Dataforest
-2108,327,CARNet
-5430,327,freenet Cityline GmbH
-209,325,Lumen AS209
-26615,325,TIM Celular
-200185,325,Aruba Cloud DE
-15547,324,netplus.ch
-132525,324,HeiLongJiang Mobile Communication Company Limited
-28126,323,Brisanet Servicos de Telecomunicacoes
-15399,322,Wananchi Group
-26210,322,AXS BOLIVIA
-210125,321,PriamNET
-213230,320,Hetzner Online Cloud 2
-204770,320,Cherry Servers US
-48716,319,PS Internet Company Network
-201670,319,Infotech-Grup SRL
-27651,318,entel MPLS
-55163,317,LinkedIn Corporation
-4685,316,ASAHI Net
-42337,316,Respina Networks & Beyond PJSC
-29695,315,Lyse Tele AS
-206728,314,Media Land LLC
-5378,314,Vodafone UK
-6713,313,MAROC TELECOM
-29244,313,CETIN Bulgaria AS29244
-56005,313,Zhengzhou Fastidc Technology Co.Ltd.
-12716,313,A1 Bulgaria AS12716
-8496,312,Optibit
-50979,312,GREEN FLOID LLC
-30475,312,Handy Networks LLC
-15958,312,CETIN Ltd. Belgrade
-21056,312,Vianova
-46573,312,LayerHost
-33363,312,Charter Communications (33363)
-8781,311,Ooredoo Qatar
-31115,311,Intred SpA
-62838,311,Reprise Hosting
-12552,310,GlobalConnect AS12552
-43529,310,Vidanet Cabletelevision Provider
-9981,310,Saero Network Service LTD
-133774,309,Fuzhou
-36666,309,GloboTech Communications
-25144,308,'Telekomunikacije Republike Srpske' akcionarsko drustvo Banja Luka
-135161,308,GMO Thailand
-140389,308,Dewa Bisnis Digital
-12991,308,Amt der Ooe. Landesregierung
-6866,306,CYTA
-31213,306,PJSC MegaFon
-203576,305,Onur Ekren
-17465,304,Asianet Satellite Communications Ltd
-9902,304,NEOCOMISP LIMITED
-2200,302,RENATER
-136190,301,JINHUA ZHEJIANG Province P.R.China.
-12252,301,CLARO PERU
-204548,300,Kamatera INC Germany ASN
-42908,299,Nordic Telecom
-21246,298,Ipko Telecommunication
-16223,298,Columbus AS16223
-216312,297,Gezim Cerri
-270438,297,GBNET
+18002,465,World Phone Internet Services
+399296,465,Rackdog LLC
+52565,465,EDGAR RODRIGUES ROMAO FILHO
+28006,463,CNT EP
+25227,458,Avantel Moscow
+15525,458,MEO EMPRESAS
+329206,458,Rackzar
+13046,457,ISKON INTERNET
+55293,457,A2 Hosting Inc.
+35807,457,SkyNet SPB
+21069,457,METANET AG
+41281,454,KeFF Networks
+7941,454,Internet Archive
+2108,451,CARNet
+211860,451,
+9873,450,LAOTELECOM
+395954,450,Leaseweb USA Inc.
+30848,450,TWT SpA
+28787,449,Baku Telephone Communication LLC
+150008,449,Pioneer Elabs Ltd.
+12991,449,Amt der Ooe. Landesregierung
+55824,448,NKN Core Network

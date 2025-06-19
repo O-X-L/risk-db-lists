@@ -70,12 +70,14 @@ ASN,Organization
 13645,365 Data Centers (Host.net)
 13737,INCX Global LLC
 13768,Aptum Technologies
+13830,PureVoltage Hosting (Nexril)
 14061,DigitalOcean
 14315,1GServers
 14576,King Servers
 14586,Nuclearfallout Enterprises ASN 14586
 14618,Amazon AES
 14670,hosting.com USE1
+14713,Hosted Backbone
 14956,RouterHosting LLC
 14987,Rethem Hosting LLC
 15169,Google LLC
@@ -93,6 +95,7 @@ ASN,Organization
 17561,LARUS Limited
 17621,China Unicom Shanghai Network
 17762,Tata Teleservices (Maharastra)
+17881,Inet Hosting Inc.
 18229,CtrlS Datacenters
 18345,Servers Australia Customers
 18501,CyberCloud Professionals LLC
@@ -131,9 +134,11 @@ ASN,Organization
 22612,Namecheap
 22772,Login
 23033,Wowrack.com
+23273,HostPapa
 23352,Deft.com
 23470,ReliableSite.Net
 23576,NAVER
+23881,UDomain Web Hosting Company Limited
 24429,Alibaba Cloud CDN
 24586,Intermax Cloudsourcing B.V.
 24785,Joint Transit
@@ -150,6 +155,7 @@ ASN,Organization
 25577,CloudCoCo Connect
 25697,UpCloud USA
 25780,HugeServer Networks LLC
+25960,PropelCLOUD
 26277,ServerPoint.com
 26347,DreamHost
 26356,CRUSOE ENERGY SYSTEMS LLC
@@ -178,6 +184,7 @@ ASN,Organization
 29802,Hivelocity LLC
 30058,FDCServers.Net
 30447,Hostopia a HostPapa Inc. company [USA]
+30455,HostVenom
 30456,Cosmic Global
 30633,LeaseWeb USA / WDC-01
 30823,aurologic GmbH
@@ -198,12 +205,15 @@ ASN,Organization
 32751,Nuclearfallout Enterprises Inc.
 32780,Hosting Services Inc
 33028,VEXXHOST Inc.
+33070,Rackspace Hosting
 33182,HostDime.com Inc
 33335,Heaviside Hosting LLC
 33724,Biznesshosting Inc DBA VOLICO
+33930,Cloud Temple
 33970,Open Hosting
 34011,Host Europe GmbH
 34081,Server24
+34499,BlackBox Hosting Ltd
 34534,Harmony Hosting
 34606,BBBell
 34665,PIN Datacenter
@@ -223,6 +233,7 @@ ASN,Organization
 35830,Fast Servers (Pty) Ltd
 36114,VegasNAP LLC
 36183,Akamai Technologies Inc.
+36218,hosting.com CAN1
 36231,Tempest Hosting LLC
 36321,Castle Global Inc.
 36352,ColoCrossing
@@ -239,6 +250,7 @@ ASN,Organization
 37907,DigiRock Inc.
 37963,Alibaba (China)
 38060,BIX Indonesia Route Servers
+38107,CDNetworks
 38283,CHINANET SiChuan Telecom Internet Data Center
 38365,Baidu Netcom Science and Technology Co. Ltd.
 38513,Cloudeka
@@ -251,6 +263,7 @@ ASN,Organization
 39364,
 39486,HostRoyale Technologies Pvt Ltd
 39519,WIIT AG - Enterprise & Dialup
+39566,Smarthost
 39572,ADVANCED HOSTING
 39615,Mevershosting.nl
 39647,Redhosting
@@ -268,6 +281,7 @@ ASN,Organization
 40861,Paradise Networks
 41012,The Cloud Networks
 41281,KeFF Networks
+41412,WIIT (formerly Mivitec GmbH)
 41436,Kamatera EU
 41562,Host4all Sarl
 41564,Packet Exchange AS41564
@@ -276,6 +290,7 @@ ASN,Organization
 41635,LIVEHOSTING DATACENTER SRL
 41828,Telemach Slovenija d.o.o.
 41993,Cloud Center Finland Oy
+42263,WIIT Cloud&Edge
 42390,The Cloud Networks Germany
 42473,Anexia
 42567,MojoHost B.V.
@@ -306,10 +321,13 @@ ASN,Organization
 44716,d-hosting
 44788,Criteo Europe
 44812,IP SERVER LLC
+44820,Denis Pavlovich Semenyuk
 44901,BelCloud Ltd.
 45090,Tencent-CN
 45102,Alibaba
+45179,SiteHost
 45352,IP ServerOne Solutions
+45382,EhostICT
 45671,Servers Australia AS45671
 45753,Simcentric Solutions Limited
 45903,CMC Telecom
@@ -397,6 +415,7 @@ ASN,Organization
 52030,Server Plan
 52048,SIA RixHost
 52053,REDHEBERG SAS
+52063,TTP Cloud Group Ltd
 52236,G2K Hosting - Datacenter
 52284,Panamaserver.com
 52335,Colombia Hosting
@@ -410,6 +429,7 @@ ASN,Organization
 54113,Fastly Inc.
 54142,White Cloud Communications US LLC
 54290,Hostwinds
+54527,Astute Hosting
 54538,PAN0001
 54555,Host Duplex LLC
 54641,InMotion Hosting (IAD)
@@ -439,6 +459,7 @@ ASN,Organization
 57578,Misaka Network Inc. (CIS)
 57624,Beeks NY
 57752,NORMHOST
+57814,Cloud9
 57844,SPDNet Telekomunikasyon
 57858,Angelnet Limited
 58065,Packet Exchange
@@ -461,6 +482,7 @@ ASN,Organization
 59642,Cherry Servers NL
 59684,Hoster kg Ltd.
 59711,HZ-NL
+60064,HOSTPALACE
 60068,CDN77
 60117,Host Sailor Ltd
 60223,Netiface
@@ -480,7 +502,9 @@ ASN,Organization
 61207,Hostek AB
 61272,Informacines sistemos ir technologijos UAB
 61317,Hivelocity Inc. fka Digital Energy Technologies Limited (Global)
+61365,Global Cloud Ltd
 61424,eServer s.r.o.
+61493,InterBS S.R.L. (BAEHOST)
 62000,SERVERD
 62005,BlueVPS
 62082,Hostland LTD
@@ -534,6 +558,7 @@ ASN,Organization
 133744,Better Cloud Limited
 133752,Leaseweb Hong Kong
 133774,Fuzhou
+133993,Digital Cloud Technologies
 134094,Serverfield
 134340,Cloudsky Superfast Broadband & Services
 134351,Leaseweb Japan
@@ -555,6 +580,7 @@ ASN,Organization
 135566,Thailand Government Data Center and Cloud service (TGDCC)
 135629,Ningxia West Cloud Data Technology Co.Ltd.
 135682,Advika Web Developments Hosting Pvt Ltd
+135691,cloudlasers broadband
 135822,Ovi Hosting Pvt Ltd
 135905,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 135918,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
@@ -569,13 +595,16 @@ ASN,Organization
 136787,PacketHub S.A.
 136897,Enjoyvc Cloud Group
 136907,Huawei Cloud Global
+136988,Leaseweb Australia
 137280,Kingsoft Cloud
 137331,Cloud Teknologi Nusantara
 137409,Global Secure Layer
+137816,Cloud Net Technologies
 137823,Technocore Bangladesh
 138152,YISU CLOUD LTD
 138195,MOACK
 138362,PLEXUS CLOUD
+138545,Zero Cirrus Cloud Computing (Shanghai) Co. Ltd.
 138608,Cloud Host Asia
 138915,Kaopu Cloud HK
 138997,Eons Data
@@ -597,6 +626,7 @@ ASN,Organization
 141039,PacketHub AS141039
 141201,Jabatan Digital Negara (JDN)
 141892,SENGKED.COM
+141947,Loveika Host Nusantara
 141968,Industri Kreatif Digital
 141995,Contabo Asia
 142002,Scloud Pte Ltd
@@ -605,6 +635,7 @@ ASN,Organization
 142403,YISU CLOUD LTD
 146943,Tier 4 Cloud Services
 147049,PacketHub AS147049
+147186,VCCL Cloud Private Limited
 147237,CLOUDMINISTER TECHNOLOGIES PRIVATE LIMITED
 148981,China Telecom
 148993,Diana Host Ltd
@@ -612,11 +643,14 @@ ASN,Organization
 149089,CLOUDFLY CORPORATION
 149118,3S Viet Nam Technology Joint Stock Company
 149364,PT. AwanBit Data Indonesia
+149391,NevaCloud
 149485,MonoCloud
 149573,SERVERWALA CLOUD DATACENTERS PRIVATE LIMITED
 149641,XCLOUD TECHNOLOGY LIMITED
 149651,Better Cloud Limited
+149662,IDNIC-HOSTNETGLOBAL-AS-ID
 149705,PT Wijaya Trimitra Indonesia
+150024,Key Stones Cloud Tech Private Limited
 150315,Virtury Cloud Pakistan
 150393,LAYER WEBHOST (PVT.) LIMITED
 150623,HOSTPAT-AS-IN
@@ -634,6 +668,7 @@ ASN,Organization
 152705,Gcc Cloud Technology Limited
 152933,ZONECLOUD TECHNOLOGY JOINT STOCK COMPANY
 153416,Hoang Dieu Cloud Computing Company Limited
+153531,DATAGEEKS CLOUD IP TECHNOLOGY PRIVATE LIMITED
 196645,HOSTPRO LAB LLC
 197071,active-servers.com
 197352,Tinext SA
@@ -646,6 +681,7 @@ ASN,Organization
 197649,ServersGame
 197715,Serverbike
 197726,Ukrainian Internet Names Center
+197795,ColdHosting
 197902,Hostnet
 197922,Techcrea Solutions
 198089,IP Visie Networking
@@ -679,14 +715,17 @@ ASN,Organization
 200350,Yandex Cloud
 200373,3xK Tech
 200547,MTK S.R.L.
+200636,Hypere
 200651,FlokiNET
 200698,Globalhost d.o.o.
 200719,Miss Hosting AB
 200740,FIRST SERVER LIMITED
 200904,FOXCLOUD LLP
+200960,Soluciones web on line
 200979,Hosting eXperts Switzerland AG
 201106,Spartan Host
 201200,SuperHosting.BG Ltd.
+201217,Radish Network
 201409,HOSTSHIELD LTD
 201446,Soluciones web on line AS201446
 201525,HZ-CA
@@ -700,6 +739,7 @@ ASN,Organization
 201999,Fanavari Serverpars Argham Gostar Company Ltd.
 202015,HZ-US
 202053,UpCloud
+202104,Server-plus LLC
 202293,D-Cloud
 202297,SkylonHost
 202306,HOSTGLOBAL.PLUS
@@ -708,11 +748,13 @@ ASN,Organization
 202448,MVPS
 202656,XServer Europe
 202661,NetPlans Cloud
+202786,Bytesized Hosting B.V.
 202913,CLOUDWIFI SL
 202954,Rapiddot
 202958,LLP 'Kompaniya Hoster.KZ'
 202984,Team Host
 203020,HostRoyale
+203391,ClouDNS
 203446,SMARTNET LIMITED
 203476,Gandi Hosting and Services
 203557,SIA RixHost
@@ -723,6 +765,7 @@ ASN,Organization
 204108,S.U.E. DPR Republic Operator of Networks
 204287,HostRoyale Technologies Pvt Ltd
 204300,D2CLOUD NETWORK SERVICES (PTY) LTD
+204415,NexGen Cloud Ltd
 204641,HOSTGW SRL
 204770,Cherry Servers US
 204800,hosting.com SGP1
@@ -757,6 +800,7 @@ ASN,Organization
 207560,Zubritska Valeriia Nikolaevna
 207569,I-SERVERS LTD
 207590,LocLix
+207718,Ru-hoster
 207728,EUROHOSTER Ltd.
 207758,Hosteur SA
 207957,SERV.HOST GROUP LTD
@@ -779,8 +823,11 @@ ASN,Organization
 209341,hosting.com FRA1
 209605,UAB Host Baltic
 209723,EXPERT NETCLOUD LLP
+209805,SBCLOUD LLC
+210110,Kvmcloud Network CO. LIMITED
 210250,WPX
 210329,Kamatera INC UK
+210388,Hayal Host Internet Ve Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi
 210488,Hyocloud Limited
 210538,
 210558,1337 Services GmbH
@@ -788,6 +835,7 @@ ASN,Organization
 210579,Rackhost Informatikai
 210630,Internet Speech & Privacy LLC
 210644,Aéza
+210656,Yandex.Cloud LLC
 210767,Link Host Ltd.
 210848,Telkom Internet LTD
 211138,PRIVATEHOSTING-NET
@@ -797,9 +845,11 @@ ASN,Organization
 211607,Securitytrails LLC
 211748,ServerFIX B.V.
 211804,Ozan Yildiz trading as Sistemdc webhosting and server services
+211826,ISTQSERVERS
 211857,NSHOST SRL
 211895,Serverius Holding B.V.
 212027,PebbleHost
+212174,Jola Cloud Solutions Ltd
 212219,Hosting Dunyam
 212238,Datacamp Limited
 212271,C1V hosting
@@ -812,6 +862,7 @@ ASN,Organization
 212853,MB Redfox Cloud
 213035,Serverion
 213122,Hyonix (Legacy)
+213183,hosting.com LUX1
 213200,Ferdinand Zink trading as Tube-Hosting
 213220,Delta Ltd
 213230,Hetzner Online Cloud 2
@@ -819,6 +870,7 @@ ASN,Organization
 213291,NebiusCloud
 213314,WallCloud GmbH
 213354,INTERNATIONAL HOSTING SOLUTIONS LLP
+213394,Clever Cloud SAS
 213633,Hosting Minecraft
 213683,Host.AL
 213693,IDPerformance idhosting
@@ -828,11 +880,13 @@ ASN,Organization
 213896,Cherry Servers DE
 213941,NVHCloud
 214036,Ultahost Inc.
+214043,Cloudfira
 214062,ITITAN HOSTING SOLUTIONS SRL
 214079,LENDNODES
 214138,Host Zentrum
 214159,Cherry Servers SE
 214169,Cloudfire s.r.l.
+214174,HOSTDATOS BUSINESS SERVICES PRIVATE LIMITED
 214209,Internet Magnate (Pty) Ltd
 214238,HOST TELECOM LTD
 214295,SKYNET NETWORK LTD
@@ -849,6 +903,7 @@ ASN,Organization
 214738,WEHOST LLC
 214762,MATHOST
 214808,DUCKY CLOUD TECHNOLOGIES LIMITED
+214834,Rekade Networks
 214918,ESAGAMES HOSTING SHIELD S.R.L.
 214927,PSB HOSTING LTD
 214940,KPROHOST LLC
@@ -890,6 +945,7 @@ ASN,Organization
 216221,XeniaHosting
 216246,Aéza (RU)
 216334,New Hosting Technologies LLC
+216383,ONLINE SERVER TELEKOMUNIKASYON LIMITED SIRKETI
 216395,hostbet
 216444,Cherry Servers SG
 262448,DIALHOST INTERNET
@@ -902,13 +958,17 @@ ASN,Organization
 264649,NUT HOST SRL
 265645,HOSTINGFOREX S.A.
 265919,BB Host Datacenter
+266795,EMPIREHOST LIMITADA
 266855,ECOHOSTING INTERNET
 266878,BESTHOST
 266886,HOSTING EN LA WEB
+267637,Tecnoserver Telecom EIRELI
 267784,Flyservers S.A.
+268208,2CLOUD INFORMATICA LTDA EPP
 268581,QNAX Data Center
 269070,Hostzone Tecnologia LTDA
 269353,VOLAREHOST INTERNET LTDA ME
+270251,ASN270251
 270353,Tyna Host - Datacenter no Brasil
 270824,ENX Services
 272119,GTITHOST C.A
@@ -919,10 +979,14 @@ ASN,Organization
 328329,CLOUD-ARPCE
 328364,Host Africa
 328426,Zonke Wifi
+328631,TWC Hosting
 328853,OXAHOST
+328884,BLUE ITS BUSINESS SOLUTIONS (PTY) LTD
+329166,Absolute Hosting
 329184,Host Africa DPA
 329270,EGATE CLOUD SERVICES LDA
 329278,Truehost Cloud Limited
+329394,OneCloud LDA
 329403,Vhost Limited
 393336,Catalyst Host LLC
 393960,HOST4GEEKS-LLC
@@ -953,6 +1017,8 @@ ASN,Organization
 398705,Censys Inc.
 398722,Censys Inc.
 398779,Ace Host LLC
+398826,OLink Cloud
+398991,x99.cloud AS398991
 399077,Tcloudnet
 399244,AME Hosting LLC
 399471,AS-SERVERION
@@ -960,6 +1026,7 @@ ASN,Organization
 399820,Atomic Networks LLC
 399979,49.3 Networking LLC
 400175,Microtronix ESolutions LLC
+400402,Hosting Bot
 400587,Ryamer
 400596,ELIXIOR-CLOUD
 400618,PSC
@@ -970,3 +1037,5 @@ ASN,Organization
 401116,
 401120,
 401172,Inspici LLC
+401304,PropelCLOUD
+401404,ViperHost LLC
