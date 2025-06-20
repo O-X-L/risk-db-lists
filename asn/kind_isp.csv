@@ -379,7 +379,6 @@ ASN,Organization
 15468,PJSC Rostelecom
 15557,SFR Group
 15595,Skyline Telecom
-15598,NorthC Germany
 15599,Avantel Neftejugansk
 15659,NextGenTel
 15672,OOO Telecom TZ
@@ -752,7 +751,6 @@ ASN,Organization
 28264,ADLLink Telecom
 28267,IMAXXTELECOM
 28270,Multiplay Telecom
-28271,DataCorpore Telecom & Datacenter
 28277,VMAX
 28279,Telgo Telecom
 28283,Adyl Telecom - AS28283
@@ -1557,6 +1555,7 @@ ASN,Organization
 51071,SibTeleCom Ltd.
 51121,Foboss-Telecom LLC
 51155,Citylink Telecom
+51162,JSC Kazteleport - subsidiary of Halyk Bank of Kazakhstan
 51178,Avantel Saint-Petersburg
 51184,fonira Telekom
 51188,Telia Cygate Oy
@@ -1706,7 +1705,6 @@ ASN,Organization
 52907,EMPRESA MINEIRA DE TELECOMUNICAÇOES
 52917,SPACE NET SERV. DE TELECOMUNICAÇÃO EM INF. LTDA-ME
 52923,Netcar Internet Telec Info e Tecnologia LTDA
-52925,Ascenty DataCenters e Telecom
 52927,IBI TELECOM  AS52927
 52931,Netvip Telecomunicações Ltda
 52932,Tecnowireless Telecom
@@ -2259,7 +2257,6 @@ ASN,Organization
 138221,Ynet Telecom Solutions
 138257,Gigatel Infocomm Pvt Ltd
 138384,Rakuten Mobile
-138407,The Internet Data Center of Guizhou Mobile Communication Company Limited
 138734,B FIBERNET
 138751,Anodic Telenetwork Private Limited
 138824,Gemilang Jaya Elektrindo
@@ -2268,7 +2265,6 @@ ASN,Organization
 138955,Brisktel Private Limited
 138958,Tandag Electric & Telephone Company
 139034,Sattelite Plus Incorporated
-139080,The Internet Data Center of Sichuan Mobile Communication Company Limited
 139204,RACITELCOM Inc.
 139226,Brother Telecom (Cambodia) co. Ltd.
 139325,IQ-TEL
@@ -2514,7 +2510,6 @@ ASN,Organization
 201328,Telewizja Kablowa Kolobrzeg Agencja Uslugowo - Reklamowa sp. z o.o.
 201337,AVATEL TELECOM SA
 201427,M2M Uslugi Teleinformatyczne
-201449,Digital Absolut Business - Servidor Virtualizacao Cluster Datacenters e Telecomunicacoes Lda
 201466,Xarxes de Telecomunicacions Alternatives SL
 201540,Pishgaman Toseeh Fanavari Etelaat Va Ertebatat Jonoub (Joint Stock Company)
 201691,Fannavari Etelaate Samane Kavoshgar Ide Ltd.
@@ -3619,7 +3614,7 @@ ASN,Organization
 267070,Fibranet Juiz de Fora Serviços de Telecomunicações
 267073,L A P JUNIOR EIRELI - ME
 267076,REDE MINEIRA DE TELECOMUNICAÇÕES LTDA
-267077,JACKSON DE S. SILVA - ME
+267077,L DE S SILVA INFORNET SERVICOS TELECOM
 267091,Veloce Telecom
 267096,HELLO WEB TELECOMUNICACOES E SERVICOS
 267106,NETFIBRA TELECOMUNICACOES
@@ -4346,6 +4341,7 @@ ASN,Organization
 271484,NORT TELECOM
 271486,AP SOLUCOES EM NETWORK E INFORMATICA
 271488,REALDATA TELECOMUNICAÇÕES E TECNOLOGIA LTDA
+271500,LINKGOLD TELECOMUNICACOES
 271502,XyberNet Telecom
 271513,INTERTOP - TELECOMUNICAÇÕES LTDA
 271514,WEB ONLINE TELECOMUNICACOES EIRELI ME

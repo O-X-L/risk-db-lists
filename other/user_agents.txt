@@ -28837,6 +28837,7 @@ curl/7.76.1
 curl/7.88.1
 curl/8.10.0
 curl/8.3.0
+curl/8.4.0
 curl/8.6.0
 curl7.17.1 mips-unknown-linux-gnu libcurl7.17.
 curl7.19.7 x86_64-redhat-linux-gnu libcurl7.19
