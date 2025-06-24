@@ -826,6 +826,7 @@ Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome
 Mozilla/5.0 X11; Linux x86_64; rv:109.0 Gecko/20100101 Firefox/115.0
 Mozilla/5.0 X11; Linux x86_64; rv:121.0 Gecko/20100101 Firefox/121.0
 Mozilla/5.0 X11; Linux x86_64; rv:128.0 Gecko/20100101 Firefox/128.0
+Mozilla/5.0 X11; Linux x86_64; rv:131.0 Gecko/20100101 Firefox/131.0
 Mozilla/5.0 X11; Linux x86_64; rv:136.0 Gecko/20100101 Firefox/136.0
 Mozilla/5.0 X11; Linux x86_64; rv:138.0 Gecko/20100101 Firefox/138.0
 Mozilla/5.0 X11; Linux x86_64; rv:140.0 Gecko/20100101 Firefox/140.0
