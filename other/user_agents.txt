@@ -311,6 +311,7 @@ Custom-AsyncHttpClient45722
 Custom-AsyncHttpClient9808
 CustomAsyncHttpClient
 DESAY TS10081.0 Release07.12.2013 Mozilla5.0 Linux U Android 4.0.3 zh-cn AppleWebKit534.30 KHTML lik
+Dalvik/2.1.0 Linux; U; Android 9.0; ZTE BA520 Build/MRA58K
 Dalvik1.6.0 Linux U Android 4.0.4 opensign_x8
 Dalvik1.6.0 Linux U Android 4.0.4 opensign_x86 BuildIMM76L
 Dalvik1.6.0 Linux U Android 4.1.2 GT-N8010 Bu
@@ -673,6 +674,7 @@ Mozilla 5.0 compatible MSIE 7.0 Windows NT 5.1
 Mozilla 5.0 compatible MSIE 9.0 Windows NT 6.1
 Mozilla 5.0 compatible SemrushBot7bl +http
 Mozilla UACanary12345238211script src=https
+Mozilla/4.1 compatible; MSIE 5.0; Symbian OS; Nokia 6600;452 Opera 6.20 [enUS]
 Mozilla/5.0
 Mozilla/5.0 Android 15; Mobile; rv:138.0 Gecko/138.0 Firefox/138.0
 Mozilla/5.0 Android 4.4.2; Mobile; rv:56.0 Gecko/56.0 Firefox/56.0
@@ -692,6 +694,7 @@ Mozilla/5.0 Linux; Android 10; K AppleWebKit/537.36 KHTML like Gecko Chrome/131.
 Mozilla/5.0 Linux; Android 4.0.4; BNTV400 Build/IMM76L AppleWebKit/537.31 KHTML like Gecko Chrome/26.0.1410.58 Safari/537.31
 Mozilla/5.0 Linux; Android 6.0.1; Nexus 5X Build/MMB29P AppleWebKit/537.36 KHTML like Gecko Chrome/112.0.0.0 Mobile Safari/537.36 compatible; bingbot/
 Mozilla/5.0 Linux; Android 6.0.1; Nexus 5X Build/MMB29P AppleWebKit/537.36 KHTML like Gecko Chrome/136.0.7103.113 Mobile Safari/537.36 compatible; Goo
+Mozilla/5.0 Linux; Android 6.0.1; Nexus 5X Build/MMB29P AppleWebKit/537.36 KHTML like Gecko Chrome/137.0.7151.103 Mobile Safari/537.36 compatible; Goo
 Mozilla/5.0 Linux; Android 8.1.0; MI 5X Build/OPM1.171019.019 AppleWebKit/537.36 KHTML like Gecko Chrome/67.0.3396.87 Mobile Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15 AppleWebKit/605.1.15 KHTML like Gecko Version/17.5 Safari/605.1.15
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:125.0 Gecko/20100101 Firefox/125.0
@@ -735,6 +738,7 @@ Mozilla/5.0 Windows NT 10.0; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/62
 Mozilla/5.0 Windows NT 10.0; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0 like Gecko
 Mozilla/5.0 Windows NT 10.0; WOW64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.95
+Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/100.0.4896.127 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/117.0.5938.132 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/131.0.0.0 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/133.0.0.0 Safari/537.36
