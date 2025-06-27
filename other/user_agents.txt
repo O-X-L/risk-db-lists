@@ -245,6 +245,7 @@ Apache2.4.34 Ubuntu OpenSSL1.1.1 internal dummy connect
 Apache2.4.34 Ubuntu OpenSSL1.1.1 internal dummy connection
 ApacheHttpClient/4.5.9 Java/1.8.0_452
 ApacheHttpClient/5.1.4 Java/11.0.18
+ApacheHttpClient/5.4 Java/11.0.26
 AppleWebKit534.46 KHTMLlike Gecko Version5.1 
 AppleWebKit534.46 KHTMLlike Gecko Version5.1 Mobile Safari10600.6.3
 AppleWebKit534.46 KHTMLlike Gecko Version5.1 Mobile Safari10600.6.3136190JINHUA
