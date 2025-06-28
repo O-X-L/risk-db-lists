@@ -800,6 +800,7 @@ Mozilla/5.0 Windows NT 6.1; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrom
 Mozilla/5.0 Windows NT 6.1; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/79.0.3945.130 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/80.0.3987.149 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; Win64; x64; rv:75.0 Gecko/20100101 Firefox/75.0
+Mozilla/5.0 Windows NT 6.1; rv:32.0 Gecko/20100101 Firefox/32.0
 Mozilla/5.0 Windows NT 6.3; Win64; x64; rv:73.0 Gecko/20100101 Firefox/73.0
 Mozilla/5.0 X11; Fedora; Linux x86_64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 X11; Linux i686; rv:79.0 Gecko/20100101 Firefox/79.0
@@ -821,6 +822,7 @@ Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/127.0.6533.119 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/127.0.6533.88 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/133.0.0.0 Safari/537.36
+Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/134.0.6998.35 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/135.0.0.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/136.0.0.0 Safari/537.36
