@@ -427,6 +427,7 @@ Go-http-client2.0132203
 Go-http-client2.023724
 Go-http-client2.044382
 Go-http-client2.045102
+Gohttpclient
 Gohttpclient/1.1
 Gohttpclient/2.0
 Google Chrome 5.0 Linux U Android-4.0.3 en-us
@@ -784,6 +785,7 @@ Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:84.0 Gecko/20100101 Firefox/84.0
 Mozilla/5.0 Windows NT 10.0; rv:78.0 Gecko/20100101 Firefox/78.0
 Mozilla/5.0 Windows NT 5.1; U; rv:5.0 Gecko/20100101 Firefox/5.0
 Mozilla/5.0 Windows NT 5.2; rv:44.0 Gecko/20100101 Firefox/44.0
+Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/44.0.2403.89 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/55.0.3176.119 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/55.0.433.9 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/56.0.1349.133 Safari/537.36
@@ -827,6 +829,7 @@ Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/135.0.0.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/136.0.0.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/137.0.0.0 Safari/537.36
+Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/68.0.3440.106 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/78.0.3904.70 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/81.0.4044.92 Safari/537.36
