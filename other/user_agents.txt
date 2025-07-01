@@ -694,6 +694,7 @@ Mozilla/5.0 Linux x86_64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 Linux; Android 10; K AppleWebKit/537.36 KHTML like Gecko Chrome/114.0.0.0 Mobile Safari/537.36
 Mozilla/5.0 Linux; Android 10; K AppleWebKit/537.36 KHTML like Gecko Chrome/127.0.0.0 Mobile Safari/537.36
 Mozilla/5.0 Linux; Android 10; K AppleWebKit/537.36 KHTML like Gecko Chrome/131.0.0.0 Mobile Safari/537.36
+Mozilla/5.0 Linux; Android 11; V2055A AppleWebKit/537.36 KHTML like Gecko Chrome/91.0.4472.101 Mobile Safari/537.36
 Mozilla/5.0 Linux; Android 4.0.4; BNTV400 Build/IMM76L AppleWebKit/537.31 KHTML like Gecko Chrome/26.0.1410.58 Safari/537.31
 Mozilla/5.0 Linux; Android 6.0.1; Nexus 5X Build/MMB29P AppleWebKit/537.36 KHTML like Gecko Chrome/112.0.0.0 Mobile Safari/537.36 compatible; bingbot/
 Mozilla/5.0 Linux; Android 6.0.1; Nexus 5X Build/MMB29P AppleWebKit/537.36 KHTML like Gecko Chrome/136.0.7103.113 Mobile Safari/537.36 compatible; Goo
@@ -753,6 +754,7 @@ Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chro
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/69.0.3497.100 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/70.0.3538.110 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/70.0.3538.77 Safari/537.36
+Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/74.0.3729.131 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/74.0.3729.157 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/74.0.3729.169 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/75.0.3770.100 Safari/537.36
@@ -773,6 +775,7 @@ Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:128.0 Gecko/20100101 Firefox/128.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:137.0 Gecko/20100101 Firefox/137.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:138.0 Gecko/20100101 Firefox/138.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:139.0 Gecko/20100101 Firefox/139.0
+Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:140.0 Gecko/20100101 Firefox/140.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:66.0 Gecko/20100101 Firefox/66.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:67.0 Gecko/20100101 Firefox/67.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:71.0 Gecko/20100101 Firefox/71.0
@@ -785,6 +788,7 @@ Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:84.0 Gecko/20100101 Firefox/84.0
 Mozilla/5.0 Windows NT 10.0; rv:78.0 Gecko/20100101 Firefox/78.0
 Mozilla/5.0 Windows NT 5.1; U; rv:5.0 Gecko/20100101 Firefox/5.0
+Mozilla/5.0 Windows NT 5.1; rv:32.0 Gecko/20100101 Firefox/32.0
 Mozilla/5.0 Windows NT 5.2; rv:44.0 Gecko/20100101 Firefox/44.0
 Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/44.0.2403.89 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/55.0.3176.119 Safari/537.36
@@ -27455,6 +27459,7 @@ Symfony HttpClientNative
 TUMI8bot-security.txt-scanner-internet-research1.
 TechCrawler1.1 Python +httpsexample.combot_info
 TelegramBot like TwitterBot
+TestCrawler/Nutch1.21SNAPSHOT
 Timpibot0.9 +httpwww.timpi.io
 TurnitinBot httpsturnitin.comrobotcrawlerinf
 TurnitinBot httpsturnitin.comrobotcrawlerinfo.html
