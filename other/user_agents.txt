@@ -243,6 +243,7 @@ Apache-HttpClientUNAVAILABLE java 1.5
 Apache-Smuggler1.0
 Apache2.4.34 Ubuntu OpenSSL1.1.1 internal dummy connect
 Apache2.4.34 Ubuntu OpenSSL1.1.1 internal dummy connection
+ApacheHttpClient/4.5.14 Java/11.0.20.1
 ApacheHttpClient/4.5.9 Java/1.8.0_452
 ApacheHttpClient/5.1.4 Java/11.0.18
 ApacheHttpClient/5.4 Java/11.0.26
@@ -28876,6 +28877,7 @@ cpp-httplib0.15.3
 ctE28091gitE28091scanner0.4
 curl/7.29.0
 curl/7.58.0
+curl/7.74.0
 curl/7.76.1
 curl/7.88.1
 curl/8.1.2
