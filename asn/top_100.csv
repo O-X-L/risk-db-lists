@@ -1,101 +1,101 @@
 ASN,Report count,Organization
-16509,3376070,Amazon.com
-14618,679873,Amazon AES
-398324,622788,Censys
-14061,582062,DigitalOcean
-8075,527518,Microsoft
-396982,494441,Google Cloud
-16276,459980,OVHcloud
-45102,447565,Alibaba
+16509,3376814,Amazon.com
+14618,680034,Amazon AES
+398324,625268,Censys
+14061,583481,DigitalOcean
+8075,529493,Microsoft
+396982,495700,Google Cloud
+16276,460144,OVHcloud
+45102,448105,Alibaba
 13335,366897,Cloudflare
+6939,362114,Hurricane Electric
 136907,362090,Huawei Cloud Global
-6939,360660,Hurricane Electric
-135377,340121,UCloud Information Technology (HK) Limited
-398705,277516,Censys Inc.
-211298,274338,Driftnet Ltd
-213412,222654,
-906,199997,DMIT Cloud Infrastructure
+135377,340529,UCloud Information Technology (HK) Limited
+398705,278421,Censys Inc.
+211298,275291,Driftnet Ltd
+906,228707,DMIT Cloud Infrastructure
+213412,223486,
 36183,190724,Akamai Technologies Inc.
-55960,171094,BJ-GUANGHUAN-AP
-63949,168174,Linode AS63949
-51396,150024,Pfcloud UG
-202425,146548,IP Volume
-24940,145164,Hetzner Online
-9829,143045,National Internet Backbone India
-4134,136814,China Telecom
-204428,124614,SS-Net
-174,113668,Cogent Communications Inc.
-4837,112357,China Unicom
-32934,99781,Meta
-401120,80910,
+55960,171112,BJ-GUANGHUAN-AP
+63949,168477,Linode AS63949
+51396,151229,Pfcloud UG
+202425,147596,IP Volume
+24940,145430,Hetzner Online
+9829,143485,National Internet Backbone India
+4134,136995,China Telecom
+204428,124961,SS-Net
+174,113845,Cogent Communications Inc.
+4837,112486,China Unicom
+32934,99782,Meta
+401120,81078,
+49870,80836,Alsycon AS49870
 6730,80010,Sunrise GmbH
-49870,79674,Alsycon AS49870
-398722,73859,Censys Inc.
-23724,68311,IDC China Telecommunications Corporation
-49581,64654,Tube-Hosting
-135629,61805,Ningxia West Cloud Data Technology Co.Ltd.
-37963,60019,Alibaba (China)
+398722,74202,Censys Inc.
+23724,68328,IDC China Telecommunications Corporation
+49581,64660,Tube-Hosting
+135629,61807,Ningxia West Cloud Data Technology Co.Ltd.
+37963,60166,Alibaba (China)
 200373,51453,3xK Tech
-52053,50802,REDHEBERG SAS
+52053,50809,REDHEBERG SAS
 207812,49921,DM AUTO EOOD
-210848,48671,Telkom Internet LTD
-51167,48577,Contabo
-202306,46046,HOSTGLOBAL.PLUS
-201814,44751,Mevspace
-9009,41881,M247
-20052,40839,ARBOR
+210848,49748,Telkom Internet LTD
+51167,49329,Contabo
+202306,46060,HOSTGLOBAL.PLUS
+201814,44945,Mevspace
+138997,42774,Eons Data
+9009,41933,M247
+20052,40967,ARBOR
 36321,40108,Castle Global Inc.
-132203,39608,Tencent Global
+132203,39670,Tencent Global
 139341,38007,ACE CDN
-138997,37098,Eons Data
-4766,34968,KT Corporation (Korea Telecom)
+60223,35284,Netiface
+4766,35079,KT Corporation (Korea Telecom)
 3320,34826,Deutsche Telekom
-60223,34712,Netiface
-10439,34134,CARI.net - Fiber Alley Data Centers
-47890,34005,UNMANAGED LTD
-51852,33935,Phase Layer Global Networks
-209605,31872,UAB Host Baltic
-58461,30796,CT-HangZhou-IDC
-21859,30374,Zenlayer Inc
+10439,34268,CARI.net - Fiber Alley Data Centers
+47890,34110,UNMANAGED LTD
+51852,33962,Phase Layer Global Networks
+209605,32091,UAB Host Baltic
+58461,30892,CT-HangZhou-IDC
+21859,30389,Zenlayer Inc
 206092,29535,Internet Utilities Europe and Asia Limited
-3462,29224,HiNet
-48090,28259,
-60068,27912,CDN77
-36352,27805,ColoCrossing
-212238,26652,Datacamp Limited
-4,25905,University of Southern California
-48693,25705,Rices Privately owned enterprise
-214943,25432,Railnet LLC
-213438,25138,colocatel-inc
-211680,24946,NSEC - Sistemas Informaticos S.A.
+3462,29342,HiNet
+48090,28417,
+60068,27916,CDN77
+36352,27832,ColoCrossing
+212238,26659,Datacamp Limited
+4,25913,University of Southern California
+48693,25710,Rices Privately owned enterprise
+214943,25525,Railnet LLC
+213438,25208,colocatel-inc
+211680,24989,NSEC - Sistemas Informaticos S.A.
 200391,23892,KREZ 999 EOOD
-38365,23620,Baidu Netcom Science and Technology Co. Ltd.
-215925,23382,VPSVAULT.HOST LTD
+215925,23812,VPSVAULT.HOST LTD
+38365,23632,Baidu Netcom Science and Technology Co. Ltd.
 62563,23146,GTHost Canada
-9808,22167,China Mobile Communications Group Co. Ltd.
+9808,22202,China Mobile Communications Group Co. Ltd.
 134761,22092,CHINANET NINGXIA province ZHONGWEI IDC network
-39832,21941,Opera Software AS
-45899,21851,VNPT
-401116,21787,
-1267,21519,WINDTRE
-20473,21236,The Constant Company
+45899,21977,VNPT
+39832,21943,Opera Software AS
+401116,21817,
+1267,21520,WINDTRE
+20473,21237,The Constant Company
+7713,20600,Telekomunikasi Indonesia Int (TELIN)
 35916,20514,MultaCOM
-7713,20513,Telekomunikasi Indonesia Int (TELIN)
 55990,20261,Huawei Cloud(China)
+12389,20169,Rostelecom
 3209,20091,Vodafone Germany
-12389,20082,Rostelecom
-31898,19988,Oracle Cloud Infrastructure
-12145,19603,Colorado State University
-212512,19598,Kayizer Bilişim Hizmetleri
-12876,19518,Scaleway
+31898,20003,Oracle Cloud Infrastructure
+212512,19729,Kayizer Bilişim Hizmetleri
+12145,19610,Colorado State University
+12876,19545,Scaleway
+211607,19377,Securitytrails LLC
 206216,19348,Advin Servers
-211607,19307,Securitytrails LLC
-5483,19216,Magyar Telekom plc.
-45090,19213,Tencent-CN
+45090,19225,Tencent-CN
+5483,19217,Magyar Telekom plc.
 8447,18865,A1 Telekom Austria AG
-15169,18665,Google LLC
-8048,18621,CANTV
+8048,18842,CANTV
+15169,18705,Google LLC
 209160,18571,Miti 2000 EOOD
 400161,18437,Academy for Internet Research Limited Liability Company
-135918,18180,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+135918,18185,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
 8551,17303,Bezeq International

@@ -243,6 +243,7 @@ Apache-HttpClientUNAVAILABLE java 1.5
 Apache-Smuggler1.0
 Apache2.4.34 Ubuntu OpenSSL1.1.1 internal dummy connect
 Apache2.4.34 Ubuntu OpenSSL1.1.1 internal dummy connection
+ApacheHttpClient/4.5.14 Java/11.0.11
 ApacheHttpClient/4.5.14 Java/11.0.20.1
 ApacheHttpClient/4.5.9 Java/1.8.0_452
 ApacheHttpClient/5.1.4 Java/11.0.18
@@ -791,6 +792,7 @@ Mozilla/5.0 Windows NT 10.0; rv:78.0 Gecko/20100101 Firefox/78.0
 Mozilla/5.0 Windows NT 5.1; U; rv:5.0 Gecko/20100101 Firefox/5.0
 Mozilla/5.0 Windows NT 5.1; rv:32.0 Gecko/20100101 Firefox/32.0
 Mozilla/5.0 Windows NT 5.2; rv:44.0 Gecko/20100101 Firefox/44.0
+Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/40.0.2214.91 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/44.0.2403.89 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/55.0.3176.119 Safari/537.36
 Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/55.0.433.9 Safari/537.36
@@ -860,6 +862,7 @@ Mozilla/5.0 X11; Ubuntu; Linux i686; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:134.0 Gecko/20100101 Firefox/134.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:135.0 Gecko/20100101 Firefox/135.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:139.0 Gecko/20100101 Firefox/139.0
+Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:140.0 Gecko/20100101 Firefox/140.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:84.0 Gecko/20100101 Firefox/84.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:89.0 Gecko/20100101 Firefox/89.0
@@ -28820,6 +28823,7 @@ app_process32 unknown version curl7.81.0
 app_process64 unknown version curl7.88.1
 asusrouter--
 axios/0.24.0
+axios/1.10.0
 axios/1.7.2
 axios/1.9.0
 axios0.17.1
