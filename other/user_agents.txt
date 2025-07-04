@@ -686,6 +686,7 @@ Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; Amazonbot/0.1; +htt
 Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; ChatGPTUser/1.0; +https://openai.com/bot
 Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com
 Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot
+Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; GoogleOther Chrome/137.0.7151.119 Safari/537.36
 Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot
 Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; PerplexityUser/1.0; +https://perplexity.ai/perplexityuser
 Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm Chrome/116.0.1938.76 Safari/537.36
@@ -827,6 +828,7 @@ Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/62.0.23
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/81.0.4044.129 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.95
+Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/111.0.5555.0 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/111.0.5563.19 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/112.0.5615.49 Safari/537.36
 Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome/123.0.6312.86 Safari/537.36
@@ -866,6 +868,7 @@ Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:140.0 Gecko/20100101 Firefox/140.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:84.0 Gecko/20100101 Firefox/84.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:89.0 Gecko/20100101 Firefox/89.0
+Mozilla/5.0 compatible
 Mozilla/5.0 compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/
 Mozilla/5.0 compatible; BLEXBot/1.0; +https://help.seranking.com/en/blexcrawler
 Mozilla/5.0 compatible; CensysInspect/1.1; +https://about.censys.io/
@@ -28825,6 +28828,7 @@ asusrouter--
 axios/0.24.0
 axios/1.10.0
 axios/1.7.2
+axios/1.7.9
 axios/1.9.0
 axios0.17.1
 axios0.19.2
@@ -28881,6 +28885,7 @@ cpp-httplib0.15.3
 ctE28091gitE28091scanner0.4
 curl/7.29.0
 curl/7.58.0
+curl/7.65.3
 curl/7.74.0
 curl/7.76.1
 curl/7.88.1
