@@ -1,0 +1,682 @@
+ASN,Organization
+2,University of Delaware
+3,Massachusetts Institute of Technology
+4,University of Southern California - AS4
+8,Rice University
+9,Carnegie Mellon University
+12,New York University
+14,Columbia University
+17,PURDUE
+18,UTEXAS
+20,University of Rochester
+25,UCB
+26,Cornell
+27,UMDNET
+31,California Institute of Technology
+32,Stanford University
+34,University of Delaware
+38,UIUC
+46,Rutgers University
+47,University of Southern California - AS47
+52,University of California Los Angeles
+55,UPENN
+59,University of Wisconsin - Madison
+73,University of Washington
+87,Indiana University
+88,Princeton University
+98,The Rockefeller University
+103,Northwestern University
+104,University of Colorado at Boulder
+111,Boston University
+131,University of California Santa Barbara
+137,GARR
+156,NORTHEASTERN-GW-AS
+159,Ohio State University
+160,University of Chicago
+167,Wesleyan University
+194,University Corporation for Atmospheric Research
+205,Montclair State University
+217,UMN System Network
+231,Michigan State University
+239,University of Toronto
+299,UCI
+302,Baylor College of Medicine CHAT
+378,Israel InterUniversity Computation Center
+553,BelWü
+557,University of Maine System
+679,Technische Universitat Wien
+680,DFN Deutsches Forschungsnetz e.V.
+760,Vienna University Computer Center
+786,Janet
+802,York University
+823,University of Western Ontario
+1109,Universitaet Salzburg
+1110,University of Innsbruck
+1111,Universitaet Klagenfurt
+1113,Technische Universitaet Graz
+1114,Universitaet Graz
+1117,Universitaet fur Bodenkultur Wien
+1133,University Twente
+1201,Old Dominion University
+1205,University Linz
+1224,National Center for Supercomputing Applications
+1249,University of Massachusetts - AMHERST
+1252,University of Nebraska Medical Center
+1307,Renater
+1312,Virginia Polytechnic Institute and State Univ.
+1638,Mott Community College - Main Campus
+1659,Taiwan Academic Network(TANet)
+1706,The University of Arizona
+1736,Marquette University
+1742,Harvard University
+1776,WU (Wirtschaftsuniversitaet Wien) - Vienna University of Economics and Business
+1851,The University of Adelaide
+1853,ACOnet
+1926,Tampere University Foundation
+1967,Middle East Technical University
+1970,Texas A&M University
+2025,University of Toledo
+2055,Louisiana State University
+2108,CARNet
+2269,Renater
+2496,University of Kansas
+2501,UTnet
+2508,kyushu-u
+2547,Budapest University of Technology and Economics
+2552,WUSTL
+2561,Egyptian Universities Network (EUN)
+2592,Ege University
+2637,Georgia Institute of Technology
+2698,Iowa State University
+2833,Umea University
+2834,Uppsala University
+2841,Chalmers University of Technology
+2846,Lund University
+2850,University College Dublin
+2857,Johannes Gutenberg-Universitaet Mainz
+2900,Arizona Tri University Network
+3128,University of Wisconsin System
+3208,Algerian Academic Research Network
+3255,UARNet
+3268,University of Cyprus
+3363,Hong Kong University of Science and Technology
+3390,University of Missouri - Kansas City
+3450,University of Tennessee Knoxville
+3452,University of Alabama at Birmingham
+3479,PeachNet AS3479
+3480,PeachNet AS3480
+3582,University of Oregon
+3586,University of the West Indies
+3603,University de Los Andes
+3659,Claremont University Consortium
+3661,The Chinese University of Hong Kong AS 3661
+3676,University of Iowa
+3681,Florida International University
+3685,State University of New York at Buffalo
+3777,Haverford College
+3778,Temple University
+3784,Pohang University of Science and Technology
+3794,Texas A&M University
+3807,University of Montana
+3813,Sogang University
+3836,Thai Social/Scientific Academic and Research Network
+3839,Chulalongkorn University
+3935,Eastern Washington University
+3999,Pennsylvania State University
+4130,University of Pittsburgh
+4158,City University of Hong Kong
+4201,Oregon State University
+4274,Assumption University
+4385,Rochester Institute of Technology
+4605,Hong Kong Baptist University
+4616,The Hong Kong Polytechnic University
+4665,Yonsei University
+5379,Univerzitet 'Sv. Kiril i Metodij'
+5421,Sofia University 'St. Kliment Ohridski'
+5468,Yeltsin UrFU Ural Federal University
+5479,University Network in Vilnius
+5489,International Hellenic University
+5520,Universitaet zu Koeln
+5538,Institute of Mathematics and Computer Science of University of Latvia
+5548,Federal State Budget Educational Establishment of Higher Education 'Russian University Of Transport (MIIT)'
+5550,Gdansk University of Technology Academic Computer Center TASK
+5627,Shahrood University of Technology
+5653,University of California San Francisco
+5692,Universidad Nacional de La Plata (UNLP)
+5721,National Defense University
+5723,Johns Hopkins University
+5739,UCSC
+5786,University of Puerto Rico
+6059,University of Maryland
+6106,University of California Riverside
+6192,University of California at Davis
+6200,University of Illinois Chicago
+6356,University of Florida
+6360,University of Hawaii
+6510,Brigham Young University
+6579,Memorial University of Newfoundland
+6867,University of Crete
+6868,Federal State Autonomous Educational Institution of Higher Education 'Bauman Moscow State Technical University'
+6874,Perm National Research Polytechnic University
+7150,Commonwealth University of Pennsylvania
+7276,University of Houston AS7276
+7377,UCSD
+7560,Jeonbuk National University
+7575,AARNet
+7624,jeonju university
+7651,Lingnan University
+7774,ALASKA
+7896,University of Nebraska
+7915,Daytona State College Inc
+7939,University of Central Florida
+8036,University of Tulsa
+8111,Dalhousie University
+8253,Democritus University of Thrace
+8256,Lodz University of Technology
+8267,Academic Computer Centre CYFRONET AGH
+8278,Technical University of Crete
+8286,ZUT ACI Educational AS
+8323,CYFRONET-AS2
+8456,Bogazici University
+8466,Ihsan Dogramaci Bilkent University
+8508,SASK-EDU
+8517,ULAKNET
+8524,The American University in Cairo (AUC)
+8581,University Of Ioannina
+8605,University of Latvia
+8611,Athens University of Economics and Business
+8618,Ionion University
+8643,NATIONAL AND KAPODISTRIAN UNIVERSITY OF ATHENS
+8664,University of Warsaw ICM
+8670,University of Sarajevo
+8790,Federal State Budgetary Educational Institution of Higher Education 'Petrozavodsk State University'
+8890,University of Warsaw
+9088,Dalarna University
+9103,Uniwersytet Zielonogorski
+9112,POZMAN
+9271,Wonkwang University
+9274,Pusan National University
+9317,INHA UNIVERSITY
+9321,Hanyang University
+9411,NontriNet
+9431,The University of Auckland
+9432,University of Canterbury
+9433,Massey University
+9452,Korea University
+9459,Konkuk University
+9464,Prince of Songkla University (Sritrang'NET)
+9475,Walailuk University
+9486,King Mongkut's Institute of Technology Ladkrabang
+9488,Seoul National University
+9523,Mokwon University
+9533,King Mongkut's Institute of Technology North Bangkok
+9546,Ministry of University Affairs
+9551,King Mongkut's University of Technology
+9562,Mahasarakham University
+9572,Hankuk University of Foreign Studies Computer Center
+9686,SKKU
+9754,CHOSUN UNIVERSITY
+9775,Hannam University
+9778,DAEJIN UNIVERSITY
+9782,WooSong University
+9868,Catholic University of DAEGU
+9870,DONG-EUI UNIVERSITY
+9916,National Yang Ming Chiao Tung University
+9955,Baekseok University
+9962,Sunchon National University
+9978,The University of Seoul
+9982,PAICHAI UNIVERSITY
+9991,Hiroshima Shudo University
+10053,yeonsung University
+10088,KWANGWOON UNIVERSITY
+10148,The University of Melbourne Melbourne Victoria
+10159,Korea Aerospace University
+10197,Chonnam National University
+10349,Tulane University
+10421,Texas Tech University
+10508,University of Arkansas
+10546,Mississippi State University
+10631,Georgia State University
+10680,Indiana University
+10755,Dartmouth College
+10849,Dallas College
+10952,East Carolina University
+10961,Boston GigaPoP
+11039,The George Washington University
+11105,Simon Fraser University
+11128,Berry College
+11214,University of North Florida
+11257,University of Lethbridge
+11348,Missouri University of Science and Technology
+11417,Northern Illinois University
+11442,North Carolina State University
+11736,University of South Dakota
+11745,University System of New Hampshire
+11773,The University Of Texas M.D. Anderson Cancer Center
+11809,Embry-Riddle University
+11834,Drexel University
+11975,The College of William and Mary
+11995,Oregon Health and Sciences University
+12005,University of South Carolina
+12013,Florida Atlantic University
+12093,University of Waterloo
+12118,WVU
+12145,Colorado State University
+12148,Clemson University
+12324,Maria Curie-Sklodowska University
+12346,Maria Curie-Sklodowska University
+12402,University of Piraeus
+12423,Nicolaus Copernicus University in Torun
+12660,Sharif University Of Technology
+12675,Alexandru Ioan Cuza University
+12687,URAN Association
+12831,Technical University of Gdansk Academic Computer Center TASK
+12908,Sabanci University
+12999,Federal State Autonomous Educational Institution of Higher Education 'Far Eastern Federal University'
+13041,CSUC
+13065,Uniwersytet Zielonogorski
+13242,Latvijas Biozinatnu un tehnologiju universitaete
+13303,University of Nis
+13371,DUKE-INTERCHANGE
+13476,Montana State University
+13764,Kwantlen Polytechnic University
+13998,University of Texas Southwestern Medical Center
+14048,The University of Memphis
+14348,University of Rhode Island
+14373,University of Texas Medical Branch
+14426,Grant MacEwan University
+14448,High Point University
+14529,Saint Joseph's University
+14859,CENTRAL ARIZONA COLLEGE
+15119,Southern Illinois University Carbondale
+15318,McGill University
+15496,Aalto University
+15505,King Abdulaziz University (KAU) - Deanship of Information Technology
+15633,Universitat Oberta de Catalunya
+15744,SASK-COM
+15798,University of Warmia and Mazury in Olsztyn Poland
+16120,Universitatea de Medicina si Farmacie 'Victor Babes' Timisoara
+16220,Civil Engineering University of Bucharest
+16263,Uniwersytet Radomski im. Kazimierza Pulaskiego
+16283,Lodz University of Technology
+16461,The University of Texas at El Paso
+16462,University of Victoria
+16489,Webster University
+16519,University of Colorado Denver
+16826,Johnson County Community College
+17055,University of Utah
+17196,College of duPage
+17342,Hillsborough Community College
+17479,Chiang Mai University
+17553,Bogor Agricultural University
+17575,Chung-Ang University
+17687,National University Corporation Nagoya University
+17713,National Sun Yat-sen University
+17716,National Taiwan University
+17861,KyungNam College of Information   Technology
+17862,Kangwon National University
+17946,Gifu University
+17956,WASEDA University
+18026,JEJU NATIONAL UNIVERSITY
+18028,GyeongSang National University
+18031,Sangmyung University
+18034,Gangneung-Wonju National University
+18047,National Tsing-Hua University
+18173,Aga Khan University
+18188,Ateneo de Manila University
+18298,Chungnam National University
+18324,Masan College
+18330,HONGIK UNIVERSITY
+18337,KyungSan University
+18420,National Central University
+18515,UTARLINGTON
+18553,University of West Florida
+18621,The Conestoga College Institute of Technology and Advanced Learning
+18682,AAMU-INTERNET
+18967,Goucher College
+19119,Rollins College
+19217,IVY Tech Community College of Indiana
+19464,Washington & Lee University
+19764,Georgian College of Applied Arts & Technology
+19927,Lone Star College System District
+19999,Union College
+20080,AMPATH
+20085,The University of Akron
+20130,DePaul University
+20252,JSIWMC
+20306,Adelphi University
+20633,Goethe Universitaet Frankfurt
+21064,University of Warmia and Mazury in Olsztyn Poland
+21143,Tula State University
+21182,Opole University
+21517,Kennesaw State University
+22174,State University of New York College of Technology at Alfred
+22323,University of California Merced
+22686,University of Winnipeg
+22847,BOWDOIN
+22887,Western Illinois University
+22950,University of Saskatchewan
+22985,University of Louisiana at Lafayette
+23122,Dakota State University
+23162,UKYEDU
+23207,Northwestern State University
+23237,McMaster University
+23339,Marymount University
+23484,Pace University
+23628,Academic newtown Community Cable Service
+23668,KOREA POLYTECHNIC UNIVERSITY
+23714,Keimyung University
+23719,University of Sydney
+23859,University of New South Wales
+23862,University of the Philippines Diliman
+23905,Victoria University of Wellington
+24020,University ITM Shah Alam Selangor Malaysia
+24328,Yala Rajabhat University Education
+24390,University of the South Pacific
+24398,Auckland University of Technology
+24434,James Cook University
+24436,University of Queensland
+24437,University of Western Australia
+24453,Chandrakasem Rajabahat University
+24526,Bina Nusantara University
+24614,Sakarya University
+24620,RTU
+24839,Universitatea Babes-Bolyai
+24848,Kielce University of Technology
+25075,SWPS UNIWERSYTET
+25242,KUWAIT UNIVERSITY
+25304,Universitatea TRANSILVANIA Brasov
+25468,Rzeszow University of Technology
+25584,Opole University
+25656,University of Mississippi
+25776,University of Oklahoma
+25963,Tarrant County College District
+25977,HOUSTON COMMUNITY COLLEGE SYSTEM
+26335,Middle Tennessee State University
+26367,Bradley University
+26488,Santa Clara University
+26732,Wagner College
+26934,University of Missouri-Columbia
+27198,Indiana University External
+27274,Central Michigan University
+27405,University System of New Hampshire
+27422,Tennessee State University
+27609,USC-University Hospital
+27883,Universidad Tecnologica Nacional
+28067,The University of the West IndiesSt Augustine Camp
+28797,Technical University of Koszalin
+28949,Technical University of Sofia
+29068,University of Tehran
+29147,State Educational Enterprise of Higher Professional Education Novosibirsk State Technical University
+29289,Georgian Technical University
+29484,Ruhr-Universitaet Bochum
+29577,IUT-AS
+29683,National Pirogov Memorial Medical University Vinnytsia
+29773,Carleton University
+29923,Northland Pioneer College
+30045,University Health Network
+30703,State University of New York Health Science Center at Syracuse
+30778,Kielce University of Technology
+30847,Lancaster University Network Services Limited
+30983,MARWAN - Moroccan Academic Network
+31011,University of Chemical Technology And Metallurgy
+31145,State Higher Educational Institution 'Precarpathian National University of Vasyl Stefanyk'
+31822,City University of New York
+31828,Seton Hall University
+31861,West Texas A&M University
+31960,Eduardo Mondlane University
+31983,Queen's University at Kingston
+32064,American University
+32531,Fordham University
+32601,Abilene Christian University
+32666,Case Western Reserve University
+32726,Liberty University
+32818,Cleveland State University
+32907,University of St. Thomas
+32971,Howard Community College
+33091,U Calgary
+33187,Sam Houston State University
+33281,BRIGHAM YOUNG UNIVERSITY - IDAHO
+33503,Medical College of Wisconsin
+33629,Northern Kentucky University
+33632,Morehead State University
+33670,Nova University
+34707,State Educational Institution of higher professional Education 'Kemerovo State University'
+34849,Federal State Institution of Higher Professional Education 'Peoples Friendship University of Russia'
+34878,Karlsruhe Institute of Technology (KIT)
+35043,Allameh Tabataba'i University
+35656,JUNet
+35686,Nicolaus Copernicus University in Torun
+36319,NorthShore University HealthSystem
+36368,Oberlin College
+36375,University of Michigan
+36441,University of Georgia
+36850,University of North Carolina at Chapel Hill
+36982,University of Cape Town
+37074,University of Ghana
+37170,University of Lagos
+37263,University of Education Winneba
+37405,University of Nigeria
+37443,Usmanu Danfodiyo University
+37513,Namibia University of Science and Technology
+37520,Rhodes University
+37568,National University of Science and Technology
+37932,Rajamangala University of Technology Isan
+38280,Monash University Malaysia
+38635,Keio University
+38727,HaNoi University of science and technology
+38845,Fu Jen Catholic University
+39131,State Educational Institution of higher professional Education 'Dagestan State University'
+39815,'Lucian Blaga' University of Sibiu
+39857,Aalto University Student Union
+39943,St. Francis College
+40102,Montgomery College
+40204,Jacksonville State University
+40947,Franklin W. Olin College Of Engineering
+40981,University of Montenegro me.mren
+41620,Iran University Of Science and Technology
+42594,FUNDACJA UNIWERSYTETU IM. ADAMA MICKIEWICZA W POZNANIU
+43965,Tehran University of Medical Science
+44805,New Bulgarian University
+44959,Uniwersytet Kardynala Stefana Wyszynskiego
+44971,University of Kent
+45340,BMS College of Engineering AS45340
+45344,International Islamic University Of Malaysia
+45542,VietNam National University Ha Noi
+45575,Rajamangala University of Technology Srivijaya
+45773,Pakistan Education & Research Network
+45810,University of Nottingham Malaysia Campus
+46042,Gunadarma University
+46103,University of Wisconsin Whitewater
+46115,Luther College
+46184,NorQuest College
+46470,Skidmore College
+46512,University of Tennessee Medical Center
+46729,Saint Leo University Incorporated
+46985,The Regents of the University of California - University of California San Diego.
+47174,Technical University of Varna
+47212,Republic of Macedonia State University GOCE DELCEV Stip
+47558,Kajeh Nasir Toosi University of Technology
+47610,RWTH Aachen University
+48183,Uniwersytet Przyrodniczo Humanistyczny w Siedlcach
+49792,
+50237,The College of Management Academic Studies Founded by the Union Officials in Tel Aviv Corporation for Public-Benefit Ltd.
+50517,King Saud University
+50999,King Abdullah University of Science and Technology
+51181,State educational institution for higher professional education SIBERIAN STATE AEROSPACE UNIVERSITY named after M.F.Reshetnev
+51352,State Educational Institution of higher professional Education 'Vladimir State University'
+51539,The American University of Iraq-Sulaimani
+51708,Free University of Bozen-Bolzano
+52188,MK-FCSE
+53260,Clark University
+53403,Mount Royal University
+53450,University of Arkansas at Monticello
+53785,University of North Carolina at Greensboro
+54393,Fort Lewis College
+54421,Wartburg College
+55380,Kanazawa University
+55390,Tokyo University of Science
+55545,Suranaree University of Technology
+55618,UNIVERSITY OF ULSAN
+55625,Chungwoon University
+55674,Universitas Negeri Yogyakarta
+55910,Shibaura Institute of Technology
+56056,Amity University
+56727,Ozyegin University
+56765,Shahid Beheshti university
+57171,American University of Sharjah
+57563,isfahan university of medical sciences & health services
+57745,Tarbiat Modares University
+58457,GITAM University
+58479,Trisakti University
+58611,Charles Darwin University
+59104,Soka University
+59163,GLA University
+59263,Universiti Malaysia Terengganu
+59962,Shiraz University
+60158,FUNDACJA UNIWERSYTETU IM. ADAMA MICKIEWICZA W POZNANIU
+60560,MEDICAL UNIVERSITY - VARNA Prof. Dr. Paraskev Stoyanov
+61248,Ferdowsi University of Mashhad
+62436,RIGAS AUSTRUMU KLINISKA UNIVERSITATES SLIMNICA
+62452,
+62692,Camosun College
+62989,Indiana University of Pennsylvania
+63130,National-Louis University
+63510,Syiah Kuala University (Unsyiah)
+131158,Nara Institute of Science and Technology National University Corporation
+131159,Yamagata Univ
+131226,Indian Institute Of Technology Roorkee
+131919,Meiji University
+132216,Comilla University
+132250,Princess of Naradhiwas University
+132365,Bangladesh Agricultural University (BAU)
+132494,Universiti Tun Hussein Onn Malaysia
+132688,University of Malaya
+132780,Indian Institute of Technology Delhi
+132874,Universiti Malaysia Sabah
+132905,Ateneo de Davao University
+133168,Shahjalal University of Science and Technology
+133169,University Malaysia Perlis
+133357,TELKOM UNIVERSITY
+133552,BMS College of Engineering AS133552
+133738,Bangladesh Open University
+134023,Aligarh Muslim University
+134790,United International University
+135524,university of dhaka
+135616,Name: Thaksin University
+135734,Birla Institute Of Technology And Science
+135893,La Trobe University
+135909,Information Technology Park - Vietnam National University Ho Chi Minh City
+136004,University of Rajshahi
+136164,Islamic University of Technology (IUT)
+136470,BMS College of Engineering AS136470
+136618,Bangladesh University of Engineering and Technology
+136624,Sakon Nakhon Rajabhat University
+136911,Asian University for Women
+136912,THE COUNCIL OF THE KING'S SCHOOL
+136921,Fiji National University
+136937,Chittagong University of Engineering & Technology
+137241,PibulSongkramRajabhat University
+137282,KIIT University
+137300,Ar-Raniry University
+137394,Dhonburi Rajabhat University
+137706,National University
+137850,Mae Fah Luang University
+137956,Indian Institute of Technology Ropar
+137974,Gazipur Agricultural University
+138155,JAWAHARLAL NEHRU UNIVERSITY
+138163,Bangladesh University of Professionals (BUP)
+138382,Begum Rokeya University Rangpur
+138462,Rajshahi University of Engineering & Technology (RUET)
+138489,Mawlana Bhashani Science and Technology University
+138573,University of Barisal
+138587,Patuakhali Science and Technology University
+138904,Jessore University of Science and Technology
+139815,Taylor's University Sdn Bhd
+140118,Indian Institute Of Technology Banaras Hindu University
+140200,Panjab University
+141270,Indian Institute Of Technology Indore
+147312,Songkhla Rajabhat University Network.
+149503,Name: Mahamakut Buddhist University network.
+149990,SHEREBANGLA-AS-AP
+150107,Surundra Rajabhat University
+150638,SHRI GAJANAN MAHARAJ COLLEGE OF ENGINEERING
+151808,Hatyai University.
+151825,Rangsit University
+151981,BRAC UNIVERSITY
+152337,National University of Mongolia
+153493,Uttara University
+153981,Daffodil International University
+197451,Brno University of Technology
+197467,Samara University named after Korolev
+198499,Qatar University
+198864,Queen Mary and Westfield College University of London
+199028,Uniwersytet Medyczny w Lublinie
+199513,Universitatea de Vest din Timisoara
+199578,Rheinland-Pfaelzische Technische Universitaet Kaiserslautern-Landau
+199936,Uniwersytet Przyrodniczy w Lublinie
+201632,Anadolu University AS
+201773,University of Warwick
+201778,FSBE Institution of HE 'I.S. TURGENEV Orlovsky STATE UNIVERSITY'
+202571,Kharazmi University
+202575,University of Hull
+203247,Islamic Azad University
+204575,TECHCOLLEGE S/I
+204813,Shahrekord University
+205656,User Association of Ukrainian Research and Academic Network URAN
+206130,Stichting Carmel College
+206523,Poznan University of Technology
+209335,Technical University of Munich
+209464,King Saud bin Abdulaziz University For Health Sciences
+209617,University of Cyprus
+209698,Federal State Budgetary Educational Institution of Higher Education 'Volga State University of Technology'
+211218,KYIV NATIONAL UNIVERSITY OF CONSTRUCTION AND ARCHITECTURE
+211258,Federal state autonomous institution of higher education 'Moscow State Institute of International Relations (University)'
+211670,Fasa University
+212023,University of Plovdiv 'Paisiy Hilendarski'
+212167,Pamukkale University
+213634,Universitatea din Craiova
+213698,Polish Air Force University
+216137,Institutia Publica Universitatea Tehnica a Moldovei - IP UTM
+327705,Federal University of Technology Akure
+327863,University of Zimbabwe
+327942,LANDMARK-UNIVERSITY
+327947,Kwame Nkrumah University of Science and Technology
+327992,Ghanaian Academic and Research Network
+328076,University of Mines and Technology
+328184,UNIVERSITY OF HEALTH AND ALLIED SCIENCES
+328188,Covenant University
+328212,THE UNIVERSITY OF CAPE COAST
+328225,Strathmore University
+328647,Koforidua Technical University
+328762,Mansoura University
+328896,UNIVERSITY OF ENVIRONMENT AND SUSTAINABLE DEVELOPMENT
+393249,UBC !
+393257,Lawrence University
+393289,Mercer University
+393296,Augustana College
+393307,Cooper University Hospital
+393408,University of Portland
+393750,Truman State University
+393907,Cape Breton University
+394031,South Suburban College of Cook County
+394522,Assiniboine College
+394744,Randolph-Macon College
+394769,University of Michigan - Flint
+394962,PENNSYLVANIA COLLEGE OF TECHNOLOGY
+394988,Finger Lakes Community College
+395400,University of Guam
+396086,Hampshire College
+396128,Mount Holyoke College
+396310,San Diego State University
+396425,University of Colorado Colorado Springs
+396465,California State University Sacramento
+396527,Massachusetts Institute of Technology
+397066,New York University
+397087,Mississippi University for Women
+397549,Texas A&M University San Antonio
+398060,Augusta University
+398451,Rose-Hulman Institute of Technology Inc
+398655,Pennsylvania Western University
+398813,Millersville University of Pennsylvania
+399315,Indiana State University
