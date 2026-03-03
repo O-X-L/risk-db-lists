@@ -23,7 +23,7 @@ ASN,Organization
 7040,Netminders Server Hosting
 7162,Scala Data Centers (Upstream AS)
 7203,LeaseWeb USA  / SFO-12
-7488,CNSERVER LLC
+7488,CnServer LLC
 7489,HostUS
 7506,GMO Internet Inc.
 7628,CorpCloud
@@ -694,7 +694,6 @@ ASN,Organization
 64200,Vivid-Hosting LLC
 64236,UnReal Servers
 64425,
-64434,
 64439,RocketCloud.ru
 64457,Matteo Fruhwald trading as PipeHost e.U.
 131149,Yuan-Jhen Info
@@ -983,6 +982,7 @@ ASN,Organization
 200435,Titan Datacenters France
 200525,Hosting Ukraine LTD
 200547,MTK S.R.L.
+200548,webhoster.de
 200628,BGO Cloud OOD
 200636,Hypere
 200651,FlokiNET
@@ -1226,7 +1226,7 @@ ASN,Organization
 213574,
 213644,Iranian Server Processing Limited Liability Company
 213646,Monkey Tree Hosting Limited
-213665,
+213665,PARMIN CLOUD COMPUTING LLC
 213683,Host.AL
 213693,IDPerformance idhosting
 213738,HOSTEG HOSPEDAGEM E SERVIDORES LTDA
@@ -1400,7 +1400,7 @@ ASN,Organization
 329166,Absolute Hosting
 329184,Host Africa DPA
 329206,Rackzar
-329270,EGATE CLOUD SERVICES LDA
+329270,
 329272,Servercore Africa Ltd
 329278,Truehost Cloud Limited
 329394,OneCloud LDA
