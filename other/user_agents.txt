@@ -23,6 +23,7 @@ Mozilla/5.0 Linux; Android 10; K AppleWebKit/537.36 KHTML like Gecko Chrome/117.
 Mozilla/5.0 Linux; Android 10; LMQ720 AppleWebKit/537.36 KHTML like Gecko Chrome/116.0.0.0 Mobile Safari/537.36
 Mozilla/5.0 Linux; Android 11; 21081111RG AppleWebKit/537.36 KHTML like Gecko Chrome/116.0.0.0 Mobile Safari/537.36
 Mozilla/5.0 Linux; Android 11; CPH2251 AppleWebKit/537.36 KHTML like Gecko Chrome/116.0.0.0 Mobile Safari/537.36
+Mozilla/5.0 Linux; Android 12 Chrome/112.0
 Mozilla/5.0 Linux; Android 12; 2201116SG AppleWebKit/537.36 KHTML like Gecko Chrome/116.0.0.0 Mobile Safari/537.36
 Mozilla/5.0 Linux; Android 12; SMA525F AppleWebKit/537.36 KHTML like Gecko Chrome/117.0.0.0 Mobile Safari/537.36
 Mozilla/5.0 Linux; Android 12; V2134 AppleWebKit/537.36 KHTML like Gecko Chrome/116.0.0.0 Mobile Safari/537.36
