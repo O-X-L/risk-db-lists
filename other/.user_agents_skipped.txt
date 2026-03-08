@@ -101,6 +101,7 @@ Mozilla/5.0 X11; Linux x86_64 AppleWebKit/537.36 KHTML like Gecko HeadlessChrome
 Mozilla/5.0 X11; Linux x86_64; rv:128.0 Gecko/20100101 Firefox/128.0
 Mozilla/5.0 X11; Linux x86_64; rv:138.0 Gecko/20100101 Firefox/138.0
 Mozilla/5.0 X11; Linux x86_64; rv:140.0 Gecko/20100101 Firefox/140.0
+Mozilla/5.0 X11; Linux x86_64; rv:142.0 Gecko/20100101 Firefox/142.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:139.0 Gecko/20100101 Firefox/139.0
 Mozilla/5.0 compatible; CMSChecker/1.0; +https://*** 
 Mozilla/5.0 compatible; CensysInspect/1.1; +https://*** 
@@ -115,6 +116,7 @@ Mozilla/5.0 compatible; archive.org_bot +http://*** Zeno/a07610d warc/v0.8.85
 Mozilla/5.0 iPad; CPU OS 16_7_2 like Mac OS X AppleWebKit/605.1.15 KHTML like Gecko Version/16.6 Mobile/15E148 Safari/604.1
 Mozilla/5.0 iPad; CPU OS 17_0_3 like Mac OS X AppleWebKit/605.1.15 KHTML like Gecko Version/17.0.1 Mobile/15E148 Safari/604.1
 Mozilla/5.0 iPhone; CPU iPhone OS 13_2_3 like Mac OS X AppleWebKit/605.1.15 KHTML like Gecko Version/13.0.3 Mobile/15E148 Safari/604.1
+Mozilla/5.0 iPhone; CPU iPhone OS 14_4 like Mac OS X AppleWebKit/605.1.15 KHTML like Gecko Version/15.4 Mobile/15E148 Safari/604.1
 Mozilla/5.0 iPhone; CPU iPhone OS 15_7_9 like Mac OS X AppleWebKit/605.1.15 KHTML like Gecko Version/15.6.5 Mobile/15E148 Safari/604.1
 Mozilla/5.0 iPhone; CPU iPhone OS 16_0 like Mac OS X AppleWebKit/605.1.15 KHTML like Gecko FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 Mozilla/5.0 iPhone; CPU iPhone OS 16_6_1 like Mac OS X AppleWebKit/605.1.15 KHTML like Gecko Version/16.6 Mobile/15E148 Safari/604.1
