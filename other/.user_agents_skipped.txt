@@ -78,6 +78,7 @@ Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chro
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:121.0 Gecko/20100101 Firefox/121.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:143.0 Gecko/20100101 Firefox/143.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:144.0 Gecko/20100101 Firefox/144.0
+Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:73.0 Gecko/20100101 Firefox/73.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:90.0 Gecko/20100101 Firefox/90.0
 Mozilla/5.0 Windows NT 6.1; WOW64 AppleWebKit/537.36 KHTML like Gecko Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE
 Mozilla/5.0 X11; Linux i686; rv:109.0 Gecko/20100101 Firefox/120.0
