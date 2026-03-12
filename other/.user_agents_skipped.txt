@@ -104,6 +104,7 @@ Mozilla/5.0 X11; Linux x86_64; rv:128.0 Gecko/20100101 Firefox/128.0
 Mozilla/5.0 X11; Linux x86_64; rv:138.0 Gecko/20100101 Firefox/138.0
 Mozilla/5.0 X11; Linux x86_64; rv:140.0 Gecko/20100101 Firefox/140.0
 Mozilla/5.0 X11; Linux x86_64; rv:142.0 Gecko/20100101 Firefox/142.0
+Mozilla/5.0 X11; Linux x86_64; rv:83.0 Gecko/20100101 Firefox/83.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:139.0 Gecko/20100101 Firefox/139.0
 Mozilla/5.0 compatible; CMSChecker/1.0; +https://*** 
 Mozilla/5.0 compatible; CensysInspect/1.1; +https://*** 
