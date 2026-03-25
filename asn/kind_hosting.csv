@@ -108,7 +108,6 @@ ASN,Organization
 15510,CWCS Managed Hosting
 15589,Retelit S.p.A. (formerly Clouditalia)
 15598,NorthC Germany
-15703,TrueServer
 15830,Equinix as15830
 15919,Servicios de Hosting en Internet S.A.
 16003,Fornex Hosting - Netherlands
@@ -442,6 +441,7 @@ ASN,Organization
 46573,LayerHost
 46606,Endurance International Group Inc
 46652,ServerStack
+46783,EASY LINK LLC
 46785,QUASAR DATA CENTER LTD.
 46829,LAMHOSTING
 46844,Sharktech
@@ -1107,7 +1107,6 @@ ASN,Organization
 207279,MARKAHOST
 207326,HostLAB
 207333,Hoster.KZ - Astana
-207350,
 207449,LEBREUILLY Jeremy trading as Hostinity
 207451,PEARHOST.cz
 207513,HOSTOFF
@@ -1372,7 +1371,7 @@ ASN,Organization
 268029,Terah Brasil Datacenter
 268208,2CLOUD INFORMATICA LTDA EPP
 268581,QNAX Data Center
-269038,IDX DATA CENTERS & IT SERVICES S.A.
+269038,IDX DATA CENTERS & IT SERVICES
 269070,Hostzone Tecnologia LTDA
 269098,AbsamHost Internet Data Center
 269353,VOLAREHOST INTERNET LTDA ME
