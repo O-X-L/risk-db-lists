@@ -276,6 +276,7 @@ Python/3.11 aiohttp/3.11.12
 Python/3.12 aiohttp/3.11.18
 Python/3.12 aiohttp/3.12.13
 Python/3.14 aiohttp/3.13.2
+Pythonurllib/2.7
 SlaccaleBot
 air.ai/scanning Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 Chrome/126.0.0.0 Safari/537.36
 asnriskscorer/1.0
