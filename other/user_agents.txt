@@ -63,6 +63,7 @@ Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Geck
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/139.0.0.0 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/140.0.0.0 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/141.0.0.0 Safari/537.36
+Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/142.0.0.0 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/91.0.4472.114 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/605.1.15 KHTML like Gecko Version/14.0.3 Safari/605.1.15
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/605.1.15 KHTML like Gecko Version/17.0 Safari/605.1.15
@@ -200,6 +201,7 @@ Mozilla/5.0 X11; Linux x86_64; rv:142.0 Gecko/20100101 Firefox/142.0
 Mozilla/5.0 X11; Linux x86_64; rv:83.0 Gecko/20100101 Firefox/83.0
 Mozilla/5.0 X11; Ubuntu; Linux i686; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64 AppleWebKit/605.1.15 KHTML like Gecko Version/17.0 Safari/605.1.15
+Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:134.0 Gecko/20100101 Firefox/134.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:139.0 Gecko/20100101 Firefox/139.0
 Mozilla/5.0 X11; Ubuntu; Linux x86_64; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 compatible; CMSChecker/1.0; +https://*** 
