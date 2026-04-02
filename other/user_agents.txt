@@ -80,6 +80,7 @@ Mozilla/5.0 Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.
 Mozilla/5.0 Windows NT 10.0; WOW64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.95
 Mozilla/5.0 Windows NT 10.0; Win64; x64
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36
+Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/106.0.0.0 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/108.0.0.0 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/120.0.0.0 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/121.0.0.0 Safari/537.36
@@ -148,6 +149,7 @@ Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:123.0 Gecko/20100101 Firefox/123.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:123.0 Gecko/20100101 Firefox/123.0 Config/91.2.2121.13
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:123.0 Gecko/20100101 Firefox/123.0 Config/92.2.7601.2
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:123.0 Gecko/20100101 Firefox/123.0 OpenWave/94.4.4504.39
+Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:128.0 Gecko/20100101 Firefox/128.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:143.0 Gecko/20100101 Firefox/143.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:144.0 Gecko/20100101 Firefox/144.0
 Mozilla/5.0 Windows NT 10.0; Win64; x64; rv:66.0 Gecko/20100101 Firefox/66.0

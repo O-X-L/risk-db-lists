@@ -399,6 +399,7 @@ ASN,Organization
 14813,BB-COLUMBUS
 14860,Smartcom Telephone
 14868,Ligga Telecomunicações S.A.
+14971,PINETEL
 14988,Botswana Telecommunications Corporation
 15129,Geneseo Communications Services
 15165,Mutual Telephone Company
@@ -4931,7 +4932,6 @@ ASN,Organization
 268157,ELEVAR TELECOM LTDA
 268158,S.P. TELECOM LTDA
 268159,CD TELECOMUNICACOES LTDA
-268162,
 268166,POINT TELECOM SERVIÇOS LTDA
 268168,Fast Provedor
 268170,DOWNLOAD NET TELECOM LTDA - ME
@@ -5426,7 +5426,7 @@ ASN,Organization
 269563,MAX3 TELECOM
 269566,PHI TELECOM
 269569,Popnet Servicos De Telecomunicacoes Eireli
-269571,TEX TELECOM EIRELI
+269571,ASN269571
 269572,SPEED JET TELECOM
 269578,
 269581,Marcelo & Renato Digital Net LTDA
@@ -6371,7 +6371,7 @@ ASN,Organization
 328548,TOUCHNET TELECOMMUNICATIONS CC
 328549,SAHEL TELECOM LIBERIA
 328576,TelcoExchange (aka AS328576.net)
-328613,Trakatel Limited
+328613,
 328636,Jambo telecoms limited
 328646,INFRATEL Zambia
 328652,Hirani Telecommunication ltd
