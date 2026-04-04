@@ -43,6 +43,7 @@ Mozilla/5.0 Linux; Android 14; Pixel 8 Pro AppleWebKit/537.36 KHTML like Gecko C
 Mozilla/5.0 Linux; Android 6.0.1; Nexus 5X Build/MMB29P AppleWebKit/537.36 KHTML like Gecko Chrome/141.0.7390.122 Mobile Safari/537.36 compatible; Goo
 Mozilla/5.0 Linux; Android 8.1.0; C5 2019 Build/OPM2.171019.012 AppleWebKit/537.36 KHTML like Gecko Chrome/122.0.6261.64 Mobile Safari/537.36
 Mozilla/5.0 Linux; Android 8.1.0; Moto G 4 AppleWebKit/537.36 KHTML like Gecko Chrome/122.0.0.0 Mobile Safari/537.36 PTST/240201.144844
+Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:123.0 Gecko/20100101 Firefox/123.0
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:130.0 Gecko/20100101 Firefox/130.0
 Mozilla/5.0 Macintosh; Intel Mac OS X 10.15; rv:79.0 Gecko/20100101 Firefox/79.0
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_10_1 AppleWebKit/537.36 KHTML like Gecko Chrome/39.0.2171.95 Safari/537.36
