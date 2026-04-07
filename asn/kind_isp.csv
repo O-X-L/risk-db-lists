@@ -170,7 +170,7 @@ ASN,Organization
 8163,Metrotel SA ESP
 8193,'Uzbektelekom' Joint Stock Company
 8194,LVRTC Network
-8234,RAI-AS
+8234,RadioTelevisione Italiana
 8242,Apex Telecom Ltd.
 8244,TELECOM ITALIA SPARKLE S.p.A.
 8251,NFX z.s.p.o. (FreeTel s.r.o.)
@@ -188,7 +188,7 @@ ASN,Organization
 8395,East Telecom Ltd.
 8400,TSSRB - Telekom Srbija
 8402,Corbina Telecom
-8410,NIR-AS
+8410,NovInvestRezerv
 8412,Magenta Telekom
 8414,International Telecommunication Union
 8422,NetCologne
@@ -455,6 +455,7 @@ ASN,Organization
 16524,MetTel
 16527,Guadalupe Valley Telephone Cooperative
 16531,Protel i-Next
+16589,
 16591,GFiber
 16604,HUNTEL.NET
 16629,CTCCORP
@@ -770,7 +771,7 @@ ASN,Organization
 26860,SWIFTEL COMMUNICATIONS
 26932,BRAVO TELECOM
 27221,Ardmore Telephone Company Inc
-27284,FOURPLEX-ASN
+27284,Fourplex Telecom
 27294,RTC Reserve Telecommunications
 27419,Big River Telephone Company LLC
 27425,IdeaTek Telcom
@@ -975,7 +976,7 @@ ASN,Organization
 29286,Eutelsat - Skylogic
 29287,Wien Energie GmbH
 29357,Ooredoo Kuwait (Wataniya Telecom)
-29388,ASN-BESTCOM
+29388,Best Telecom ISP
 29399,Ramtek
 29420,PJSC Promtelecom
 29422,Nebula Oy
@@ -1310,7 +1311,7 @@ ASN,Organization
 38914,Deutsche Telekom MMS GmbH
 38917,INTERCOMTEL Limited Company
 38949,Trestel SK
-38951,TKT-AS
+38951,Rostelecom (AS38951)
 38958,Alfa Telecom Ltd.
 38987,Spoldzielnia Telekomunikacyjna OST
 38999,Mobile Interim Company no.2 sal
@@ -1331,7 +1332,7 @@ ASN,Organization
 39190,Ahmad Mahmoud Hassan trading as Nour El Houda Trading & Telecommunications
 39273,Kalaam Telecom Bahrain
 39279,Serviciul Tehnologia Informației și Securitate Cibernetică
-39280,UltelNET-AS
+39280,Ultel
 39375,Telekomunikacja Podlasie
 39407,PJSC Rostelecom
 39434,Optika Telecom
@@ -1352,7 +1353,7 @@ ASN,Organization
 39886,STELOGY
 39891,Saudi Telecom Company JSC
 39908,Daughter Company Television Systems 'KVANT' of PrJSC 'Atomservice'
-39927,E-Light-Telecom
+39927,E-Light Telecom
 39944,3U Telecom Inc
 40020,Farmers Telecommunications Cooperative Inc.
 40076,DOVETEL COMMUNICATIONS LLC.
@@ -1459,7 +1460,7 @@ ASN,Organization
 42846,GNET Internet Telekomunikasyon A.S.
 42897,Telnet LLC
 42908,Nordic Telecom
-42914,IMPERIUM-AS
+42914,IMPERIUM Telecom
 42947,SkynetLink Informatica y Redes
 42961,Zain KW
 43020,OPTIC-TELECOM LTD
@@ -1742,7 +1743,7 @@ ASN,Organization
 49755,LLC SvyazTelecom
 49759,SerDi TeleCom LTD
 49761,TELESIM
-49814,TOMGATE-AS
+49814,Key Telecom
 49851,Aragonesa de Servicios Telematicos
 49863,Lite-Telecom Limited
 49889,Crystal Telecom Ltd
@@ -2094,6 +2095,7 @@ ASN,Organization
 54579,Chariton Valley
 54614,CIK Telecom
 54646,Hardy Telecommunications
+54841,TELUS Communications (AS54841)
 55230,Pulaski White Rural Telephone Cooperative Inc.
 55254,WaveDirect Telecommunications
 55309,Minh Tu Telecom Limited Company
@@ -2147,7 +2149,7 @@ ASN,Organization
 56543,Universal-Telecom LLC
 56550,STEL
 56571,HISPANICA DE TELECOMUNICACIONES Y SERVICIOS INTEGRALES S.L.
-56582,NETFACTOR-ASN
+56582,NETFACTOR TELEKOMINIKASYON VE TEKNOLOJI HIZMETLERI SANAYI VE
 56592,Telewest Inet
 56632,Aryan Satellite Co. (Private Joint Stock)
 56654,Infinity Telecom SRL
@@ -2212,7 +2214,7 @@ ASN,Organization
 57803,TeleServis Ltd
 57826,Svyaz-INKOM-Servis i telekommunikatsii Ltd.
 57871,TeleCentr Ltd.
-57888,TELESAT-AS
+57888,Telesat
 57890,POTel
 57958,ASAS Telecom & IT Solutions LTD.
 57962,LLC ' Ug telekom grup '
@@ -2288,7 +2290,7 @@ ASN,Organization
 60191,Nowatel
 60267,FIBRAWORLD TELECOM
 60277,Telcom Limited
-60325,Serresnet-AS
+60325,Optiland Telecommunications
 60388,Transneft Telecom
 60468,Zaklad Uslug Telewizji Kablowej Leslaw Dorobek
 60471,Mobitel-BGP
@@ -2515,7 +2517,7 @@ ASN,Organization
 131735,PT Telemedia Network Cakrawala
 131915,Hamamatsu Cable Television
 131933,TAMA Television
-131952,POTATO-NET
+131952,Asahikawa Cable Television
 131954,Kawaguchiko Cable Television
 132004,Touch Net India
 132021,Kalibo Cable Television Network
@@ -2547,7 +2549,7 @@ ASN,Organization
 133192,Ultimate Mobile
 133227,AATTIZEN TELECOM
 133275,Gigantic Infotel Pvt Ltd
-133285,CNSINFOTEL-AS
+133285,CNS Infotel Services
 133457,ScopeTel Sdn Bhd
 133495,Vision Telecom
 133606,Viettel Timor
@@ -2927,7 +2929,7 @@ ASN,Organization
 196638,PJSC Promtelecom
 196685,LLC 'OIL-TELECOM'
 196730,TELSAT.TV Sp. z o.o.
-196740,Telelan-AS
+196740,Teleradiocompany TeleLan
 196797,Joint Stock Company TransTeleCom
 196838,'Albanian Satellite Communications' sh.p.k.
 196854,ISATEL
@@ -2966,6 +2968,7 @@ ASN,Organization
 197564,INTERNETSTIFTELSEN
 197567,Telekom-Servis Ltd.
 197577,KomTelecom LLC
+197602,TeleRadioCompany Studio TV-9 Beregsasom
 197632,Liral-Telecom Ltd
 197663,POLANS telekomunikacijske storitve d.o.o.
 197707,Collective telephone company 'Veco' Ltd.
@@ -3070,7 +3073,7 @@ ASN,Organization
 201285,Kirzhachtelecom LLC
 201296,Proftelecom-Service Ltd
 201328,Telewizja Kablowa Kolobrzeg Agencja Uslugowo - Reklamowa sp. z o.o.
-201337,AVATEL TELECOM SA
+201337,
 201427,M2M Uslugi Teleinformatyczne
 201466,Xarxes de Telecomunicacions Alternatives SL
 201540,Pishgaman Toseeh Fanavari Etelaat Va Ertebatat Jonoub (Joint Stock Company)
@@ -3147,6 +3150,7 @@ ASN,Organization
 203672,Telefonica Servizi srl
 203712,XARTIC
 203788,Telnect
+203797,VA TELECOM (AS203797)
 203835,SAMBATEL CONSULTING SL
 203877,Astra Telekom
 203895,Pardazeshgaran Etelat Zaban Layeha Co Ltd
@@ -3260,7 +3264,7 @@ ASN,Organization
 206943,EANCENTER TELECOM LLC
 206988,Argosid Network
 207044,Enet Telecommunications Networks Limited
-207050,AS_CABLEWORLDELDA
+207050,FIBRAWORLD TELECOM (AS207050)
 207073,TELENET.PL
 207136,AUREA ENERGIA Y TELECOMUNICACIONES S.L.
 207184,
@@ -3277,7 +3281,7 @@ ASN,Organization
 207766,MTEL DOOEL Skopje
 207883,LLC KPD-TELECOM
 207922,AZETEL LLC
-207952,ET-AS
+207952,Evro Telecom
 207987,EM SISTEMAS INFORMATICOS Y TELECOMUNICACIONES DE MALLORCA SL
 208012,Hayalnet Telekomunikasyon Iletisim Ticaret Limited Sirketi
 208041,INTERTELL
@@ -4626,7 +4630,7 @@ ASN,Organization
 267054,LINKWAY INFORMÁTICA
 267055,N.C Sat Mais Veloz
 267061,Microtec Telecomunicação Ltda - ME
-267062,W-NET
+267062,W-NET TELLECOM
 267065,MSA TELECOMUNICACAO LTDA - ME
 267070,Fibranet Juiz de Fora Serviços de Telecomunicações
 267073,L A P JUNIOR EIRELI - ME
@@ -6295,7 +6299,7 @@ ASN,Organization
 274040,ARTEL DOMINICANA SRL
 274048,VARGAS JAMPOL TELECOMUNICACIONES SRL
 274113,CINTELSUR PERU S.A.C.
-274117,SUPER-NET
+274117,SUPER-NET TELECOM
 274144,TELINCOM S.A.
 274156,TELDRA S.A.C.
 274165,SERVICIOS DE TELECOMUNICACIONES CNE IP SPA
