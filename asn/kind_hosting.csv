@@ -387,7 +387,7 @@ ASN,Organization
 42473,Anexia
 42567,MojoHost B.V.
 42612,Dinahosting SL
-42624,Global-Data System IT Corporation
+42624,
 42675,Obehosting
 42708,Portlane
 42821,K&K Kommunikationssysteme GmbH
@@ -541,6 +541,7 @@ ASN,Organization
 52423,Data Miners
 52469,Offshore Racks S.A
 52925,Ascenty DataCenters e Telecom
+53038,IDC19 - Intelligent Data Center
 53055,DIMENOC SERVICOS DE INFORMATICA
 53057,RedeHost Internet
 53221,ENGETRONICS Internet Datacenter
@@ -586,7 +587,7 @@ ASN,Organization
 56504,HostCircle AS56504
 56655,Gigahost AS
 56864,WellServer
-56898,Private Host BV | Network
+56898,Private Host
 56971,CGI GLOBAL LIMITED
 56987,Abaclouda
 57025,MonoCloud Pty Ltd
@@ -823,7 +824,6 @@ ASN,Organization
 139580,RIMU HOSTING
 139659,LUCIDACLOUD
 139812,Cyber Cloud Limited
-139923,ABCCLOUD SDN.BHD.
 140227,Hong Kong Communications International Co.
 140292,CHINATELECOM Jiangsu province Suzhou 5G network
 140389,Dewa Bisnis Digital
@@ -1107,7 +1107,6 @@ ASN,Organization
 207279,MARKAHOST
 207326,HostLAB
 207333,Hoster.KZ - Astana
-207350,
 207449,LEBREUILLY Jeremy trading as Hostinity
 207451,PEARHOST.cz
 207513,HOSTOFF
@@ -1235,7 +1234,7 @@ ASN,Organization
 213665,PARMIN CLOUD COMPUTING LLC
 213683,Host.AL
 213693,IDPerformance idhosting
-213738,HOSTEG HOSPEDAGEM E SERVIDORES LTDA
+213738,HOSTEG
 213780,ARKCORE
 213787,CLOUDRACK
 213791,XeniaGroup
@@ -1271,7 +1270,7 @@ ASN,Organization
 214557,HOSTMENOW LTD
 214574,Biterika Group LLC
 214577,
-214640,Hostup AB HOSTUP
+214640,Hostup
 214663,DanBot Hosting LTD
 214668,AXUSHOST
 214677,DeluxHost
@@ -1423,7 +1422,7 @@ ASN,Organization
 394353,USC/ISI B-ROOT
 394380,LeaseWeb USA / DAL-10
 394738,Silicon Valley Web Hosting
-394760,SAUCESERVERSCORP-01
+394760,Sauce Servers
 394896,Ace Host LLC
 395092,Shock Hosting
 395111,KVCHOSTING.COM LLC
@@ -1468,7 +1467,7 @@ ASN,Organization
 399820,Atomic Networks LLC
 399979,49.3 Networking LLC
 400175,Microtronix ESolutions LLC
-400298,MADCITYSERVERS-LLC
+400298,Madcityservers
 400402,Hosting Bot
 400469,CLAVERACK COMMUNICATIONS LLC
 400587,Ryamer
