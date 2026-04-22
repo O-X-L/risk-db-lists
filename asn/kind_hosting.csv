@@ -94,6 +94,7 @@ ASN,Organization
 14061,DigitalOcean
 14230,Involta
 14315,1GServers
+14457,
 14576,King Servers
 14586,Nuclearfallout Enterprises ASN 14586
 14618,Amazon AES
@@ -665,7 +666,7 @@ ASN,Organization
 61424,eServer s.r.o.
 61493,InterBS S.R.L. (BAEHOST)
 61610,Elea Data Centers
-62000,SERVERD
+62000,AS62000
 62005,BlueVPS
 62082,Hostland LTD
 62097,Broadband Hosting B.V.
@@ -855,7 +856,7 @@ ASN,Organization
 147049,PacketHub AS147049
 147186,VCCL Cloud Private Limited
 147237,CLOUDMINISTER TECHNOLOGIES PRIVATE LIMITED
-148974,Geeky Cloud
+148974,
 148981,China Telecom
 148993,Diana Host Ltd
 149022,Cloud Net Cable and Telecom
@@ -939,7 +940,7 @@ ASN,Organization
 197540,netcup GmbH
 197549,GHOSTnet GmbH
 197648,CLOUDLAYER8 LIMITED
-197649,
+197649,ServersGame.es
 197715,Serverbike
 197726,Ukrainian Internet Names Center
 197795,ColdHosting
