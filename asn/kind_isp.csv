@@ -297,6 +297,7 @@ ASN,Organization
 11272,C Spire Fiber
 11367,WORLDNETPR
 11432,Telium Telecomunicações Ltda
+11522,Greater Sudbury Telecommunications Inc.
 11722,Westelcom Networks
 11727,Bruce Telecom
 11749,Smart City Telecom AS11749
@@ -749,6 +750,7 @@ ASN,Organization
 25549,JSC Avantel
 25592,NETIS Telecom LLC
 25637,The Park Region Mutual Telephone Co
+25651,GRTI-NW
 25671,Wholesale Air-time
 25769,Garden Valley Telephone Company
 25830,Blue Valley Tele-communications Inc.
@@ -773,6 +775,7 @@ ASN,Organization
 26760,Southern Kansas Telephone Co. Inc.
 26860,SWIFTEL COMMUNICATIONS
 26932,BRAVO TELECOM
+27008,BendTel
 27221,Ardmore Telephone Company Inc
 27284,Fourplex Telecom
 27294,RTC Reserve Telecommunications
@@ -2088,6 +2091,7 @@ ASN,Organization
 53238,Chapecó tecnologia em telecomunicação ltda
 53256,Mulberry Telecommunications
 53460,Mon-Cre Telephone Cooperative Inc.
+53507,Millry Telephone
 53586,Wittenberg Telephone Company
 53823,Scio Mutual Telephone Association
 53828,Nitel
@@ -2481,6 +2485,7 @@ ASN,Organization
 62423,Telecom Center
 62446,NIKA-TELECOM LLC
 62592,HOPI TELECOMMUNICATIONS
+62637,MOUNDVILLE TELEPHONE COMPANY INC.
 62886,OMNITEL
 63100,Carnegie Telephone Company Inc.
 63107,Bijou Telephone Co-op Association Inc.
@@ -5323,7 +5328,6 @@ ASN,Organization
 269231,BIOS NETWORKS TELECOMUNICAÇÕES
 269238,Rede Tocantins de Telecomunicacao LTDA
 269243,RedeVista Telecom
-269245,Cabo Fibra Telecom
 269246,VCONNECT TELECOM
 269249,Nexo Telecom LTDA
 269250,EVOLUCAO TELECOM LTDA
@@ -6074,7 +6078,7 @@ ASN,Organization
 271576,DECOLAR TELECOMUNICACOES LTDA
 271577,CLIKPOWER TELECOMUNICACOES EIRELI
 271580,R.P.A Telecom
-271582,NETCON TELECOMUNICACOES LTDA
+271582,NETCON TELECOMUNICACOES
 271590,HELOISA SAMPAIO PINTO TELECOMUNICACOES
 271592,NETS PROVEDOR DE INTERNET TELECOM
 271596,MaxNet Telecom
@@ -6224,7 +6228,7 @@ ASN,Organization
 272998,WORLD SISTEM TELECOM WST S.A.S.
 273000,Telcom Mikrotik Peru
 273001,TELECOMUNICACIONES DEL CATATUMBO
-273006,INTERNET Y TELECOMUNICACIONES DE COLOMBIA S.A.S.
+273006,273006
 273009,NEXTELECOM S.R.L.
 273013,BLUE TELECOMUNICACIONES SAS
 273019,DIRECTV CHILE TELEVISION LIMITADA
@@ -6483,7 +6487,9 @@ ASN,Organization
 396056,EAGLE TELEPHONE SYSTEM INC
 396338,Altima TRT
 396990,Monticello - Wayne County Telecommunication Board
+397016,Hawkeye Telephone Company
 397285,Cambridge Telephone
+397298,Peoples Telecommunications LLC
 397361,Poka Lambro Telephone Cooperative Inc.
 397455,The Hancock Telephone Company
 398041,XCD-TELECOM
@@ -6491,6 +6497,7 @@ ASN,Organization
 398305,N4 Mobile
 398734,Fleettel INC
 398839,ALLIANCE TELECOM
+398944,DIGITELWEBS INC
 399111,In-Telecom Consulting
 399194,Satronics Satellites Sales and Service
 399327,CONNECT MOBILITY
@@ -6499,6 +6506,7 @@ ASN,Organization
 399494,Brooke Telecom Cooperative
 399844,Saskatchewan Telecommunications
 399893,Richmond Telephone Company LLC
+400114,Apogee Telecom Inc.
 400132,Reinbeck Telecommunications Utility
 400155,Manchester-Hartland Telephone Company
 400180,Farmers Mutual Telephone Company Stanton
