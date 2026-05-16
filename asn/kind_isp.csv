@@ -49,7 +49,7 @@ ASN,Organization
 3462,HiNet
 3695,SPM TELECOM
 3737,PenTeleData
-3748,Electronics and Telecommunications Research Institute
+3748,
 3816,COLOMBIA TELECOMUNICACIONES S.A. ESP
 3848,WorldLinx Telecommunications Inc.
 3853,Whidbey Telephone Company
@@ -2892,7 +2892,6 @@ ASN,Organization
 150576,ZYETEK TELECOM
 150683,Fasttel Broadband
 150806,R. C. Yulo Telephone System Inc.
-150955,Mitra Integra Telekom
 150968,JARTEL
 150989,Media Akses Telematika
 150998,PT Atmega Telecomindo Nusantara
@@ -5309,7 +5308,6 @@ ASN,Organization
 269164,planoip telecom
 269170,Sp-link Telecom Comunicacao Multimidia - Scm LTDA
 269172,JCM NET TELECOM LTDA
-269173,TECNET TELECOM
 269174,FIXANET TELECOM PROVEDOR DE INTERNET
 269177,NEUTRA TELECOMUNICACOES DO BRASIL LTDA
 269178,J IVANILDO DE SALES MACIEL
@@ -6489,6 +6487,7 @@ ASN,Organization
 395685,Ontario Telephone Company Inc
 395768,iTeraTEL Communications Inc
 395795,Cherokee Telephone Company
+395866,Fort Mojave Television Inc.
 395965,Carrytel
 396056,EAGLE TELEPHONE SYSTEM INC
 396338,Altima TRT
