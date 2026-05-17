@@ -711,7 +711,7 @@ ASN,Organization
 64236,UnReal Servers
 64290,Server ISP
 64425,
-64439,RocketCloud.ru
+64439,
 64457,Matteo Fruhwald trading as PipeHost e.U.
 131149,Yuan-Jhen Info
 131199,Nexeon Technologies Inc.
@@ -1343,6 +1343,7 @@ ASN,Organization
 216030,GoodLeaf Hosting & Development LLC
 216032,CLOUD-UXE
 216054,vip-host
+216058,
 216071,VDSINA
 216099,
 216127,NUXTCLOUD
@@ -1451,7 +1452,7 @@ ASN,Organization
 395881,
 395954,LeaseWeb USA / LAX-12
 396073,Spin Servers
-396158,
+396158,HostCircle Inc.
 396190,LeaseWeb USA / SEA-11
 396319,CloudVPN Inc.
 396356,Latitude.sh AS396356
