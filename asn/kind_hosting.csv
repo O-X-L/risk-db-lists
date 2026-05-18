@@ -438,6 +438,7 @@ ASN,Organization
 45903,CMC Telecom
 45974,NHN Cloud
 46015,Exabytes Network Malaysia
+46177,White Sky Hosting
 46261,QuickPacket
 46475,Limestone Networks
 46505,NixiHost
@@ -1023,7 +1024,7 @@ ASN,Organization
 201449,Digital Absolut Business - Servidor Virtualizacao Cluster Datacenters e Telecomunicacoes Lda
 201525,HZ-CA
 201579,HOSTGNOME LTD
-201670,Infotech-Grup SRL
+201670,
 201702,skHosting.eu s.r.o.
 201814,Mevspace
 201949,Seed Technologies
@@ -1316,7 +1317,7 @@ ASN,Organization
 215311,REGXA-CLOUD
 215316,
 215339,CLOUD FOREST INFRASTRUCTURE S.R.L.
-215346,Big Data Host LLC
+215346,
 215370,Wasabi Hosting
 215375,Luca Nowak
 215376,ML Cloud Ltd
@@ -1343,7 +1344,6 @@ ASN,Organization
 216030,GoodLeaf Hosting & Development LLC
 216032,CLOUD-UXE
 216054,vip-host
-216058,
 216071,VDSINA
 216099,
 216127,NUXTCLOUD
@@ -1492,7 +1492,7 @@ ASN,Organization
 400402,Hosting Bot
 400469,CLAVERACK COMMUNICATIONS LLC
 400587,Ryamer
-400596,ELIXIOR-CLOUD
+400596,ELIXIOR.CLOUD
 400618,PSC
 400619,AROSSCLOUD
 400716,
