@@ -10,6 +10,7 @@ ASN,Organization
 1267,WINDTRE
 1299,Arelion (Twelve99)
 1378,Interbel Telephone Cooperative Inc.
+1611,Mabel Cooperative Telephone Company
 1640,Thacker-Grigsby Communications
 1729,Telia Company AB
 1759,Telia Finland
@@ -116,6 +117,7 @@ ASN,Organization
 6412,Zajil International Telecom Company K.S.C.C
 6471,entel Chile Servicios Fijos
 6503,Axtel S.A.B. de C.V.
+6528,SOUTH ARKANSAS TELEPHONE COMPANY
 6535,Telmex Servicios Empresariales AS6535
 6559,State of NC - State Telecommunications Services
 6568,Entel S.A. - EntelNet
@@ -623,6 +625,7 @@ ASN,Organization
 21565,Horry Telephone Cooperative Inc.
 21574,CENTURY TELECOM
 21575,ENTEL PERU S.A.
+21577,TOLEDOTELNET
 21713,BULLOCH
 21730,Halstad Telephone Company
 21766,Ben Lomand Connect
@@ -985,7 +988,7 @@ ASN,Organization
 29357,Ooredoo Kuwait (Wataniya Telecom)
 29388,Best Telecom ISP
 29399,Ramtek
-29420,PJSC Promtelecom
+29420,
 29422,Nebula Oy
 29449,ip telecom
 29456,PJSC Rostelecom
@@ -1633,7 +1636,6 @@ ASN,Organization
 47530,Novokuznetsk Telecom Ltd
 47531,OskolTelecom
 47588,TEL COMMUNICATIONS L.L.C.
-47618,
 47655,LINKINTEL
 47688,Fastic
 47702,Discovery
@@ -1684,7 +1686,7 @@ ASN,Organization
 48408,Localitel
 48424,GLOBITEL
 48438,Corbina Telecom AS48438
-48478,Vostok Telecom
+48478,
 48479,KUBAN-TELECOM Ltd.
 48503,Tele2 Kazakhstan
 48511,Sector Telecom Ltd.
@@ -2110,6 +2112,7 @@ ASN,Organization
 54512,Chickamauga Telephone Corporation
 54523,Warm Springs Telecom
 54579,Chariton Valley Telephone Corporation
+54607,Apogee Telecom Inc.
 54614,CIK Telecom
 54646,Hardy Telecommunications
 54841,TELUS Communications (AS54841)
@@ -3015,7 +3018,7 @@ ASN,Organization
 198232,ZAKLAD TELEWIZJI KABLOWEJ 'TELE-KAB' MARIANNA GRYGA HENRYK SMYREK S.C.
 198271,
 198279,Albanian Telecommunications Union
-198295,JSC 'ER-Telecom Holding'
+198295,
 198335,TRANSATEL EUROPE
 198355,I.T.M. Instalaciones y Mantenimiento de Telecomunicaciones S.L.
 198367,ASINKOTEL
@@ -3744,7 +3747,7 @@ ASN,Organization
 263343,PC2 TELECOM
 263344,wr net informática e telecomunicações ltda
 263345,Power Tech
-263346,Fonte Informática
+263346,
 263357,Hot Wave Comercio e Servico de Telecomunicacoes Lt
 263362,SPEEDNET TELECOM
 263377,DLP-COM Serviços de Telecomunicações
