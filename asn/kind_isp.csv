@@ -621,6 +621,7 @@ ASN,Organization
 21479,PJSC Rostelecom
 21487,PJSC Rostelecom
 21491,Uganda Telecom
+21515,SISKIYOU TELEPHONE COMPANY
 21555,LAUREL HIGHLAND TELEPHONE COMPANY
 21565,Horry Telephone Cooperative Inc.
 21574,CENTURY TELECOM
@@ -855,7 +856,7 @@ ASN,Organization
 28181,MASTER TELECOM LTDA ME
 28184,Interjato Serviços de Telecomunicações
 28186,ITS Telecomunicações
-28187,Stratus Telecomunicacoes
+28187,Stratus Telecomunicações
 28191,Jupiter Telecom
 28201,VALENET
 28207,Teleon Telecomunicacoes Ltda
@@ -1367,9 +1368,11 @@ ASN,Organization
 39944,3U Telecom Inc
 40020,Farmers Telecommunications Cooperative Inc.
 40076,DOVETEL COMMUNICATIONS LLC.
+40224,Selectcom Telecom
 40230,Columbus Telephone Company
 40237,United Telephone Company
 40285,NORTHLAND-CABLE
+40429,SETEL
 40564,Vocom International Telecommunication INC
 40641,MGW Telephone Company Inc.
 40837,Goldfield Telephone Company LLC
@@ -2913,7 +2916,7 @@ ASN,Organization
 151583,Satelit Global Media
 151590,PT Pandawa Global Telematika
 151653,General Telephone System
-151678,Iriga Telephone Company Inc.
+151678,
 151707,Ethen Teleinfra Private Limited
 151732,Onremote Telecom
 151749,Virtel Communications Private Limited
@@ -6495,6 +6498,7 @@ ASN,Organization
 395795,Cherokee Telephone Company
 395866,Fort Mojave Television Inc.
 395965,Carrytel
+396010,Franklin Telephone Company Inc
 396056,EAGLE TELEPHONE SYSTEM INC
 396338,Altima TRT
 396990,Monticello - Wayne County Telecommunication Board
