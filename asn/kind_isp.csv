@@ -1014,6 +1014,7 @@ ASN,Organization
 30263,Cal-Ore Telephone
 30325,SSTC NET
 30341,South Central Telephone Association
+30481,Citizens Telecommunication Technologies Inc
 30530,Farmers Mutual Telephone Company
 30619,Telecomunicacoes de Mocambique
 30666,Xchange Telecom Corp.
@@ -1425,6 +1426,7 @@ ASN,Organization
 41813,LLC ONLINETELECOM
 41843,JSC 'ER-Telecom Holding'
 41844,'Urban Mobility Center' EAD
+41876,
 41877,Railway Telecom Ltd
 41901,TELELINK BUSINESS SERVICES EAD
 41925,IZET-Chelyabinsk
@@ -2551,6 +2553,7 @@ ASN,Organization
 132215,Powergrid Teleservices Limited
 132225,China Telecom
 132447,Hutchison Telecommunications Lanka
+132462,
 132497,DNA Infotel Private Limited
 132510,IDC ShanXi China Mobile communications corporation
 132518,Sheen Telecom Consultants AS132518
@@ -2916,7 +2919,7 @@ ASN,Organization
 151583,Satelit Global Media
 151590,PT Pandawa Global Telematika
 151653,General Telephone System
-151678,
+151678,Iriga Telephone Company Inc.
 151707,Ethen Teleinfra Private Limited
 151732,Onremote Telecom
 151749,Virtel Communications Private Limited
@@ -2936,7 +2939,7 @@ ASN,Organization
 152525,Jetsys Telelink Opc Private Limited
 152681,FMKC TELECOM
 152830,Elemen Jaringan Nusantara
-152842,PT Gesang Jaya Telekomunikasi
+152842,
 153073,PT KANAL TELU MULTITEKNOLOGI
 153087,PT Telemedia Prima Nusantara - AS153087
 153128,PT Techchandra Solusi Telematika
@@ -4735,7 +4738,6 @@ ASN,Organization
 267265,DINAMICA TELECOM LTDA
 267277,JORGE LS MARTINS TELECOM INFORMATICA
 267281,GIGANET TELECOM (AS267281)
-267286,DJG PROVEDOR E SERVICOS DE TELECOMUNICACOES
 267288,PONGAR TELECOM
 267291,satynet telecom ltda -me
 267297,NETUNO DO BRASIL TELECON Network
@@ -6238,7 +6240,7 @@ ASN,Organization
 272939,TELECOMNET
 272957,TELECOMUNICACIONES MARJORIE ANDREA MORI LAGOS E.I.R.L.
 272969,HOGARES INTELIGENTES S. A.
-272990,AYSATEC TELECOMUNICACIONES S.A.S.
+272990,272990
 272998,WORLD SISTEM TELECOM WST S.A.S.
 273000,Telcom Mikrotik Peru
 273001,TELECOMUNICACIONES DEL CATATUMBO
@@ -6478,6 +6480,7 @@ ASN,Organization
 394625,WhiteLabel IT Solutions
 394708,Horizon Telcom Inc.
 394710,TelMAX
+394728,Miles Cooperative Telephone Association
 394778,Northeast Missouri Rural Telephone Co.
 394869,APNC
 394891,Commonwealth Flats Development Hotel Corp.
@@ -6527,6 +6530,7 @@ ASN,Organization
 400155,Manchester-Hartland Telephone Company
 400180,Farmers Mutual Telephone Company Stanton
 400212,VergeTel Group LLC
+400251,Oneida Telephone Exchange
 400385,Citizens Telephone Corporation
 400439,Consolidated Telcom
 400610,Middle Michigan Network for Educational Telecommunications
