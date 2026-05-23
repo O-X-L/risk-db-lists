@@ -9,6 +9,7 @@ Googlebot/2.1 +http://***
 Java/1.8.0_322
 Mozilla/5.0
 Mozilla/5.0 Android 11; Mobile; rv:123.0 Gecko/123.0 Firefox/123.0
+Mozilla/5.0 Android 13; Mobile; rv:117.0 Gecko/117.0 Firefox/117.0
 Mozilla/5.0 Android 8.1.0; Mobile; rv:123.0 Gecko/123.0 Firefox/123.0
 Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; Amazonbot/0.1; +https://*** Chrome/119.0.6045.214 Safa
 Mozilla/5.0 AppleWebKit/537.36 KHTML like Gecko; compatible; ChatGPTUser/1.0; +https://*** 

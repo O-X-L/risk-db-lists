@@ -110,6 +110,7 @@ ASN,Organization
 6147,Telefonica Del Perú
 6181,Cincinnati Bell Telephone
 6306,Telefonica Venezolana C.A.
+6312,TrioTel Communications Inc.
 6327,Shaw Cablesystems
 6368,Northwestern Indiana Telephone Co.
 6400,Claro Dominicana
@@ -398,6 +399,7 @@ ASN,Organization
 14559,Ballard Rural Telephone Cooperative Corporation Inc.
 14569,Intellipop LLC
 14703,MARQUETTE-ADAMS TELEPHONE COOPERATIVE INC.
+14731,Beauce Telecom
 14746,NocTel Communications Inc.
 14750,Sierra Tel Internet
 14754,Telgua
@@ -637,6 +639,7 @@ ASN,Organization
 21921,New Hope Telephone Cooperative
 21928,T-Mobile USA
 22056,Sitel
+22079,Alaska Power & Telephone Company
 22110,Ligtel Communications Inc.
 22324,XTEL
 22346,Newroads Telecom
@@ -1993,7 +1996,7 @@ ASN,Organization
 52781,Pertec Servicos de Telecomunicacoes
 52783,ALCANS TELECOM LTDA
 52787,MAX TELECOM PROVEDOR DE ACESSO A INTERNET
-52788,Meganet Telecomunicaçoes e Internet LTDA
+52788,
 52790,CONECTA NET TELECOMUNICAÇÕES LTDA ME
 52793,Kelvyn Sat Comércio e telecomunicações Ltda
 52795,One Telecom
@@ -2939,6 +2942,7 @@ ASN,Organization
 152436,Erajaya Telco Indonesia
 152438,BTELID
 152490,WESTERNEDGE TELECOMMUNICATIONS PRIVATE LIMITED
+152500,TELEX INFO PRIVATE LIMITED
 152525,Jetsys Telelink Opc Private Limited
 152681,FMKC TELECOM
 152830,Elemen Jaringan Nusantara
@@ -5927,6 +5931,7 @@ ASN,Organization
 271160,CONNECT FIBRA SERVICOS DE TELECOMUNICACAO
 271161,ALCANTARA SERVIÇOS DE TELECOMUNICAÇÕES - EIRELI
 271162,MEGA JLA SERVICOS DE TELECOMUNICACOES LTDA
+271164,Hnet Telecom
 271166,You Telecom Provedor de Internet Ltda
 271169,NETLINE TELECOM
 271170,LEVNET TELECOM E INFORMATICA LTDA
@@ -6432,7 +6437,7 @@ ASN,Organization
 328646,INFRATEL Zambia
 328652,Hirani Telecommunication ltd
 328658,Choice2mobile Technology Ltd
-328704,Wifiza Telecoms cc
+328704,
 328723,Telasera
 328733,AWAL TELECOM & TECHNOLOGY
 328755,Digitel Holdings Limited
@@ -6482,6 +6487,7 @@ ASN,Organization
 394333,TRANSATEL US
 394473,Brantley Telephone Company Inc.
 394474,WhiteLabelColo
+394510,Zitel
 394625,WhiteLabel IT Solutions
 394708,Horizon Telcom Inc.
 394710,TelMAX
