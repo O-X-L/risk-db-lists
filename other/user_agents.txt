@@ -68,6 +68,7 @@ Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Geck
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/131.0.0.0 Safari/537.36; compatible; OAISearchBot/1.0; robots
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/131.0.0.0 Safari/537.36; compatible; OAISearchBot/1.3; +https
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/131.0.0.0 Safari/537.36; compatible; OAISearchBot/1.3; robots
+Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/131.0.0.0 Safari/537.36; compatible; OAISearchBot/1.4; robots
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/133.0.0.0 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/136.0.0.0 Safari/537.36
 Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7 AppleWebKit/537.36 KHTML like Gecko Chrome/139.0.0.0 Safari/537.36
