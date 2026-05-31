@@ -577,6 +577,7 @@ ASN,Organization
 20436,Prairie Grove Telephone Co.
 20477,Randolph Telephone Company
 20485,TransTelecom
+20578,JSC Kazteleradio
 20634,Telecom Liechtenstein AG
 20661,State Company of Electro Communications Turkmentelecom
 20686,Bisping & Bisping GmbH & Co. KG
@@ -1073,6 +1074,7 @@ ASN,Organization
 31721,Azercell Telecom
 31726,Telefiber
 31841,NEW KNOXVILLE TELEPHONE COMPANY
+31920,Geetingsville Telephone Co. Inc.
 31996,Zoom Telcom LLC
 32012,HD Telecom Inc.
 32040,Trenton Telephone Company
@@ -2127,6 +2129,7 @@ ASN,Organization
 54614,CIK Telecom
 54646,Hardy Telecommunications
 54841,TELUS Communications (AS54841)
+55076,Johnson Telephone Company
 55230,Pulaski White Rural Telephone Cooperative Inc.
 55254,WaveDirect Telecommunications
 55309,Minh Tu Telecom Limited Company
@@ -2843,7 +2846,7 @@ ASN,Organization
 142381,Mactel
 142400,IDTEL
 142404,China Telecom AS142404
-142445,WAVENET INFRATEL PRIVATE LIMITED
+142445,
 142453,Jetway
 142477,NIVID TELECOM INDIA PRIVATE LIMITED
 142513,LEVOTEL BIGNET SOLUTIONS PVT LTD
@@ -4449,7 +4452,7 @@ ASN,Organization
 266129,LOCALLINK TELECOMUNICAÇÕES LTDA - ME
 266132,VTX NET TELECOM LTDA
 266136,R. P. DE B. ALVES SERVICOS E TELECOMUNICACOES
-266139,ZENAIDE ALVES DE SOUZA OLIVEIRA E CIA LTDA - ME
+266139,InfoBR Telecom
 266140,CMC Telecom EIRELI - ME
 266142,Bahiadados Telecom
 266146,Inove Telecom
@@ -6013,7 +6016,7 @@ ASN,Organization
 271337,LIKENET
 271338,TITAM NET TELECOM
 271339,ZEUSNET TELECOM
-271341,IDM Telecom
+271341,ASN271341
 271342,NORTE TEL MATO GROSSO TELECOMUNICACOES LTDA
 271343,REAJNet Telecomunicações
 271344,GERENCIA TELECOMUNICAÇÕES LTDA - ME
@@ -6537,6 +6540,7 @@ ASN,Organization
 399327,CONNECT MOBILITY
 399435,Lipan Telephone Company
 399439,Mitchell Telecom
+399457,NEW WINDSOR TELEPHONE
 399494,Brooke Telecom Cooperative
 399690,Devtel Communications Inc
 399844,Saskatchewan Telecommunications
@@ -6555,3 +6559,4 @@ ASN,Organization
 400666,Dobson Technologies - Transport and Telecom Solutions LLC
 400933,Citizens Telephone Company of Higginsville Missouri
 401037,Apogee Telecom Inc.
+401375,Nyecom Teleservices
