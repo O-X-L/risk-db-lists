@@ -153,7 +153,6 @@ ASN,Organization
 7418,Movistar ISP
 7438,Telefonica Mexico (Movistar)
 7474,SingTel Optus
-7516,Tohoku Intelligent Telecommunication
 7545,TPG Telecom
 7552,Viettel
 7602,Saigon Postel Corp.
@@ -565,6 +564,7 @@ ASN,Organization
 19970,R&R Managed Telecom Services
 19990,ZetaNET Telecom
 20002,Telstar S.A.
+20014,West River Cooperative Telephone Company
 20018,Moapa Valley Telephone
 20030,Artelco
 20058,Totelcom Communications LLC
@@ -914,7 +914,7 @@ ASN,Organization
 28432,Telecable del Mineral
 28439,Mediared Telecomunicaciones S.A de C.V.
 28445,TECNOLOGIA EN TELECOMUNICACIONES DEL CENTRO S.A. DE C.V
-28453,GK TELECOMUNICACIONES
+28453,28453
 28458,IENTC Telecom Mexico
 28481,SERVICIO Y EQUIPO EN TELEFONÍA INTERNET Y TV S.A. DE C.V.
 28509,izzi telecom (AS28509)
