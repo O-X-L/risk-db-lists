@@ -288,7 +288,7 @@ ASN,Organization
 10821,PIONEERINTERNET
 10834,Telefonica Empresas
 11014,CPS
-11061,Antelecom Inc.
+11061,
 11067,PTSINET
 11081,United Telecommunication Services UTS
 11084,Huron Telecommunications Cooperative
@@ -531,6 +531,7 @@ ASN,Organization
 18734,Bestel
 18780,Reservation Telephone Coop.
 18785,Santel Communications Cooperative Inc.
+18811,
 18881,TELEFÔNICA BRASIL AS18881
 18892,Ellington Telephone Company
 18914,ETS TELECOM
@@ -638,6 +639,7 @@ ASN,Organization
 21779,Harlan Community Television Inc.
 21782,Plateau Telecommunications
 21826,Corporación Telemic Network
+21902,West Central Telephone Assn
 21921,New Hope Telephone Cooperative
 21928,T-Mobile USA
 22056,Sitel
@@ -1300,6 +1302,7 @@ ASN,Organization
 37575,UNITEL T Telecomunicacoes Sociedade Unipessoal S.A.
 37586,ONATEL
 37605,I-WORLD NETWORKS
+37613,DOLPHIN TELECOMMUNICATION LIMITED
 37616,Airtel Gabon
 37622,Mahanagar Telephone (Mauritius)
 37673,Telemasters
@@ -2825,7 +2828,7 @@ ASN,Organization
 141087,PT Karya Panca Telekomunikasi
 141146,Indonesia Telekomunikasi Teknologi
 141269,Fast Net Telecommunications Private Limited
-141285,Octel Network
+141285,
 141395,netElastic Technologies
 141509,Uteleservices
 141596,Wistel Teknologi Solusi
@@ -2884,7 +2887,7 @@ ASN,Organization
 149357,Ultra Mandiri Telekomunikasi
 149360,Indo Telemedia Solusi
 149422,VYBETELECOM
-149526,GITELENET
+149526,
 149558,SINGH TELEVENTURES
 149570,Speech Tell Communication Private Limited
 149618,GRASTEL NETWORKS
@@ -5068,7 +5071,7 @@ ASN,Organization
 268329,ONLINE TELECOMUNICACOES LTDA
 268330,LOUZEIRO & MORAIS
 268331,LINK BARATO
-268335,ORACLON TELECOM
+268335,ASN268335
 268336,A Fróes da Mota telecomunicaçoes
 268339,MOBILLE TELECOM
 268344,TECKLINK NET
