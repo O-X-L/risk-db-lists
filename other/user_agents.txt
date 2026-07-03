@@ -107,6 +107,7 @@ Mozilla/5.0 Windows NT 10.0; WOW64; x64 AppleWebKit/537.36 KHTML like Gecko Chro
 Mozilla/5.0 Windows NT 10.0; Win64; x64
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 Chrome/116.0 Safari/537.36
+Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/100.0.4896.75 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/101.0.4951.67 Safari/537.36
 Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML like Gecko Chrome/104.0.0.0 Safari/537.36
@@ -275,6 +276,7 @@ Mozilla/5.0 compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0
 Mozilla/5.0 compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com
 Mozilla/5.0 compatible; SERankingBacklinksBot/1.0; +https://*** 
 Mozilla/5.0 compatible; Timpibot/0.8; +http://*** 
+Mozilla/5.0 compatible; YandexBot/3.0; +http://*** 
 Mozilla/5.0 compatible; archive.org_bot +http://*** Zeno/a07610d warc/v0.8.85
 Mozilla/5.0 compatible; bingbot/2.0; +http://*** 
 Mozilla/5.0 iPad; CPU OS 16_7_2 like Mac OS X AppleWebKit/605.1.15 KHTML like Gecko Version/16.6 Mobile/15E148 Safari/604.1
